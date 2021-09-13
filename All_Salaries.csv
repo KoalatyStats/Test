@@ -244,6 +244,7 @@
 "Aaron Jones","RB",2020,16,7500,8600,7100
 "Aaron Jones","RB",2020,17,7100,8000,NA
 "Aaron Jones","RB",2021,1,6800,NA,NA
+"Aaron Parker","WR",2021,1,3000,NA,NA
 "Aaron Ripkowski","RB",2015,1,3000,4500,NA
 "Aaron Ripkowski","RB",2016,1,3000,4500,3000
 "Aaron Ripkowski","RB",2016,2,3000,4500,3000
@@ -960,6 +961,7 @@
 "Alec Ingold","RB",2020,15,4000,4500,4000
 "Alec Ingold","RB",2020,16,4000,4500,4000
 "Alec Ingold","RB",2020,17,4000,4500,NA
+"Alec Ingold","RB",2021,1,4000,NA,NA
 "Alex Armah","RB",2018,1,3000,4500,3000
 "Alex Armah","RB",2018,2,3000,4500,3000
 "Alex Armah","RB",2018,3,3000,4500,3000
@@ -1598,6 +1600,7 @@
 "Allen Robinson","WR",2020,15,7400,7300,7700
 "Allen Robinson","WR",2020,16,7700,7500,7700
 "Allen Robinson","WR",2020,17,7700,7700,NA
+"Allen Robinson II","WR",2021,1,6100,NA,NA
 "Alonzo Harris","RB",2015,3,3000,5000,3000
 "Alonzo Harris","RB",2015,4,3000,5000,3000
 "Alonzo Harris","RB",2015,5,3000,5000,3000
@@ -2517,6 +2520,7 @@
 "Andy Dalton","QB",2020,15,5400,6700,5500
 "Andy Dalton","QB",2020,16,5500,6900,5600
 "Andy Dalton","QB",2020,17,5600,7100,NA
+"Andy Dalton","QB",2021,1,4900,NA,NA
 "Andy Isabella","WR",2019,1,3400,4600,3300
 "Andy Isabella","WR",2019,3,3300,4500,3100
 "Andy Isabella","WR",2019,4,3100,4500,3200
@@ -3292,6 +3296,7 @@
 "Arrelious Benn","WR",2017,7,3000,4500,3000
 "Arrelious Benn","WR",2017,9,3000,4500,3000
 "Arrelious Benn","WR",2017,10,3000,4500,NA
+"Artavis Pierce","RB",2021,1,4000,NA,NA
 "Asante Cleveland","TE",2015,14,2500,4500,2500
 "Asante Cleveland","TE",2015,15,2500,4500,NA
 "Asante Cleveland","TE",2016,4,2500,4500,2500
@@ -3582,6 +3587,7 @@
 "Austin Traylor","TE",2017,17,2500,4500,NA
 "Austin Walter","RB",2021,1,4000,NA,NA
 "Austin Watkins Jr.","WR",2021,1,3000,NA,NA
+"B.J. Emmons","RB",2021,1,4000,NA,NA
 "Bailey Gaither","WR",2021,1,3000,NA,NA
 "Baker Mayfield","QB",2018,3,4600,6100,5300
 "Baker Mayfield","QB",2018,4,5300,6900,5300
@@ -3645,6 +3651,7 @@
 "Bear Pascoe","TE",2014,15,3000,4500,3000
 "Bear Pascoe","TE",2014,16,3000,4500,3000
 "Bear Pascoe","TE",2014,17,3000,4500,NA
+"Bears","DST",2021,1,2800,NA,NA
 "Ben Braunecker","TE",2016,8,2500,4500,2500
 "Ben Braunecker","TE",2016,10,2500,4500,2500
 "Ben Braunecker","TE",2016,11,2500,4500,2500
@@ -3730,6 +3737,7 @@
 "Ben Koyack","TE",2019,15,2500,4000,2500
 "Ben Koyack","TE",2019,16,2500,4000,2500
 "Ben Koyack","TE",2019,17,2500,4000,NA
+"Ben Mason","RB",2021,1,4000,NA,NA
 "Ben Roethlisberger","QB",2014,1,7600,7800,7300
 "Ben Roethlisberger","QB",2014,2,7300,7800,6800
 "Ben Roethlisberger","QB",2014,3,6800,7700,6900
@@ -3820,6 +3828,7 @@
 "Ben Roethlisberger","QB",2020,15,6500,7700,6400
 "Ben Roethlisberger","QB",2020,16,6400,7500,NA
 "Ben Roethlisberger","QB",2021,1,6100,NA,NA
+"Ben Skowronek","WR",2021,1,3000,NA,NA
 "Ben Tate","RB",2014,1,5200,7400,5000
 "Ben Tate","RB",2014,5,5000,6200,5500
 "Ben Tate","RB",2014,6,5500,6800,5300
@@ -4174,6 +4183,7 @@
 "Bilal Powell","RB",2019,16,3600,5000,3800
 "Bilal Powell","RB",2019,17,3800,4500,NA
 "Bills","DST",2021,1,2500,NA,NA
+"Binjimen Victor","WR",2021,1,3000,NA,NA
 "Bishop Sankey","RB",2014,1,5700,6600,3000
 "Bishop Sankey","RB",2014,2,3000,5900,3100
 "Bishop Sankey","RB",2014,3,3100,5900,4100
@@ -5488,6 +5498,7 @@
 "Brett Hundley","QB",2019,8,4200,6000,4500
 "Brett Hundley","QB",2019,16,4500,6000,4500
 "Brett Hundley","QB",2019,17,4500,7000,NA
+"Brett Hundley","QB",2021,1,4000,NA,NA
 "Brett Rypien","QB",2020,4,5500,6500,4800
 "Brett Rypien","QB",2020,7,4800,6100,NA
 "Brett Rypien","QB",2021,1,4000,NA,NA
@@ -5626,6 +5637,7 @@
 "Brian Leonhardt","TE",2014,11,3000,4500,3000
 "Brian Leonhardt","TE",2014,12,3000,4500,3000
 "Brian Leonhardt","TE",2014,13,3000,4500,NA
+"Brian Lewerke","QB",2021,1,4000,NA,NA
 "Brian Parker","TE",2015,10,2500,4500,2500
 "Brian Parker","TE",2015,11,2500,4500,2500
 "Brian Parker","TE",2015,12,2500,4500,2500
@@ -5934,6 +5946,7 @@
 "Bryan Edwards","WR",2020,15,3000,4700,3000
 "Bryan Edwards","WR",2020,16,3000,4700,3000
 "Bryan Edwards","WR",2020,17,3000,4700,NA
+"Bryan Edwards","WR",2021,1,3600,NA,NA
 "Bryan Walters","WR",2014,2,3000,4500,3000
 "Bryan Walters","WR",2014,3,3000,4500,3000
 "Bryan Walters","WR",2014,5,3000,4500,3000
@@ -5970,6 +5983,7 @@
 "Bryce Brown","RB",2014,15,3000,5200,NA
 "Bryce Brown","RB",2015,16,3600,5000,3500
 "Bryce Brown","RB",2015,17,3500,5000,NA
+"Bryce Perkins","QB",2021,1,4000,NA,NA
 "Bryce Petty","QB",2016,9,5000,5000,5000
 "Bryce Petty","QB",2016,10,5000,5000,5000
 "Bryce Petty","QB",2016,13,5000,6000,5000
@@ -5993,6 +6007,7 @@
 "Bryce Treggs","WR",2017,8,3000,4500,3000
 "Bryce Treggs","WR",2017,10,3000,4500,3000
 "Bryce Treggs","WR",2017,12,3000,4500,NA
+"Brycen Hopkins","TE",2021,1,2500,NA,NA
 "Buddy Howell","RB",2019,1,3800,4500,3000
 "Buddy Howell","RB",2019,2,3000,4500,3000
 "Buddy Howell","RB",2019,3,3000,4500,3000
@@ -6481,6 +6496,7 @@
 "Cam Akers","RB",2020,14,5100,5900,6600
 "Cam Akers","RB",2020,15,6600,6700,6100
 "Cam Akers","RB",2020,17,6100,6300,NA
+"Cam Akers","RB",2021,1,4000,NA,NA
 "Cam Newton","QB",2014,2,7700,8600,7400
 "Cam Newton","QB",2014,3,7400,8600,7100
 "Cam Newton","QB",2014,4,7100,8000,7200
@@ -8074,6 +8090,7 @@
 "Chris Hogan","WR",2020,3,3700,5000,3500
 "Chris Hogan","WR",2020,4,3500,5600,3000
 "Chris Hogan","WR",2020,5,3000,5100,NA
+"Chris Hogan","WR",2021,1,3000,NA,NA
 "Chris Ivory","RB",2014,1,4300,5300,4800
 "Chris Ivory","RB",2014,2,4800,5700,5000
 "Chris Ivory","RB",2014,3,5000,5800,5300
@@ -9081,6 +9098,7 @@
 "Cole Kmet","TE",2020,15,3000,5100,3000
 "Cole Kmet","TE",2020,16,3000,5400,3000
 "Cole Kmet","TE",2020,17,3000,5000,NA
+"Cole Kmet","TE",2021,1,3800,NA,NA
 "Cole Wick","TE",2016,3,2500,4500,2500
 "Cole Wick","TE",2016,4,2500,4500,2500
 "Cole Wick","TE",2016,5,2500,4500,2500
@@ -9238,6 +9256,7 @@
 "Cooper Kupp","WR",2020,14,6500,6700,7000
 "Cooper Kupp","WR",2020,15,7000,7100,6600
 "Cooper Kupp","WR",2020,16,6600,6800,NA
+"Cooper Kupp","WR",2021,1,5500,NA,NA
 "Cooper Rush","QB",2017,7,4500,6000,4500
 "Cooper Rush","QB",2017,11,4500,6000,NA
 "Cooper Rush","QB",2018,6,4200,6000,NA
@@ -9667,6 +9686,7 @@
 "Courtney Roby","WR",2014,3,3000,4500,3000
 "Courtney Roby","WR",2014,4,3000,4500,3000
 "Courtney Roby","WR",2014,5,3000,4500,NA
+"Craig Reynolds","RB",2021,1,4000,NA,NA
 "Craig Stevens","TE",2014,1,3000,4500,3000
 "Craig Stevens","TE",2014,2,3000,4500,3000
 "Craig Stevens","TE",2014,3,3000,4500,3000
@@ -9867,6 +9887,7 @@
 "D'Onta Foreman","RB",2020,11,4000,4900,4000
 "D'Onta Foreman","RB",2020,12,4000,4900,4000
 "D'Onta Foreman","RB",2020,13,4000,4800,NA
+"D'Onta Foreman","RB",2021,1,4000,NA,NA
 "D'Wayne Eskridge","WR",2021,1,3000,NA,NA
 "D.J. Chark","WR",2018,2,3000,4500,3000
 "D.J. Chark","WR",2018,3,3000,4500,3000
@@ -10372,6 +10393,7 @@
 "Damien Williams","RB",2019,11,5300,6000,4800
 "Damien Williams","RB",2019,16,4800,5600,4700
 "Damien Williams","RB",2019,17,4700,6400,NA
+"Damien Williams","RB",2021,1,4900,NA,NA
 "Damiere Byrd","WR",2017,2,3000,4500,3000
 "Damiere Byrd","WR",2017,3,3000,4500,3000
 "Damiere Byrd","WR",2017,4,3000,4500,3000
@@ -10414,6 +10436,7 @@
 "Damiere Byrd","WR",2020,15,3800,5400,3500
 "Damiere Byrd","WR",2020,16,3500,5400,3400
 "Damiere Byrd","WR",2020,17,3400,5300,NA
+"Damiere Byrd","WR",2021,1,3100,NA,NA
 "Damion Ratley","WR",2018,6,3000,4500,3600
 "Damion Ratley","WR",2018,7,3600,5100,3600
 "Damion Ratley","WR",2018,8,3600,4800,3500
@@ -10953,6 +10976,7 @@
 "Darnell Mooney","WR",2020,15,3900,5300,4000
 "Darnell Mooney","WR",2020,16,4000,5400,4100
 "Darnell Mooney","WR",2020,17,4100,5100,NA
+"Darnell Mooney","WR",2021,1,4000,NA,NA
 "Darrel Williams","RB",2018,14,3000,4500,3000
 "Darrel Williams","RB",2018,15,3000,4500,3500
 "Darrel Williams","RB",2018,16,3500,4500,4100
@@ -11086,6 +11110,7 @@
 "Darrell Henderson","RB",2020,14,4900,5700,4400
 "Darrell Henderson","RB",2020,15,4400,5600,4500
 "Darrell Henderson","RB",2020,16,4500,5600,NA
+"Darrell Henderson Jr.","RB",2021,1,5600,NA,NA
 "Darren Fells","TE",2014,3,3000,4500,3000
 "Darren Fells","TE",2014,6,3000,4500,3000
 "Darren Fells","TE",2014,7,3000,4500,3000
@@ -11329,6 +11354,7 @@
 "Darren Waller","TE",2020,15,6900,7100,7000
 "Darren Waller","TE",2020,16,7000,7700,7100
 "Darren Waller","TE",2020,17,7100,7800,NA
+"Darren Waller","TE",2021,1,7500,NA,NA
 "Darrin Reaves","RB",2014,4,3200,4500,3000
 "Darrin Reaves","RB",2014,5,3000,5000,3100
 "Darrin Reaves","RB",2014,6,3100,5400,3600
@@ -11751,6 +11777,7 @@
 "David Montgomery","RB",2020,15,7000,7300,7700
 "David Montgomery","RB",2020,16,7700,7800,7700
 "David Montgomery","RB",2020,17,7700,8200,NA
+"David Montgomery","RB",2021,1,5700,NA,NA
 "David Moore","WR",2018,1,3000,4500,3000
 "David Moore","WR",2018,2,3000,4500,3000
 "David Moore","WR",2018,3,3000,4500,3000
@@ -11874,12 +11901,14 @@
 "David Njoku","TE",2020,17,2600,4700,NA
 "David Njoku","TE",2021,1,3500,NA,NA
 "David Sills","WR",2021,1,3000,NA,NA
+"David Wells","TE",2021,1,2500,NA,NA
 "David Williams","RB",2018,7,3000,4500,3000
 "David Williams","RB",2018,8,3000,4500,3000
 "David Williams","RB",2018,13,3000,4500,3000
 "David Williams","RB",2018,15,3000,4500,3000
 "David Williams","RB",2018,16,3000,4500,3000
 "David Williams","RB",2018,17,3000,4500,NA
+"Davion Davis","WR",2021,1,3000,NA,NA
 "Davis Mills","QB",2021,1,4000,NA,NA
 "Davis Webb","QB",2021,1,4000,NA,NA
 "Dawson Knox","TE",2019,1,2500,4600,2500
@@ -11911,6 +11940,7 @@
 "Dawson Knox","TE",2021,1,3400,NA,NA
 "Dax Milne","WR",2021,1,3000,NA,NA
 "Dax Raymond","TE",2021,1,2500,NA,NA
+"Dazz Newsome","WR",2021,1,3000,NA,NA
 "De'Angelo Henderson","RB",2017,1,3600,4500,3600
 "De'Angelo Henderson","RB",2017,2,3600,4500,3600
 "De'Angelo Henderson","RB",2017,3,3600,4500,3400
@@ -12296,7 +12326,9 @@
 "Dede Westbrook","WR",2019,17,4200,5300,NA
 "Dede Westbrook","WR",2020,3,3400,4600,3000
 "Dede Westbrook","WR",2020,7,3000,4500,NA
+"Dede Westbrook","WR",2021,1,3000,NA,NA
 "Dedrick Mills","RB",2021,1,4000,NA,NA
+"Dee Eskridge","WR",2021,1,3000,NA,NA
 "Deebo Samuel","WR",2019,1,4000,5200,3700
 "Deebo Samuel","WR",2019,2,3700,4900,4500
 "Deebo Samuel","WR",2019,3,4500,5500,4400
@@ -12708,6 +12740,7 @@
 "Demetrius Harris","TE",2020,14,2500,4100,2500
 "Demetrius Harris","TE",2020,15,2500,4100,2500
 "Demetrius Harris","TE",2020,17,2500,4100,NA
+"Demetrius Harris","TE",2021,1,2500,NA,NA
 "DeMichael Harris","WR",2021,1,3000,NA,NA
 "Denard Robinson","RB",2014,1,3000,4500,3000
 "Denard Robinson","RB",2014,2,3000,4500,3000
@@ -13026,6 +13059,7 @@
 "Derek Carr","QB",2020,15,5700,7200,5100
 "Derek Carr","QB",2020,16,5100,7000,5700
 "Derek Carr","QB",2020,17,5700,7200,NA
+"Derek Carr","QB",2021,1,5500,NA,NA
 "Derek Carrier","TE",2014,1,3000,4500,3000
 "Derek Carrier","TE",2014,2,3000,4500,3000
 "Derek Carrier","TE",2014,3,3000,4500,3000
@@ -13118,6 +13152,7 @@
 "Derek Carrier","TE",2020,15,2500,4000,2500
 "Derek Carrier","TE",2020,16,2500,4000,2500
 "Derek Carrier","TE",2020,17,2500,4000,NA
+"Derek Carrier","TE",2021,1,2500,NA,NA
 "Derek Hagan","WR",2014,1,3000,4500,3000
 "Derek Hagan","WR",2014,2,3000,4500,3000
 "Derek Hagan","WR",2014,3,3000,4500,3000
@@ -13420,6 +13455,7 @@
 "DeSean Jackson","WR",2020,3,5200,5500,3900
 "DeSean Jackson","WR",2020,7,3900,5500,3000
 "DeSean Jackson","WR",2020,16,3000,4500,NA
+"DeSean Jackson","WR",2021,1,3200,NA,NA
 "Deshaun Watson","QB",2017,1,4800,6500,4400
 "Deshaun Watson","QB",2017,2,4400,6700,4700
 "Deshaun Watson","QB",2017,3,4700,7000,5100
@@ -13619,6 +13655,7 @@
 "Devin Duvernay","WR",2020,15,3200,5100,3000
 "Devin Duvernay","WR",2020,16,3000,4900,3000
 "Devin Duvernay","WR",2020,17,3000,5000,NA
+"Devin Duvernay","WR",2021,1,3000,NA,NA
 "Devin Funchess","WR",2015,1,3800,4600,3300
 "Devin Funchess","WR",2015,2,3300,4900,3100
 "Devin Funchess","WR",2015,3,3100,4700,3100
@@ -13682,6 +13719,7 @@
 "Devin Funchess","WR",2018,16,4200,5000,NA
 "Devin Funchess","WR",2019,1,4000,5600,NA
 "Devin Funchess","WR",2021,1,3000,NA,NA
+"Devin Gray","WR",2021,1,3000,NA,NA
 "Devin Hester","WR",2014,1,3400,4500,4300
 "Devin Hester","WR",2014,2,4300,4600,3100
 "Devin Hester","WR",2014,3,3100,4600,4400
@@ -14068,6 +14106,7 @@
 "Dez Bryant","WR",2020,17,3100,5200,NA
 "Dez Fitzpatrick","WR",2021,1,3000,NA,NA
 "Dezmon Patmon","WR",2021,1,3000,NA,NA
+"Dillon Stoner","WR",2021,1,3000,NA,NA
 "Dion Lewis","RB",2015,1,3000,4500,3400
 "Dion Lewis","RB",2015,2,3400,5200,4200
 "Dion Lewis","RB",2015,3,4200,6700,4800
@@ -14268,6 +14307,7 @@
 "Diontae Spencer","WR",2021,1,3000,NA,NA
 "DJ Chark Jr.","WR",2021,1,5800,NA,NA
 "DJ Moore","WR",2021,1,6100,NA,NA
+"DJ Turner","WR",2021,1,3000,NA,NA
 "DK Metcalf","WR",2021,1,7500,NA,NA
 "Dolphins","DST",2021,1,2900,NA,NA
 "Dom Wood-Anderson","TE",2021,1,2500,NA,NA
@@ -15000,6 +15040,7 @@
 "Duke Johnson","RB",2020,12,5700,6100,5800
 "Duke Johnson","RB",2020,13,5800,6000,4800
 "Duke Johnson","RB",2020,14,4800,5400,NA
+"Duke Johnson","RB",2021,1,4300,NA,NA
 "Duke Williams","WR",2019,7,4100,4700,3700
 "Duke Williams","WR",2019,8,3700,4600,3000
 "Duke Williams","WR",2019,17,3000,4500,NA
@@ -15314,6 +15355,7 @@
 "E.J. Manuel","QB",2017,5,4900,6200,NA
 "Eagles","DST",2021,1,2600,NA,NA
 "Easop Winston","WR",2021,1,3000,NA,NA
+"Easop Winston Jr.","WR",2021,1,3000,NA,NA
 "Easton Stick","QB",2020,7,4000,6000,NA
 "Easton Stick","QB",2021,1,4000,NA,NA
 "Ed Dickson","TE",2014,1,3200,4600,3000
@@ -16006,6 +16048,7 @@
 "Eric Tomlinson","TE",2020,1,2500,4000,2500
 "Eric Tomlinson","TE",2020,16,2500,4000,2500
 "Eric Tomlinson","TE",2020,17,2500,4100,NA
+"Eric Tomlinson","TE",2021,1,2500,NA,NA
 "Eric Weems","WR",2014,2,3000,4500,3000
 "Eric Weems","WR",2014,3,3000,4500,4300
 "Eric Weems","WR",2014,4,4300,4600,3000
@@ -16268,6 +16311,7 @@
 "Foster Moreau","TE",2020,15,2500,4500,2500
 "Foster Moreau","TE",2020,16,2500,4500,2500
 "Foster Moreau","TE",2020,17,2500,4300,NA
+"Foster Moreau","TE",2021,1,2500,NA,NA
 "Fozzy Whittaker","RB",2014,2,3000,4500,3000
 "Fozzy Whittaker","RB",2014,6,3000,4500,3000
 "Fozzy Whittaker","RB",2014,10,3000,5300,3000
@@ -16673,6 +16717,7 @@
 "Garrett Gilbert","QB",2019,13,4100,6000,4700
 "Garrett Gilbert","QB",2019,14,4700,6000,NA
 "Garrett Gilbert","QB",2020,9,4800,6300,NA
+"Garrett Gilbert","QB",2021,1,4000,NA,NA
 "Garrett Graham","TE",2014,2,3000,4800,3000
 "Garrett Graham","TE",2014,3,3000,4800,3300
 "Garrett Graham","TE",2014,4,3300,4900,3000
@@ -17193,11 +17238,13 @@
 "Giovani Bernard","RB",2020,15,4500,5500,4800
 "Giovani Bernard","RB",2020,16,4800,6000,5400
 "Giovani Bernard","RB",2020,17,5400,6200,NA
-"Giovanni Ricci","TE",2021,1,2500,NA,NA
+"Giovanni Ricci","TE",2021,1,2500,NA,2500
+"Giovanni Ricci","RB",2021,1,2500,NA,NA
 "Glenn Winston","RB",2014,3,3000,4500,3000
 "Glenn Winston","RB",2014,6,3000,4500,3000
 "Glenn Winston","RB",2014,12,3000,4500,3000
 "Glenn Winston","RB",2014,13,3000,4500,NA
+"Godwin Igwebuike","RB",2021,1,4000,NA,NA
 "Golden Tate","WR",2014,1,5100,5000,5200
 "Golden Tate","WR",2014,2,5200,5000,5000
 "Golden Tate","WR",2014,3,5000,5000,4700
@@ -17301,6 +17348,7 @@
 "Golden Tate","WR",2020,14,3600,5100,3500
 "Golden Tate","WR",2020,15,3500,5100,NA
 "Greg Dortch","WR",2019,9,3000,4500,NA
+"Greg Dortch","WR",2021,1,3000,NA,NA
 "Greg Jennings","WR",2014,1,4500,5500,5100
 "Greg Jennings","WR",2014,2,5100,5700,4200
 "Greg Jennings","WR",2014,3,4200,5500,4500
@@ -17556,6 +17604,7 @@
 "Gus Edwards","RB",2020,15,4400,5500,4400
 "Gus Edwards","RB",2020,16,4400,5700,4900
 "Gus Edwards","RB",2020,17,4900,6100,NA
+"Gus Edwards","RB",2021,1,5600,NA,NA
 "Hakeem Butler","TE",2020,6,2500,4500,2700
 "Hakeem Butler","TE",2020,7,2700,4500,NA
 "Hakeem Butler","TE",2021,1,2500,NA,NA
@@ -17753,6 +17802,7 @@
 "Henry Ruggs III","WR",2020,14,4600,5400,4000
 "Henry Ruggs III","WR",2020,16,4000,5500,3600
 "Henry Ruggs III","WR",2020,17,3600,5000,NA
+"Henry Ruggs III","WR",2021,1,4000,NA,NA
 "Hunter Bryant","TE",2020,15,2500,4000,2500
 "Hunter Bryant","TE",2020,16,2500,4100,2500
 "Hunter Bryant","TE",2020,17,2500,4100,NA
@@ -17844,6 +17894,7 @@
 "Hunter Renfrow","WR",2020,15,3600,5300,3300
 "Hunter Renfrow","WR",2020,16,3300,5300,3900
 "Hunter Renfrow","WR",2020,17,3900,5000,NA
+"Hunter Renfrow","WR",2021,1,3500,NA,NA
 "Hunter Sharp","WR",2017,16,3000,4500,3000
 "Hunter Sharp","WR",2017,17,3000,4500,NA
 "Hunter Thedford","TE",2021,1,2500,NA,NA
@@ -18068,6 +18119,7 @@
 "Isaiah Ford","WR",2020,8,3100,4800,3000
 "Isaiah Ford","WR",2020,16,3000,4700,3000
 "Isaiah Ford","WR",2020,17,3000,4700,NA
+"Isaiah Ford","WR",2021,1,3000,NA,NA
 "Isaiah Hodgins","WR",2021,1,3000,NA,NA
 "Isaiah McKenzie","WR",2017,1,3000,4500,3000
 "Isaiah McKenzie","WR",2017,2,3000,4500,3000
@@ -18232,6 +18284,7 @@
 "J.J. Jones","WR",2018,1,3000,4500,3000
 "J.J. Jones","WR",2018,2,3000,4500,3000
 "J.J. Jones","WR",2018,3,3000,4500,NA
+"J.J. Koski","WR",2021,1,3000,NA,NA
 "J.J. Nelson","WR",2015,1,3000,4500,3000
 "J.J. Nelson","WR",2015,2,3000,4500,3000
 "J.J. Nelson","WR",2015,7,3000,4500,3000
@@ -18312,6 +18365,7 @@
 "J.K. Dobbins","RB",2020,15,5900,5900,6200
 "J.K. Dobbins","RB",2020,16,6200,6300,6700
 "J.K. Dobbins","RB",2020,17,6700,6400,NA
+"J.K. Dobbins","RB",2021,1,4000,NA,NA
 "J.P. Holtz","TE",2019,8,2500,4000,2500
 "J.P. Holtz","TE",2019,9,2500,4000,2500
 "J.P. Holtz","TE",2019,10,2500,4000,2500
@@ -18338,6 +18392,7 @@
 "J.P. Holtz","TE",2020,15,2500,4000,2500
 "J.P. Holtz","TE",2020,16,2500,4000,2500
 "J.P. Holtz","TE",2020,17,2500,4000,NA
+"J.P. Holtz","TE",2021,1,2500,NA,NA
 "Ja'Marcus Bradley","WR",2021,1,3000,NA,NA
 "Ja'Marr Chase","WR",2021,1,4800,NA,NA
 "Jace Amaro","TE",2014,1,3200,4500,3000
@@ -18491,6 +18546,7 @@
 "Jackie Battle","RB",2014,16,3000,4500,3000
 "Jackie Battle","RB",2014,17,3000,4500,NA
 "Jacob Eason","QB",2021,1,4100,NA,NA
+"Jacob Harris","TE",2021,1,3000,NA,NA
 "Jacob Hollister","TE",2017,2,2500,4500,2500
 "Jacob Hollister","TE",2017,3,2500,4500,2500
 "Jacob Hollister","TE",2017,4,2500,4500,2500
@@ -18772,6 +18828,7 @@
 "Jake Butt","TE",2020,4,2500,4200,3000
 "Jake Butt","TE",2020,6,3000,4400,NA
 "Jake Fromm","QB",2021,1,4000,NA,NA
+"Jake Funk","RB",2021,1,4000,NA,NA
 "Jake Hausmann","TE",2021,1,2500,NA,NA
 "Jake Kumerow","WR",2018,13,3000,4500,3000
 "Jake Kumerow","WR",2018,14,3000,4500,3000
@@ -18908,6 +18965,7 @@
 "Jakob Johnson","RB",2020,15,4000,4500,4000
 "Jakob Johnson","RB",2020,16,4000,4500,4000
 "Jakob Johnson","RB",2020,17,4000,4500,NA
+"Jakob Johnson","RB",2021,1,4000,NA,NA
 "Jakobi Meyers","WR",2019,1,3200,4500,3000
 "Jakobi Meyers","WR",2019,3,3000,4500,3500
 "Jakobi Meyers","WR",2019,4,3500,4500,3700
@@ -19063,6 +19121,7 @@
 "Jalen Richard","RB",2020,14,4000,4700,4000
 "Jalen Richard","RB",2020,15,4000,4600,4000
 "Jalen Richard","RB",2020,16,4000,4600,NA
+"Jalen Richard","RB",2021,1,4200,NA,NA
 "Jalen Saunders","WR",2014,2,3000,4500,3000
 "Jalen Saunders","WR",2014,3,3000,4500,3000
 "Jalen Saunders","WR",2014,14,3000,4500,3000
@@ -19586,6 +19645,7 @@
 "James Proche","WR",2020,12,3000,4500,3000
 "James Proche","WR",2020,14,3000,4600,3000
 "James Proche","WR",2020,15,3000,4500,NA
+"James Proche","WR",2021,1,3000,NA,NA
 "James Robinson","RB",2020,1,4000,4500,4400
 "James Robinson","RB",2020,2,4400,5300,5400
 "James Robinson","RB",2020,3,5400,6400,6500
@@ -20554,6 +20614,7 @@
 "Jason Moore","WR",2020,4,3500,4500,3000
 "Jason Moore","WR",2020,8,3000,4500,NA
 "Jason Moore","WR",2021,1,3000,NA,NA
+"Jason Moore Jr.","WR",2021,1,3000,NA,NA
 "Jason Witten","TE",2014,1,4500,6500,3800
 "Jason Witten","TE",2014,2,3800,6300,3900
 "Jason Witten","TE",2014,3,3900,6000,4200
@@ -20957,6 +21018,7 @@
 "Jaylen Samuels","RB",2020,17,4000,5000,NA
 "Jaylen Samuels","RB",2021,1,4000,NA,NA
 "Jaylen Waddle","WR",2021,1,3600,NA,NA
+"Jaylon Moore","WR",2021,1,3000,NA,NA
 "Je'Ron Hamm","TE",2016,15,2500,4500,2500
 "Je'Ron Hamm","TE",2016,16,2500,4500,NA
 "Jed Collins","RB",2014,2,3000,4500,3000
@@ -20975,6 +21037,7 @@
 "Jed Collins","RB",2014,16,3000,4600,3000
 "Jed Collins","RB",2014,17,3000,4500,NA
 "Jeff Badet","WR",2021,1,3000,NA,NA
+"Jeff Cotton Jr.","WR",2021,1,3000,NA,NA
 "Jeff Cumberland","TE",2014,1,3300,4500,3400
 "Jeff Cumberland","TE",2014,2,3400,4500,3000
 "Jeff Cumberland","TE",2014,3,3000,4500,3000
@@ -21846,6 +21909,7 @@
 "Jesper Horsted","TE",2019,15,2500,4700,2500
 "Jesper Horsted","TE",2019,16,2500,4500,2500
 "Jesper Horsted","TE",2019,17,2500,4500,NA
+"Jesper Horsted","TE",2021,1,2500,NA,NA
 "Jesse James","TE",2015,9,2500,4500,2500
 "Jesse James","TE",2015,10,2500,4700,2500
 "Jesse James","TE",2015,12,2500,4700,2500
@@ -21934,6 +21998,7 @@
 "Jesse James","TE",2020,15,2500,4400,2500
 "Jesse James","TE",2020,16,2500,4300,2500
 "Jesse James","TE",2020,17,2500,4200,NA
+"Jesse James","TE",2021,1,3000,NA,NA
 "Jets","DST",2021,1,2400,NA,NA
 "Jhamon Ausbon","WR",2021,1,3000,NA,NA
 "Jibri Blount","TE",2021,1,2500,NA,NA
@@ -22138,6 +22203,7 @@
 "Jimmy Graham","TE",2020,15,3100,5500,3100
 "Jimmy Graham","TE",2020,16,3100,5400,3600
 "Jimmy Graham","TE",2020,17,3600,5400,NA
+"Jimmy Graham","TE",2021,1,3600,NA,NA
 "JJ Arcega-Whiteside","WR",2019,1,3400,4800,3200
 "JJ Arcega-Whiteside","WR",2019,2,3200,4600,3500
 "JJ Arcega-Whiteside","WR",2019,3,3500,4600,4000
@@ -22162,7 +22228,8 @@
 "JJ Arcega-Whiteside","WR",2020,7,3000,4900,3000
 "JJ Arcega-Whiteside","WR",2020,8,3000,4900,NA
 "JJ Arcega-Whiteside","WR",2021,1,3000,NA,NA
-"Jody Fortson","WR",2021,1,3000,NA,NA
+"Jody Fortson","WR",2021,1,3000,NA,3000
+"Jody Fortson","TE",2021,1,3000,NA,NA
 "Joe Banyard","RB",2014,3,3000,4500,3000
 "Joe Banyard","RB",2014,4,3000,4500,3000
 "Joe Banyard","RB",2014,5,3000,4500,3000
@@ -22676,6 +22743,7 @@
 "John Ross III","WR",2021,1,3000,NA,NA
 "John Ursua","WR",2021,1,3000,NA,NA
 "John Wolford","QB",2020,17,4900,6500,NA
+"John Wolford","QB",2021,1,4500,NA,NA
 "Johnny Holton","WR",2016,12,3000,4500,3000
 "Johnny Holton","WR",2016,13,3000,4500,3000
 "Johnny Holton","WR",2016,14,3000,4500,3000
@@ -22760,7 +22828,9 @@
 "Johnny Mundt","TE",2020,15,2500,4000,2500
 "Johnny Mundt","TE",2020,16,2500,4000,2500
 "Johnny Mundt","TE",2020,17,2500,4000,NA
+"Johnny Mundt","TE",2021,1,2500,NA,NA
 "Johnny Stanton","RB",2021,1,4000,NA,NA
+"Johnny Stanton IV","RB",2021,1,4000,NA,NA
 "Joique Bell","RB",2014,1,5500,6800,5300
 "Joique Bell","RB",2014,2,5300,6800,5400
 "Joique Bell","RB",2014,3,5400,6800,5200
@@ -22811,6 +22881,7 @@
 "JoJo Natson","WR",2020,3,3000,4500,NA
 "JoJo Natson","WR",2021,1,3000,NA,NA
 "JoJo Ward","WR",2021,1,3000,NA,NA
+"Jon'Vea Johnson","WR",2021,1,3000,NA,NA
 "Jon Hilliman","RB",2019,5,3100,4500,3200
 "Jon Hilliman","RB",2019,6,3200,5400,NA
 "Jonas Gray","RB",2014,9,3400,6000,3300
@@ -23265,6 +23336,7 @@
 "Jordan Matthews","WR",2019,11,3500,4500,3500
 "Jordan Matthews","WR",2019,12,3500,4500,NA
 "Jordan Matthews","WR",2020,17,3000,4500,NA
+"Jordan Matthews","TE",2021,1,2500,NA,NA
 "Jordan Norwood","WR",2015,1,3000,4500,3000
 "Jordan Norwood","WR",2015,2,3000,4500,3000
 "Jordan Norwood","WR",2015,3,3000,4500,3000
@@ -23471,6 +23543,7 @@
 "Jordan Todman","RB",2017,14,3000,4500,3000
 "Jordan Todman","RB",2017,15,3000,4500,3000
 "Jordan Todman","RB",2017,16,3000,4500,NA
+"Jordan Veasy","WR",2021,1,3000,NA,NA
 "Jordan Wilkins","RB",2018,1,3700,5100,4400
 "Jordan Wilkins","RB",2018,2,4400,6000,3700
 "Jordan Wilkins","RB",2018,3,3700,5600,3900
@@ -23797,6 +23870,7 @@
 "Josh Doctson","WR",2018,15,4100,5500,3600
 "Josh Doctson","WR",2018,16,3600,5200,3400
 "Josh Doctson","WR",2018,17,3400,5100,NA
+"Josh Doctson","WR",2021,1,3000,NA,NA
 "Josh Ferguson","RB",2016,1,3500,4500,3300
 "Josh Ferguson","RB",2016,2,3300,4500,3000
 "Josh Ferguson","RB",2016,3,3000,4500,3000
@@ -24027,10 +24101,12 @@
 "Josh Jacobs","RB",2020,15,6500,7400,6600
 "Josh Jacobs","RB",2020,16,6600,7800,6200
 "Josh Jacobs","RB",2020,17,6200,7400,NA
+"Josh Jacobs","RB",2021,1,5800,NA,NA
 "Josh Johnson","QB",2018,15,4300,6500,5100
 "Josh Johnson","QB",2018,16,5100,6500,4800
 "Josh Johnson","QB",2018,17,4800,6500,NA
-"Josh Johnson","RB",2021,1,4000,NA,NA
+"Josh Johnson","RB",2021,1,4000,NA,4000
+"Josh Johnson","QB",2021,1,4000,NA,NA
 "Josh Malone","WR",2017,7,3000,4500,3000
 "Josh Malone","WR",2017,8,3000,4500,3000
 "Josh Malone","WR",2017,9,3000,4700,3000
@@ -24117,6 +24193,7 @@
 "Josh Oliver","TE",2019,8,2700,4000,2600
 "Josh Oliver","TE",2019,9,2600,4000,2500
 "Josh Oliver","TE",2019,11,2500,4000,NA
+"Josh Oliver","TE",2021,1,2500,NA,NA
 "Josh Palmer","WR",2021,1,3000,NA,NA
 "Josh Pederson","TE",2021,1,2500,NA,NA
 "Josh Reynolds","WR",2017,2,3000,4600,3000
@@ -24235,6 +24312,7 @@
 "Joshua Kelley","RB",2020,15,4000,4600,4000
 "Joshua Kelley","RB",2020,17,4000,4800,NA
 "Joshua Kelley","RB",2021,1,4000,NA,NA
+"Joshua Palmer","WR",2021,1,3000,NA,NA
 "Joshua Perkins","TE",2018,1,2500,4000,2500
 "Joshua Perkins","TE",2018,2,2500,4000,2500
 "Joshua Perkins","TE",2018,3,2500,4000,2500
@@ -24574,6 +24652,7 @@
 "Justice Hill","RB",2020,15,4000,4900,4000
 "Justice Hill","RB",2020,16,4000,4700,4000
 "Justice Hill","RB",2020,17,4000,5000,NA
+"Justice Hill","RB",2021,1,4600,NA,NA
 "Justin Brown","WR",2014,2,3000,4600,3000
 "Justin Brown","WR",2014,3,3000,4500,3000
 "Justin Brown","WR",2014,4,3000,4500,3000
@@ -24595,6 +24674,7 @@
 "Justin Davis","RB",2018,14,3000,4500,3000
 "Justin Davis","RB",2018,15,3000,4500,3000
 "Justin Davis","RB",2018,17,3000,4500,NA
+"Justin Fields","QB",2021,1,4900,NA,NA
 "Justin Forsett","RB",2014,1,3000,4900,5000
 "Justin Forsett","RB",2014,2,5000,5200,5400
 "Justin Forsett","RB",2014,3,5400,5200,5000
@@ -25327,6 +25407,7 @@
 "Keelan Doss","WR",2019,13,3000,4600,3000
 "Keelan Doss","WR",2019,14,3000,4600,3000
 "Keelan Doss","WR",2019,15,3000,4600,NA
+"Keelan Doss","WR",2021,1,3000,NA,NA
 "Keenan Allen","WR",2014,1,6800,7200,5400
 "Keenan Allen","WR",2014,2,5400,7200,6000
 "Keenan Allen","WR",2014,3,6000,6900,5300
@@ -25700,6 +25781,7 @@
 "Kenbrell Thompkins","WR",2015,15,3000,4500,3000
 "Kenbrell Thompkins","WR",2015,16,3000,4700,3000
 "Kenbrell Thompkins","WR",2015,17,3000,4700,NA
+"Kendall Blanton","TE",2021,1,2500,NA,NA
 "Kendall Gaskins","RB",2015,9,3000,4800,3000
 "Kendall Gaskins","RB",2015,11,3000,5000,3000
 "Kendall Gaskins","RB",2015,12,3000,5000,3000
@@ -26190,6 +26272,7 @@
 "Kenyan Drake","RB",2020,15,5500,6600,5200
 "Kenyan Drake","RB",2020,16,5200,6600,5400
 "Kenyan Drake","RB",2020,17,5400,6200,NA
+"Kenyan Drake","RB",2021,1,4800,NA,NA
 "Kerryon Johnson","RB",2018,1,4400,5800,4200
 "Kerryon Johnson","RB",2018,2,4200,6100,4700
 "Kerryon Johnson","RB",2018,3,4700,5700,4400
@@ -26374,6 +26457,7 @@
 "KhaDarel Hodge","WR",2020,17,3000,4600,NA
 "KhaDarel Hodge","WR",2021,1,3000,NA,NA
 "Khalfani Muhammad","RB",2021,1,4000,NA,NA
+"Khalil Herbert","RB",2021,1,4000,NA,NA
 "Khari Blasingame","RB",2019,14,3000,4500,3200
 "Khari Blasingame","RB",2019,15,3200,4800,3000
 "Khari Blasingame","RB",2019,16,3000,4800,3000
@@ -26962,6 +27046,7 @@
 "Lamar Jackson","QB",2020,15,7500,8200,8000
 "Lamar Jackson","QB",2020,16,8000,8800,8000
 "Lamar Jackson","QB",2020,17,8000,9000,NA
+"Lamar Jackson","QB",2021,1,7700,NA,NA
 "Lamar Miller","RB",2014,1,4800,6300,4600
 "Lamar Miller","RB",2014,2,4600,6300,5000
 "Lamar Miller","RB",2014,3,5000,6600,6200
@@ -27196,6 +27281,7 @@
 "Lance Moore","WR",2015,15,3000,5100,3000
 "Lance Moore","WR",2015,16,3000,5100,3000
 "Lance Moore","WR",2015,17,3000,5000,NA
+"Landen Akers","WR",2021,1,3000,NA,NA
 "Landry Jones","QB",2015,7,5100,6000,5000
 "Landry Jones","QB",2015,9,5000,6200,5300
 "Landry Jones","QB",2015,10,5300,6200,5000
@@ -29037,6 +29123,7 @@
 "Marcus Mariota","QB",2019,6,4900,6500,4800
 "Marcus Mariota","QB",2019,17,4800,6000,NA
 "Marcus Mariota","QB",2020,15,4300,6000,NA
+"Marcus Mariota","QB",2021,1,4900,NA,NA
 "Marcus Murphy","RB",2015,1,3000,4500,3000
 "Marcus Murphy","RB",2015,2,3000,4500,3000
 "Marcus Murphy","RB",2015,3,3000,4500,3000
@@ -29126,6 +29213,7 @@
 "Mark Andrews","TE",2020,15,5500,6800,5700
 "Mark Andrews","TE",2020,16,5700,7000,5800
 "Mark Andrews","TE",2020,17,5800,7200,NA
+"Mark Andrews","TE",2021,1,5300,NA,NA
 "Mark Ingram","RB",2014,1,4200,5200,4500
 "Mark Ingram","RB",2014,2,4500,5900,4300
 "Mark Ingram","RB",2014,8,4300,6100,5500
@@ -29236,6 +29324,7 @@
 "Mark Sanchez","QB",2015,15,5000,5800,NA
 "Mark Sanchez","QB",2016,9,5000,5000,5000
 "Mark Sanchez","QB",2016,17,5000,5000,NA
+"Mark Vital","TE",2021,1,2500,NA,NA
 "Mark Walton","RB",2018,3,3500,4900,3300
 "Mark Walton","RB",2018,4,3300,4500,3400
 "Mark Walton","RB",2018,5,3400,4700,3500
@@ -29631,6 +29720,7 @@
 "Marquise Brown","WR",2020,15,5600,6000,5700
 "Marquise Brown","WR",2020,16,5700,6200,5900
 "Marquise Brown","WR",2020,17,5900,6000,NA
+"Marquise Brown","WR",2021,1,5100,NA,NA
 "Marquise Goodwin","WR",2014,1,3000,4500,3000
 "Marquise Goodwin","WR",2014,2,3000,4500,3000
 "Marquise Goodwin","WR",2014,3,3000,4500,3000
@@ -29692,6 +29782,7 @@
 "Marquise Goodwin","WR",2019,10,4000,4900,3700
 "Marquise Goodwin","WR",2019,11,3700,4900,3400
 "Marquise Goodwin","WR",2019,13,3400,4800,NA
+"Marquise Goodwin","WR",2021,1,3400,NA,NA
 "Marshawn Lynch","RB",2014,1,6800,8800,7200
 "Marshawn Lynch","RB",2014,2,7200,9000,7900
 "Marshawn Lynch","RB",2014,3,7900,8900,7200
@@ -30045,6 +30136,7 @@
 "Matt Barkley","QB",2020,15,4300,6100,4100
 "Matt Barkley","QB",2020,16,4100,6100,4800
 "Matt Barkley","QB",2020,17,4800,6400,NA
+"Matt Barkley","QB",2021,1,4000,NA,NA
 "Matt Breida","RB",2017,1,3000,4700,3800
 "Matt Breida","RB",2017,2,3800,4800,3800
 "Matt Breida","RB",2017,3,3800,4800,3800
@@ -30100,6 +30192,7 @@
 "Matt Breida","RB",2020,16,4000,5300,4000
 "Matt Breida","RB",2020,17,4000,4700,NA
 "Matt Breida","RB",2021,1,4000,NA,NA
+"Matt Bushman","TE",2021,1,2500,NA,NA
 "Matt Cassel","QB",2014,1,5600,5400,5200
 "Matt Cassel","QB",2014,2,5200,6400,5400
 "Matt Cassel","QB",2014,3,5400,6200,NA
@@ -30670,6 +30763,7 @@
 "Matthew Stafford","QB",2020,15,5800,7300,5600
 "Matthew Stafford","QB",2020,16,5600,7400,5600
 "Matthew Stafford","QB",2020,17,5600,7200,NA
+"Matthew Stafford","QB",2021,1,6200,NA,NA
 "Maurice Ffrench","WR",2021,1,3000,NA,NA
 "Maurice Harris","WR",2016,14,3000,4500,3000
 "Maurice Harris","WR",2016,15,3000,4500,3000
@@ -31965,6 +32059,7 @@
 "Miles Boykin","WR",2020,15,3100,5000,3100
 "Miles Boykin","WR",2020,16,3100,5200,3000
 "Miles Boykin","WR",2020,17,3000,4900,NA
+"Miles Boykin","WR",2021,1,3600,NA,NA
 "Miles Sanders","RB",2019,1,3900,6000,4100
 "Miles Sanders","RB",2019,2,4100,5400,3900
 "Miles Sanders","RB",2019,3,3900,5400,4500
@@ -32346,6 +32441,7 @@
 "Najee Harris","RB",2021,1,6300,NA,NA
 "Nakia Griffin-Stewart","TE",2021,1,2500,NA,NA
 "Nate Becker","TE",2021,1,2500,NA,NA
+"Nate McCrary","RB",2021,1,4000,NA,NA
 "Nate Stanley","QB",2021,1,4000,NA,NA
 "Nate Sudfeld","QB",2017,17,4700,6000,NA
 "Nate Sudfeld","QB",2018,16,4000,6000,4000
@@ -32391,6 +32487,7 @@
 "Nathan Peterman","QB",2018,8,4100,5900,4000
 "Nathan Peterman","QB",2018,9,4000,5900,NA
 "Nathan Peterman","QB",2020,12,4200,6000,NA
+"Nathan Peterman","QB",2021,1,4000,NA,NA
 "Neal Sterling","TE",2016,4,2500,4500,2500
 "Neal Sterling","TE",2016,10,2500,4500,2500
 "Neal Sterling","TE",2016,11,2500,4500,2500
@@ -32561,6 +32658,7 @@
 "Nick Bellore","RB",2020,16,4000,4500,4000
 "Nick Bellore","RB",2020,17,4000,4500,NA
 "Nick Bellore","RB",2021,1,4000,NA,NA
+"Nick Bowers","TE",2021,1,2500,NA,NA
 "Nick Boyle","TE",2015,1,2500,4500,2500
 "Nick Boyle","TE",2015,2,2500,4500,2500
 "Nick Boyle","TE",2015,3,2500,4500,2500
@@ -32628,6 +32726,7 @@
 "Nick Boyle","TE",2020,8,3000,4100,2500
 "Nick Boyle","TE",2020,9,2500,4100,2500
 "Nick Boyle","TE",2020,10,2500,4100,NA
+"Nick Boyle","TE",2021,1,2900,NA,NA
 "Nick Chubb","RB",2018,1,4100,5500,3800
 "Nick Chubb","RB",2018,2,3800,5200,3700
 "Nick Chubb","RB",2018,3,3700,4700,3500
@@ -32673,6 +32772,7 @@
 "Nick Chubb","RB",2020,16,7800,9000,7600
 "Nick Chubb","RB",2020,17,7600,8100,NA
 "Nick Chubb","RB",2021,1,7200,NA,NA
+"Nick Eubanks","TE",2021,1,2500,NA,NA
 "Nick Foles","QB",2014,1,8500,8500,8100
 "Nick Foles","QB",2014,2,8100,8300,8500
 "Nick Foles","QB",2014,3,8500,8400,8000
@@ -32720,6 +32820,7 @@
 "Nick Foles","QB",2020,9,5500,6800,5600
 "Nick Foles","QB",2020,10,5600,7000,5100
 "Nick Foles","QB",2020,16,5100,6500,NA
+"Nick Foles","QB",2021,1,4800,NA,NA
 "Nick Keizer","TE",2020,4,2500,4000,2500
 "Nick Keizer","TE",2020,5,2500,4000,2500
 "Nick Keizer","TE",2020,6,2500,4000,2500
@@ -33037,6 +33138,7 @@
 "Nsimba Webster","WR",2020,15,3000,4500,3000
 "Nsimba Webster","WR",2020,16,3000,4500,3000
 "Nsimba Webster","WR",2020,17,3000,4500,NA
+"Nsimba Webster","WR",2021,1,3000,NA,NA
 "Nyheim Hines","RB",2018,1,4000,5400,4100
 "Nyheim Hines","RB",2018,2,4100,5500,3600
 "Nyheim Hines","RB",2018,3,3600,5500,3800
@@ -33326,6 +33428,7 @@
 "Orson Charles","TE",2018,12,2500,4000,2500
 "Orson Charles","TE",2018,13,2500,4000,2500
 "Orson Charles","TE",2018,14,2500,4000,NA
+"Otis Anderson","RB",2021,1,4000,NA,NA
 "Owen Daniels","TE",2014,1,3500,5100,3000
 "Owen Daniels","TE",2014,2,3000,4800,3600
 "Owen Daniels","TE",2014,3,3600,5100,4100
@@ -33542,6 +33645,8 @@
 "Patrick Ricard","RB",2020,15,4000,4500,4000
 "Patrick Ricard","RB",2020,16,4000,4500,4000
 "Patrick Ricard","RB",2020,17,4000,4500,NA
+"Patrick Ricard","RB",2021,1,4000,NA,NA
+"Patrick Scales","TE",2021,1,2500,NA,NA
 "Patrick Taylor","RB",2021,1,4000,NA,NA
 "Patriots","DST",2021,1,3900,NA,NA
 "Paul Lasike","RB",2016,2,3000,4500,3000
@@ -34427,6 +34532,8 @@
 "Raheem Mostert","RB",2020,14,6200,7100,5800
 "Raheem Mostert","RB",2020,15,5800,6900,NA
 "Raheem Mostert","RB",2021,1,5800,NA,NA
+"Raiders","DST",2021,1,2600,NA,NA
+"Rams","DST",2021,1,4400,NA,NA
 "Randall Cobb","WR",2014,1,6500,7600,6400
 "Randall Cobb","WR",2014,2,6400,7600,7500
 "Randall Cobb","WR",2014,3,7500,8100,6400
@@ -34722,7 +34829,9 @@
 "Rashard Higgins","WR",2020,15,4400,5600,4500
 "Rashard Higgins","WR",2020,17,4500,5600,NA
 "Rashard Higgins","WR",2021,1,4200,NA,NA
+"Rashod Bateman","WR",2021,1,3000,NA,NA
 "Rashod Berry","TE",2021,1,2500,NA,NA
+"Ravens","DST",2021,1,2700,NA,NA
 "Ray-Ray McCloud","WR",2018,3,3000,4500,3000
 "Ray-Ray McCloud","WR",2018,4,3000,4500,3000
 "Ray-Ray McCloud","WR",2018,5,3000,4500,3000
@@ -34760,6 +34869,7 @@
 "Raymond Calais","RB",2020,4,4000,4500,4000
 "Raymond Calais","RB",2020,7,4000,4500,4000
 "Raymond Calais","RB",2020,17,4000,4500,NA
+"Raymond Calais","RB",2021,1,4000,NA,NA
 "Reggie Begelton","WR",2021,1,3000,NA,NA
 "Reggie Bonnafon","RB",2019,1,3000,4500,3000
 "Reggie Bonnafon","RB",2019,2,3000,4500,3000
@@ -34819,7 +34929,8 @@
 "Reggie Gilliam","TE",2020,12,2500,4200,2500
 "Reggie Gilliam","TE",2020,14,2500,4100,2500
 "Reggie Gilliam","TE",2020,15,2500,4100,NA
-"Reggie Gilliam","RB",2021,1,2500,NA,NA
+"Reggie Gilliam","RB",2021,1,2500,NA,4000
+"Reggie Gilliam","RB",2021,1,4000,NA,NA
 "Reggie Wayne","WR",2014,1,5100,6200,5300
 "Reggie Wayne","WR",2014,2,5300,6200,5800
 "Reggie Wayne","WR",2014,3,5800,6800,5200
@@ -35851,6 +35962,7 @@
 "Robert Woods","WR",2020,15,6800,7400,7000
 "Robert Woods","WR",2020,16,7000,7300,6300
 "Robert Woods","WR",2020,17,6300,6800,NA
+"Robert Woods","WR",2021,1,5700,NA,NA
 "Roc Thomas","RB",2018,4,3000,4500,3000
 "Roc Thomas","RB",2018,5,3000,4500,3300
 "Roc Thomas","RB",2018,6,3300,4500,3100
@@ -35955,6 +36067,7 @@
 "Roddy White","WR",2015,15,3200,5400,3200
 "Roddy White","WR",2015,16,3200,5600,3600
 "Roddy White","WR",2015,17,3600,5800,NA
+"Rodney Adams","WR",2021,1,3000,NA,NA
 "Rodney Smith","WR",2014,1,3000,4500,3000
 "Rodney Smith","WR",2014,15,3000,4500,3000
 "Rodney Smith","WR",2014,17,3000,4500,NA
@@ -36865,6 +36978,7 @@
 "Ryan Nall","RB",2020,15,4000,4600,4000
 "Ryan Nall","RB",2020,16,4000,4600,4000
 "Ryan Nall","RB",2020,17,4000,4600,NA
+"Ryan Nall","RB",2021,1,4000,NA,NA
 "Ryan Nassib","QB",2014,4,5000,5000,5000
 "Ryan Nassib","QB",2014,6,5000,5000,5000
 "Ryan Nassib","QB",2014,9,5000,5000,5000
@@ -37297,6 +37411,7 @@
 "Sammy Watkins","WR",2020,14,4900,5600,4600
 "Sammy Watkins","WR",2020,15,4600,5600,5000
 "Sammy Watkins","WR",2020,16,5000,5400,NA
+"Sammy Watkins","WR",2021,1,4200,NA,NA
 "Sandro Platzgummer","RB",2021,1,4000,NA,NA
 "Santana Moss","WR",2014,6,3000,4500,3000
 "Santana Moss","WR",2014,7,3000,4500,3000
@@ -37456,6 +37571,7 @@
 "Sean Mannion","QB",2019,3,4000,6000,4300
 "Sean Mannion","QB",2019,15,4300,6000,4100
 "Sean Mannion","QB",2019,17,4100,6000,NA
+"Sean Mannion","QB",2021,1,4000,NA,NA
 "Sean McGrath","TE",2016,1,2500,4500,2500
 "Sean McGrath","TE",2016,2,2500,4500,2500
 "Sean McGrath","TE",2016,3,2500,4500,2500
@@ -38772,6 +38888,7 @@
 "Tanner Hudson","TE",2020,10,2500,4000,2500
 "Tanner Hudson","TE",2020,15,2500,4000,2500
 "Tanner Hudson","TE",2020,16,2500,4000,NA
+"Tanner Hudson","TE",2021,1,2500,NA,NA
 "Tanner McEvoy","WR",2016,6,3000,5000,3000
 "Tanner McEvoy","WR",2016,7,3000,5000,3000
 "Tanner McEvoy","WR",2016,8,3000,5000,3000
@@ -38860,6 +38977,7 @@
 "Tarik Cohen","RB",2020,1,4900,5200,4800
 "Tarik Cohen","RB",2020,2,4800,5000,4300
 "Tarik Cohen","RB",2020,3,4300,5000,NA
+"Tarik Cohen","RB",2021,1,4200,NA,NA
 "Tarvaris Jackson","QB",2014,14,5000,5000,5000
 "Tarvaris Jackson","QB",2014,16,5000,5000,NA
 "Tarvaris Jackson","QB",2015,13,5000,5000,5000
@@ -38968,6 +39086,7 @@
 "Tavon Austin","WR",2020,15,3000,4600,3000
 "Tavon Austin","WR",2020,16,3000,4600,3000
 "Tavon Austin","WR",2020,17,3000,4600,NA
+"Tavon Austin","WR",2021,1,3000,NA,NA
 "Taylor Gabriel","WR",2014,2,3000,4500,3000
 "Taylor Gabriel","WR",2014,3,3000,4500,3000
 "Taylor Gabriel","WR",2014,5,3000,4600,3000
@@ -40159,6 +40278,7 @@
 "Tony Moeaki","TE",2014,14,3000,5000,3000
 "Tony Moeaki","TE",2014,15,3000,4900,3000
 "Tony Moeaki","TE",2014,17,3000,4900,NA
+"Tony Poljan","TE",2021,1,2500,NA,NA
 "Tony Pollard","RB",2019,1,4500,5200,3700
 "Tony Pollard","RB",2019,2,3700,4800,3800
 "Tony Pollard","RB",2019,3,3800,5000,4600
@@ -40285,6 +40405,7 @@
 "Trace McSorley","QB",2019,17,4000,6000,NA
 "Trace McSorley","QB",2020,12,4000,6000,4100
 "Trace McSorley","QB",2020,14,4100,6000,NA
+"Trace McSorley","QB",2021,1,4000,NA,NA
 "Travaris Cadet","RB",2014,1,3000,4500,3000
 "Travaris Cadet","RB",2014,2,3000,4500,3000
 "Travaris Cadet","RB",2014,3,3000,4500,3000
@@ -41045,6 +41166,7 @@
 "Trey Quinn","WR",2019,11,3300,4700,3600
 "Trey Quinn","WR",2019,12,3600,4700,3500
 "Trey Quinn","WR",2019,13,3500,4700,NA
+"Trey Ragas","RB",2021,1,4000,NA,NA
 "Trey Sermon","RB",2021,1,4500,NA,NA
 "Trey Watts","RB",2014,1,3000,4600,3000
 "Trey Watts","RB",2014,3,3000,4600,3000
@@ -41062,6 +41184,7 @@
 "Trey Watts","RB",2014,17,3000,4500,NA
 "Trey Williams","RB",2015,17,3000,4500,NA
 "Trinity Benson","WR",2021,1,3000,NA,NA
+"Trishton Jackson","WR",2021,1,3000,NA,NA
 "Troy Fumagalli","TE",2019,1,2500,4000,2500
 "Troy Fumagalli","TE",2019,2,2500,4000,2500
 "Troy Fumagalli","TE",2019,3,2500,4000,2500
@@ -41149,6 +41272,8 @@
 "Tua Tagovailoa","QB",2020,16,5400,7200,5100
 "Tua Tagovailoa","QB",2020,17,5100,6800,NA
 "Tua Tagovailoa","QB",2021,1,5400,NA,NA
+"Tutu Atwell","WR",2021,1,3000,NA,NA
+"Ty'Son Williams","RB",2021,1,4500,NA,NA
 "Ty Johnson","RB",2019,1,3000,4500,3000
 "Ty Johnson","RB",2019,2,3000,4500,3000
 "Ty Johnson","RB",2019,3,3000,4500,3000
@@ -41244,6 +41369,7 @@
 "Ty Montgomery","RB",2020,16,4000,4500,4000
 "Ty Montgomery","RB",2020,17,4000,4500,NA
 "Ty Montgomery","RB",2021,1,4000,NA,NA
+"Tylan Wallace","WR",2021,1,3000,NA,NA
 "Tyler Boyd","WR",2016,1,3600,5600,3500
 "Tyler Boyd","WR",2016,2,3500,5400,3500
 "Tyler Boyd","WR",2016,3,3500,5700,3400
@@ -41565,7 +41691,9 @@
 "Tyler Higbee","TE",2020,15,3800,5700,4000
 "Tyler Higbee","TE",2020,16,4000,5800,3500
 "Tyler Higbee","TE",2020,17,3500,5400,NA
+"Tyler Higbee","TE",2021,1,3900,NA,NA
 "Tyler Huntley","QB",2020,17,4900,6000,NA
+"Tyler Huntley","QB",2021,1,4900,NA,NA
 "Tyler Johnson","WR",2020,3,3300,4500,3200
 "Tyler Johnson","WR",2020,4,3200,4500,3000
 "Tyler Johnson","WR",2020,5,3000,4500,3400
@@ -41991,6 +42119,7 @@
 "Van Jefferson","WR",2020,15,3000,4800,3000
 "Van Jefferson","WR",2020,16,3000,4800,3000
 "Van Jefferson","WR",2020,17,3000,4600,NA
+"Van Jefferson Jr.","WR",2021,1,3600,NA,NA
 "Vance McDonald","TE",2014,1,3100,4500,3000
 "Vance McDonald","TE",2014,2,3000,4500,3000
 "Vance McDonald","TE",2014,5,3000,4500,3000
@@ -42739,6 +42868,7 @@
 "Willie Snead","WR",2020,14,4300,5200,4300
 "Willie Snead","WR",2020,15,4300,5400,3900
 "Willie Snead","WR",2020,16,3900,5200,NA
+"Willie Snead IV","WR",2021,1,3300,NA,NA
 "Xavier Grimble","TE",2016,2,2500,4500,2500
 "Xavier Grimble","TE",2016,3,2500,4500,2500
 "Xavier Grimble","TE",2016,4,2500,4500,2500
@@ -43191,3 +43321,4 @@
 "Zay Jones","WR",2020,15,3000,4600,3000
 "Zay Jones","WR",2020,16,3000,4600,3000
 "Zay Jones","WR",2020,17,3000,4600,NA
+"Zay Jones","WR",2021,1,3000,NA,NA
