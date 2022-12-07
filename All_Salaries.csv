@@ -48884,7 +48884,6 @@
 "Rashod Bateman","WR",2021,9,4000,NA,4200
 "Nick Mullens","QB",2021,9,4000,NA,4000
 "Jake Browning","QB",2021,9,4000,NA,4000
-"John Kelly","RB",2021,9,4000,NA,4000
 "Tre Harbison","RB",2021,9,4000,NA,4000
 "Johnny Stanton IV","RB",2021,9,4000,NA,4000
 "Andy Janovich","RB",2021,9,4000,NA,4000
@@ -58900,7 +58899,7 @@
 "Isaiah Hodgins","WR",2022,6,3000,NA,3000
 "Tanner Gentry","WR",2022,6,3000,NA,3000
 "Marquez Stevenson","WR",2022,6,3000,NA,3000
-"Jaquarii Roberson","WR",2022,6,3000,NA,NA
+"Jaquarii Roberson","WR",2022,6,3000,NA,3000
 "Simi Fehoko","WR",2022,6,3000,NA,3000
 "Britain Covey","WR",2022,6,3000,NA,3000
 "Auden Tate","WR",2022,6,3000,NA,3000
@@ -60261,11 +60260,11 @@
 "Isaiah Coulter","WR",2022,8,3000,NA,3000
 "Byron Pringle","WR",2022,8,3000,NA,3000
 "Nsimba Webster","WR",2022,8,3000,NA,3000
-"Reggie Roberson Jr.","WR",2022,8,3000,NA,NA
+"Reggie Roberson Jr.","WR",2022,8,3000,NA,3000
 "Trent Sherfield","WR",2022,8,3000,NA,3300
 "River Cracraft","WR",2022,8,3000,NA,3000
 "Erik Ezukanma","WR",2022,8,3000,NA,3000
-"Freddie Swain","WR",2022,8,3000,NA,NA
+"Freddie Swain","WR",2022,8,3000,NA,3000
 "Braylon Sanders","WR",2022,8,3000,NA,3000
 "Tom Kennedy","WR",2022,8,3000,NA,3000
 "Maurice Alexander","WR",2022,8,3000,NA,3000
@@ -61624,7 +61623,7 @@
 "Laquon Treadwell","WR",2022,10,3000,NA,3000
 "Amari Rodgers","WR",2022,10,3000,NA,3000
 "Travis Fulgham","WR",2022,10,3000,NA,3000
-"Kawaan Baker","WR",2022,10,3000,NA,NA
+"Kawaan Baker","WR",2022,10,3000,NA,3000
 "Juwann Winfree","WR",2022,10,3000,NA,3000
 "KaVontae Turpin","WR",2022,10,3000,NA,3000
 "James Washington","WR",2022,10,3000,NA,3000
@@ -62384,7 +62383,7 @@
 "Marken Michel","WR",2022,11,3000,NA,3000
 "Alex Erickson","WR",2022,11,3000,NA,3000
 "Kyric McGowan","WR",2022,11,3000,NA,3000
-"Tyron Johnson","WR",2022,11,3000,NA,NA
+"Tyron Johnson","WR",2022,11,3000,NA,3000
 "John Metchie III","WR",2022,11,3000,NA,3000
 "Michael Young Jr.","WR",2022,11,3000,NA,NA
 "Davion Davis","WR",2022,11,3000,NA,3000
@@ -62636,7 +62635,7 @@
 "Cooper Kupp","WR",2022,12,8000,NA,8000
 "Jonathan Taylor","RB",2022,12,7900,NA,7700
 "Nick Chubb","RB",2022,12,7800,NA,8000
-"DeAndre Hopkins","WR",2022,12,7700,NA,NA
+"DeAndre Hopkins","WR",2022,12,7700,NA,7900
 "Josh Jacobs","RB",2022,12,7700,NA,7900
 "Travis Kelce","TE",2022,12,7700,NA,7900
 "Ja'Marr Chase","WR",2022,12,7600,NA,7900
@@ -62650,12 +62649,12 @@
 "Tua Tagovailoa","QB",2022,12,6900,NA,6700
 "Tee Higgins","WR",2022,12,6900,NA,7200
 "Kenneth Walker III","RB",2022,12,6900,NA,7000
-"Kyler Murray","QB",2022,12,6800,NA,NA
+"Kyler Murray","QB",2022,12,6800,NA,6900
 "Deebo Samuel","WR",2022,12,6800,NA,6600
 "Mike Evans","WR",2022,12,6700,NA,6300
 "Travis Etienne Jr.","RB",2022,12,6700,NA,6400
 "Joe Burrow","QB",2022,12,6700,NA,6900
-"James Conner","RB",2022,12,6600,NA,NA
+"James Conner","RB",2022,12,6600,NA,6900
 "Chris Olave","WR",2022,12,6600,NA,6400
 "Christian Kirk","WR",2022,12,6500,NA,6300
 "Mark Andrews","TE",2022,12,6500,NA,6600
@@ -62694,7 +62693,7 @@
 "Samaje Perine","RB",2022,12,5600,NA,6000
 "Jimmy Garoppolo","QB",2022,12,5600,NA,5700
 "Damien Harris","RB",2022,12,5500,NA,5500
-"D'Onta Foreman","RB",2022,12,5500,NA,NA
+"D'Onta Foreman","RB",2022,12,5500,NA,5400
 "Trevor Lawrence","QB",2022,12,5500,NA,5900
 "Marcus Mariota","QB",2022,12,5500,NA,5400
 "Isiah Pacheco","RB",2022,12,5500,NA,5700
@@ -62705,9 +62704,9 @@
 "Ryan Tannehill","QB",2022,12,5400,NA,5200
 "Antonio Gibson","RB",2022,12,5400,NA,5200
 "Joshua Palmer","WR",2022,12,5400,NA,5600
-"Melvin Gordon III","RB",2022,12,5300,NA,NA
+"Melvin Gordon III","RB",2022,12,5300,NA,4300
 "Taylor Heinicke","QB",2022,12,5300,NA,5100
-"Marquise Brown","WR",2022,12,5300,NA,NA
+"Marquise Brown","WR",2022,12,5300,NA,5100
 "Matthew Stafford","QB",2022,12,5300,NA,5500
 "Andy Dalton","QB",2022,12,5300,NA,5200
 "George Kittle","TE",2022,12,5300,NA,5000
@@ -62725,12 +62724,12 @@
 "Darnell Mooney","WR",2022,12,5100,NA,4900
 "Desmond Ridder","QB",2022,12,5100,NA,5000
 "Brian Robinson Jr.","RB",2022,12,5100,NA,5300
-"Colt McCoy","QB",2022,12,5100,NA,NA
-"Rondale Moore","WR",2022,12,5100,NA,NA
+"Colt McCoy","QB",2022,12,5100,NA,4800
+"Rondale Moore","WR",2022,12,5100,NA,4700
 "Kenny Pickett","QB",2022,12,5100,NA,5200
 "T.J. Hockenson","TE",2022,12,5000,NA,5200
 "Latavius Murray","RB",2022,12,5000,NA,5300
-"DJ Moore","WR",2022,12,5000,NA,NA
+"DJ Moore","WR",2022,12,5000,NA,5500
 "Tyler Huntley","QB",2022,12,5000,NA,4900
 "Zach Wilson","QB",2022,12,5000,NA,4900
 "Malik Willis","QB",2022,12,5000,NA,4800
@@ -62748,8 +62747,8 @@
 "George Pickens","WR",2022,12,5000,NA,5100
 "Bailey Zappe","QB",2022,12,4900,NA,4900
 "Adam Thielen","WR",2022,12,4900,NA,5000
-"Baker Mayfield","QB",2022,12,4900,NA,NA
-"Sam Darnold","QB",2022,12,4900,NA,NA
+"Baker Mayfield","QB",2022,12,4900,NA,4900
+"Sam Darnold","QB",2022,12,4900,NA,5200
 "Joshua Dobbs","QB",2022,12,4900,NA,4900
 "Kareem Hunt","RB",2022,12,4900,NA,4800
 "Teddy Bridgewater","QB",2022,12,4900,NA,4800
@@ -62780,12 +62779,12 @@
 "Nathan Peterman","QB",2022,12,4800,NA,4800
 "Dontrell Hilliard","RB",2022,12,4800,NA,4600
 "Sam Howell","QB",2022,12,4800,NA,4800
-"Keaontay Ingram","RB",2022,12,4800,NA,NA
+"Keaontay Ingram","RB",2022,12,4800,NA,4500
 "Taysom Hill","QB",2022,12,4800,NA,4700
 "Romeo Doubs","WR",2022,12,4800,NA,4800
 "Mitch Trubisky","QB",2022,12,4800,NA,4900
-"P.J. Walker","QB",2022,12,4700,NA,NA
-"Chuba Hubbard","RB",2022,12,4700,NA,NA
+"P.J. Walker","QB",2022,12,4700,NA,4900
+"Chuba Hubbard","RB",2022,12,4700,NA,4800
 "Devin Duvernay","WR",2022,12,4700,NA,4500
 "Robert Woods","WR",2022,12,4700,NA,4300
 "Jerick McKinnon","RB",2022,12,4700,NA,4500
@@ -62796,7 +62795,7 @@
 "Clyde Edwards-Helaire","RB",2022,12,4600,NA,4400
 "Mason Rudolph","QB",2022,12,4600,NA,4900
 "Rex Burkhead","RB",2022,12,4500,NA,4100
-"Corey Clement","RB",2022,12,4500,NA,NA
+"Corey Clement","RB",2022,12,4500,NA,4200
 "Darren Waller","TE",2022,12,4500,NA,4500
 "Van Jefferson","WR",2022,12,4500,NA,4800
 "Mecole Hardman","WR",2022,12,4500,NA,4400
@@ -62812,7 +62811,7 @@
 "Kyle Pitts","TE",2022,12,4300,NA,2500
 "Jaylen Warren","RB",2022,12,4300,NA,4900
 "Parris Campbell","WR",2022,12,4300,NA,4600
-"Raheem Blackshear","RB",2022,12,4200,NA,NA
+"Raheem Blackshear","RB",2022,12,4200,NA,4000
 "Corey Davis","WR",2022,12,4200,NA,4100
 "Treylon Burks","WR",2022,12,4200,NA,4600
 "Sony Michel","RB",2022,12,4200,NA,4200
@@ -62835,10 +62834,10 @@
 "Ty Chandler","RB",2022,12,4000,NA,4000
 "C.J. Ham","RB",2022,12,4000,NA,4000
 "Bryant Koback","RB",2022,12,4000,NA,4000
-"Matt Corral","QB",2022,12,4000,NA,NA
+"Matt Corral","QB",2022,12,4000,NA,4000
 "D'Eriq King","QB",2022,12,4000,NA,NA
-"Spencer Brown","RB",2022,12,4000,NA,NA
-"Nate McCrary","RB",2022,12,4000,NA,NA
+"Spencer Brown","RB",2022,12,4000,NA,4000
+"Nate McCrary","RB",2022,12,4000,NA,4000
 "Marlon Mack","RB",2022,12,4000,NA,4100
 "Javonte Williams","RB",2022,12,4000,NA,4000
 "Mike Boone","RB",2022,12,4000,NA,4000
@@ -62904,13 +62903,13 @@
 "B.J. Baylor","RB",2022,12,4000,NA,4000
 "Jahan Dotson","WR",2022,12,4000,NA,3700
 "Easton Stick","QB",2022,12,4000,NA,4000
-"Trace McSorley","QB",2022,12,4000,NA,NA
-"Larry Rountree III","RB",2022,12,4000,NA,NA
+"Trace McSorley","QB",2022,12,4000,NA,4000
+"Larry Rountree III","RB",2022,12,4000,NA,4000
 "Joshua Kelley","RB",2022,12,4000,NA,4000
 "Zander Horvath","RB",2022,12,4000,NA,4000
-"Darrel Williams","RB",2022,12,4000,NA,NA
-"Jonathan Ward","RB",2022,12,4000,NA,NA
-"Ty'Son Williams","RB",2022,12,4000,NA,NA
+"Darrel Williams","RB",2022,12,4000,NA,4000
+"Jonathan Ward","RB",2022,12,4000,NA,4000
+"Ty'Son Williams","RB",2022,12,4000,NA,4000
 "Sean Mannion","QB",2022,12,4000,NA,4000
 "Chase Garbers","QB",2022,12,4000,NA,4000
 "DeeJay Dallas","RB",2022,12,4000,NA,4000
@@ -62959,7 +62958,7 @@
 "Jake Funk","RB",2022,12,4000,NA,4000
 "Zack Moss","RB",2022,12,4000,NA,4600
 "Pat Freiermuth","TE",2022,12,4000,NA,4300
-"Terrace Marshall Jr.","WR",2022,12,3900,NA,NA
+"Terrace Marshall Jr.","WR",2022,12,3900,NA,3600
 "Dolphins","DST",2022,12,3900,NA,2500
 "Chase Claypool","WR",2022,12,3900,NA,3800
 "Cole Kmet","TE",2022,12,3900,NA,3800
@@ -62982,13 +62981,13 @@
 "Quez Watkins","WR",2022,12,3500,NA,3800
 "Alec Pierce","WR",2022,12,3500,NA,3700
 "Buccaneers","DST",2022,12,3400,NA,3600
-"A.J. Green","WR",2022,12,3400,NA,NA
+"A.J. Green","WR",2022,12,3400,NA,3200
 "Foster Moreau","TE",2022,12,3400,NA,3600
 "Ben Skowronek","WR",2022,12,3400,NA,3500
 "Juwan Johnson","TE",2022,12,3400,NA,3400
 "Sammy Watkins","WR",2022,12,3400,NA,3400
 "Eagles","DST",2022,12,3400,NA,3800
-"Laviska Shenault Jr.","WR",2022,12,3300,NA,NA
+"Laviska Shenault Jr.","WR",2022,12,3300,NA,3300
 "David Bell","WR",2022,12,3300,NA,3300
 "Cade Otton","TE",2022,12,3300,NA,3100
 "Jets","DST",2022,12,3300,NA,2600
@@ -63010,9 +63009,9 @@
 "Tyler Conklin","TE",2022,12,3100,NA,3100
 "Titans","DST",2022,12,3100,NA,2200
 "Damiere Byrd","WR",2022,12,3100,NA,3000
-"Robbie Anderson","WR",2022,12,3100,NA,NA
-"Greg Dortch","WR",2022,12,3100,NA,NA
-"Trey McBride","TE",2022,12,3100,NA,NA
+"Robbie Anderson","WR",2022,12,3100,NA,3100
+"Greg Dortch","WR",2022,12,3100,NA,3000
+"Trey McBride","TE",2022,12,3100,NA,3000
 "Jauan Jennings","WR",2022,12,3100,NA,3200
 "Colts","DST",2022,12,3100,NA,2300
 "Ty Montgomery","WR",2022,12,3000,NA,3000
@@ -63029,12 +63028,12 @@
 "Trishton Jackson","WR",2022,12,3000,NA,3000
 "Blake Proehl","WR",2022,12,3000,NA,3000
 "Patriots","DST",2022,12,3000,NA,2400
-"Shi Smith","WR",2022,12,3000,NA,NA
-"Rashard Higgins","WR",2022,12,3000,NA,NA
-"Andre Roberts","WR",2022,12,3000,NA,NA
-"C.J. Saunders","WR",2022,12,3000,NA,NA
-"Derek Wright","WR",2022,12,3000,NA,NA
-"Preston Williams","WR",2022,12,3000,NA,NA
+"Shi Smith","WR",2022,12,3000,NA,3000
+"Rashard Higgins","WR",2022,12,3000,NA,3000
+"Andre Roberts","WR",2022,12,3000,NA,3000
+"C.J. Saunders","WR",2022,12,3000,NA,3000
+"Derek Wright","WR",2022,12,3000,NA,3000
+"Preston Williams","WR",2022,12,3000,NA,3000
 "Jalen Virgil","WR",2022,12,3000,NA,3000
 "Montrell Washington","WR",2022,12,3000,NA,3000
 "Brandon Johnson","WR",2022,12,3000,NA,3000
@@ -63042,7 +63041,7 @@
 "Kaden Davis","WR",2022,12,3000,NA,3000
 "Tyrie Cleveland","WR",2022,12,3000,NA,3000
 "Victor Bolden Jr.","WR",2022,12,3000,NA,3000
-"Panthers","DST",2022,12,3000,NA,NA
+"Panthers","DST",2022,12,3000,NA,2200
 "Breshad Perriman","WR",2022,12,3000,NA,3000
 "Jaelon Darden","WR",2022,12,3000,NA,3000
 "Tyler Johnson","WR",2022,12,3000,NA,3000
@@ -63112,7 +63111,7 @@
 "Kyric McGowan","WR",2022,12,3000,NA,3000
 "Alex Erickson","WR",2022,12,3000,NA,3000
 "KhaDarel Hodge","WR",2022,12,3000,NA,3000
-"Bryan Edwards","WR",2022,12,3000,NA,NA
+"Bryan Edwards","WR",2022,12,3000,NA,3000
 "Frank Darby","WR",2022,12,3000,NA,3000
 "Jared Bernhardt","WR",2022,12,3000,NA,3000
 "Cameron Batson","WR",2022,12,3000,NA,3000
@@ -63124,9 +63123,9 @@
 "Jalen Guyton","WR",2022,12,3000,NA,3000
 "John Hightower","WR",2022,12,3000,NA,3000
 "Joe Reed","WR",2022,12,3000,NA,3000
-"Antoine Wesley","WR",2022,12,3000,NA,NA
-"Javon Wims","WR",2022,12,3000,NA,NA
-"Andre Baccellia","WR",2022,12,3000,NA,NA
+"Antoine Wesley","WR",2022,12,3000,NA,3000
+"Javon Wims","WR",2022,12,3000,NA,3000
+"Andre Baccellia","WR",2022,12,3000,NA,3000
 "Dee Eskridge","WR",2022,12,3000,NA,3000
 "Dareke Young","WR",2022,12,3000,NA,3000
 "Penny Hart","WR",2022,12,3000,NA,3000
@@ -63167,7 +63166,7 @@
 "Keith Kirkwood","WR",2022,12,3000,NA,3000
 "Samori Toure","WR",2022,12,3000,NA,3000
 "Britain Covey","WR",2022,12,3000,NA,3000
-"Auden Tate","WR",2022,12,3000,NA,NA
+"Auden Tate","WR",2022,12,3000,NA,3000
 "Devon Allen","WR",2022,12,3000,NA,3000
 "Greg Ward","WR",2022,12,3000,NA,3000
 "Juwann Winfree","WR",2022,12,3000,NA,3000
@@ -63199,10 +63198,10 @@
 "Kylen Granson","TE",2022,12,2800,NA,2800
 "Browns","DST",2022,12,2700,NA,3900
 "Jordan Akins","TE",2022,12,2700,NA,2900
-"Cardinals","DST",2022,12,2700,NA,NA
+"Cardinals","DST",2022,12,2700,NA,3300
 "Tyler Kroft","TE",2022,12,2700,NA,2600
 "James O'Shaughnessy","TE",2022,12,2600,NA,2500
-"Tommy Tremble","TE",2022,12,2600,NA,NA
+"Tommy Tremble","TE",2022,12,2600,NA,2600
 "O.J. Howard","TE",2022,12,2600,NA,2600
 "Chig Okonkwo","TE",2022,12,2600,NA,2600
 "John Bates","TE",2022,12,2600,NA,2600
@@ -63216,10 +63215,10 @@
 "Nick Muse","TE",2022,12,2500,NA,2500
 "Ben Ellefson","TE",2022,12,2500,NA,2500
 "Andrew DePaola","TE",2022,12,2500,NA,2500
-"Ian Thomas","TE",2022,12,2500,NA,NA
-"Stephen Sullivan","TE",2022,12,2500,NA,NA
-"Colin Thompson","TE",2022,12,2500,NA,NA
-"Giovanni Ricci","TE",2022,12,2500,NA,NA
+"Ian Thomas","TE",2022,12,2500,NA,2700
+"Stephen Sullivan","TE",2022,12,2500,NA,2500
+"Colin Thompson","TE",2022,12,2500,NA,2500
+"Giovanni Ricci","TE",2022,12,2500,NA,2500
 "Eric Tomlinson","TE",2022,12,2500,NA,2500
 "Eric Saubert","TE",2022,12,2500,NA,2500
 "Andrew Beck","TE",2022,12,2500,NA,2500
@@ -63252,7 +63251,7 @@
 "Kenny Yeboah","TE",2022,12,2500,NA,2500
 "Jeremy Ruckert","TE",2022,12,2500,NA,2500
 "Trevon Wesco","TE",2022,12,2500,NA,2500
-"Ryan Griffin","TE",2022,12,2500,NA,4000
+"Ryan Griffin","TE",2022,12,2500,NA,2500
 "Chase Allen","TE",2022,12,2500,NA,2500
 "Sammis Reyes","TE",2022,12,2500,NA,2500
 "Patrick Scales","TE",2022,12,2500,NA,2500
@@ -63282,11 +63281,11 @@
 "Stone Smartt","TE",2022,12,2500,NA,2500
 "Donald Parham Jr.","TE",2022,12,2500,NA,2500
 "Hunter Kampmoyer","TE",2022,12,2500,NA,2500
-"Stephen Anderson","TE",2022,12,2500,NA,NA
-"Zach Ertz","TE",2022,12,2500,NA,NA
-"Maxx Williams","TE",2022,12,2500,NA,NA
-"Bernhard Seikovits","TE",2022,12,2500,NA,NA
-"Chris Pierce Jr.","TE",2022,12,2500,NA,NA
+"Stephen Anderson","TE",2022,12,2500,NA,2500
+"Zach Ertz","TE",2022,12,2500,NA,2500
+"Maxx Williams","TE",2022,12,2500,NA,2500
+"Bernhard Seikovits","TE",2022,12,2500,NA,2500
+"Chris Pierce Jr.","TE",2022,12,2500,NA,2500
 "Colby Parkinson","TE",2022,12,2500,NA,2500
 "Tyler Ott","TE",2022,12,2500,NA,2500
 "Tyler Mabry","TE",2022,12,2500,NA,2500
@@ -63397,7 +63396,7 @@
 "Quintez Cephus","WR",2022,12,3000,NA,3000
 "Trinity Benson","WR",2022,12,3000,NA,3000
 "Brandon Zylstra","WR",2022,12,3000,NA,3000
-"Josh Johnson","WR",2022,12,3000,NA,4000
+"Josh Johnson","WR",2022,12,3000,NA,3000
 "Maurice Alexander","WR",2022,12,3000,NA,3000
 "Khalil Shakir","WR",2022,12,3000,NA,3000
 "Tanner Gentry","WR",2022,12,3000,NA,3000
@@ -63440,446 +63439,446 @@
 "Chris Myarick","TE",2022,12,2500,NA,2500
 "Giants","DST",2022,12,2400,NA,2900
 "Lions","DST",2022,12,2100,NA,2800
-"Justin Jefferson","WR",2022,13,8900,NA,NA
-"Tyreek Hill","WR",2022,13,8800,NA,NA
-"Davante Adams","WR",2022,13,8700,NA,NA
-"Christian McCaffrey","RB",2022,13,8600,NA,NA
-"Austin Ekeler","RB",2022,13,8500,NA,NA
-"Patrick Mahomes","QB",2022,13,8300,NA,NA
-"Josh Allen","QB",2022,13,8200,NA,NA
-"Stefon Diggs","WR",2022,13,8200,NA,NA
-"Saquon Barkley","RB",2022,13,8200,NA,NA
-"Derrick Henry","RB",2022,13,8100,NA,NA
-"Nick Chubb","RB",2022,13,8000,NA,NA
-"Jalen Hurts","QB",2022,13,8000,NA,NA
-"Cooper Kupp","WR",2022,13,8000,NA,NA
-"Ja'Marr Chase","WR",2022,13,7900,NA,NA
-"Travis Kelce","TE",2022,13,7900,NA,NA
-"Josh Jacobs","RB",2022,13,7900,NA,NA
-"Lamar Jackson","QB",2022,13,7800,NA,NA
-"A.J. Brown","WR",2022,13,7800,NA,NA
+"Justin Jefferson","WR",2022,13,8900,NA,9000
+"Tyreek Hill","WR",2022,13,8800,NA,8800
+"Davante Adams","WR",2022,13,8700,NA,8900
+"Christian McCaffrey","RB",2022,13,8600,NA,8500
+"Austin Ekeler","RB",2022,13,8500,NA,8600
+"Patrick Mahomes","QB",2022,13,8300,NA,8000
+"Josh Allen","QB",2022,13,8200,NA,8300
+"Stefon Diggs","WR",2022,13,8200,NA,8300
+"Saquon Barkley","RB",2022,13,8200,NA,8000
+"Derrick Henry","RB",2022,13,8100,NA,7900
+"Nick Chubb","RB",2022,13,8000,NA,7800
+"Jalen Hurts","QB",2022,13,8000,NA,8100
+"Cooper Kupp","WR",2022,13,8000,NA,8000
+"Ja'Marr Chase","WR",2022,13,7900,NA,7900
+"Travis Kelce","TE",2022,13,7900,NA,7600
+"Josh Jacobs","RB",2022,13,7900,NA,8100
+"Lamar Jackson","QB",2022,13,7800,NA,7400
+"A.J. Brown","WR",2022,13,7800,NA,8000
 "Jonathan Taylor","RB",2022,13,7700,NA,NA
 "Justin Fields","QB",2022,13,7400,NA,NA
-"Jaylen Waddle","WR",2022,13,7400,NA,NA
-"CeeDee Lamb","WR",2022,13,7300,NA,NA
-"Dalvin Cook","RB",2022,13,7200,NA,NA
-"Tee Higgins","WR",2022,13,7200,NA,NA
-"Justin Herbert","QB",2022,13,7200,NA,NA
-"Amon-Ra St. Brown","WR",2022,13,7100,NA,NA
-"Joe Mixon","RB",2022,13,7100,NA,NA
-"Kenneth Walker III","RB",2022,13,7000,NA,NA
+"Jaylen Waddle","WR",2022,13,7400,NA,7200
+"CeeDee Lamb","WR",2022,13,7300,NA,7500
+"Dalvin Cook","RB",2022,13,7200,NA,7300
+"Tee Higgins","WR",2022,13,7200,NA,7000
+"Justin Herbert","QB",2022,13,7200,NA,7200
+"Amon-Ra St. Brown","WR",2022,13,7100,NA,7800
+"Joe Mixon","RB",2022,13,7100,NA,6900
+"Kenneth Walker III","RB",2022,13,7000,NA,6800
 "Alvin Kamara","RB",2022,13,7000,NA,NA
 "Aaron Jones","RB",2022,13,6900,NA,NA
-"Joe Burrow","QB",2022,13,6900,NA,NA
-"DK Metcalf","WR",2022,13,6700,NA,NA
-"Tua Tagovailoa","QB",2022,13,6700,NA,NA
-"Rhamondre Stevenson","RB",2022,13,6600,NA,NA
-"Mark Andrews","TE",2022,13,6600,NA,NA
-"Deebo Samuel","WR",2022,13,6600,NA,NA
-"Deshaun Watson","QB",2022,13,6500,NA,NA
-"Keenan Allen","WR",2022,13,6500,NA,NA
-"Tony Pollard","RB",2022,13,6500,NA,NA
-"Chris Godwin","WR",2022,13,6500,NA,NA
-"Travis Etienne Jr.","RB",2022,13,6400,NA,NA
-"Amari Cooper","WR",2022,13,6400,NA,NA
+"Joe Burrow","QB",2022,13,6900,NA,7000
+"DK Metcalf","WR",2022,13,6700,NA,7100
+"Tua Tagovailoa","QB",2022,13,6700,NA,6800
+"Rhamondre Stevenson","RB",2022,13,6600,NA,6600
+"Mark Andrews","TE",2022,13,6600,NA,6500
+"Deebo Samuel","WR",2022,13,6600,NA,6100
+"Deshaun Watson","QB",2022,13,6500,NA,6400
+"Keenan Allen","WR",2022,13,6500,NA,6600
+"Tony Pollard","RB",2022,13,6500,NA,6700
+"Chris Godwin","WR",2022,13,6500,NA,6700
+"Travis Etienne Jr.","RB",2022,13,6400,NA,6400
+"Amari Cooper","WR",2022,13,6400,NA,6200
 "Chris Olave","WR",2022,13,6400,NA,NA
-"Christian Kirk","WR",2022,13,6300,NA,NA
-"Miles Sanders","RB",2022,13,6300,NA,NA
-"Mike Evans","WR",2022,13,6300,NA,NA
+"Christian Kirk","WR",2022,13,6300,NA,6600
+"Miles Sanders","RB",2022,13,6300,NA,6200
+"Mike Evans","WR",2022,13,6300,NA,6400
 "David Montgomery","RB",2022,13,6200,NA,NA
-"DeVonta Smith","WR",2022,13,6200,NA,NA
-"Dak Prescott","QB",2022,13,6200,NA,NA
-"Najee Harris","RB",2022,13,6100,NA,NA
-"Geno Smith","QB",2022,13,6100,NA,NA
-"Jeff Wilson Jr.","RB",2022,13,6100,NA,NA
-"Brandon Aiyuk","WR",2022,13,6100,NA,NA
+"DeVonta Smith","WR",2022,13,6200,NA,6300
+"Dak Prescott","QB",2022,13,6200,NA,6500
+"Najee Harris","RB",2022,13,6100,NA,5800
+"Geno Smith","QB",2022,13,6100,NA,6200
+"Jeff Wilson Jr.","RB",2022,13,6100,NA,5500
+"Brandon Aiyuk","WR",2022,13,6100,NA,5800
 "Michael Pittman Jr.","WR",2022,13,6100,NA,NA
-"Jamaal Williams","RB",2022,13,6000,NA,NA
-"Tyler Lockett","WR",2022,13,6000,NA,NA
-"Samaje Perine","RB",2022,13,6000,NA,NA
-"Trevor Lawrence","QB",2022,13,5900,NA,NA
-"Dameon Pierce","RB",2022,13,5900,NA,NA
-"Mike Williams","WR",2022,13,5900,NA,NA
-"Devin Singletary","RB",2022,13,5800,NA,NA
+"Jamaal Williams","RB",2022,13,6000,NA,5900
+"Tyler Lockett","WR",2022,13,6000,NA,6500
+"Samaje Perine","RB",2022,13,6000,NA,6300
+"Trevor Lawrence","QB",2022,13,5900,NA,5700
+"Dameon Pierce","RB",2022,13,5900,NA,6000
+"Mike Williams","WR",2022,13,5900,NA,5900
+"Devin Singletary","RB",2022,13,5800,NA,5700
 "Cordarrelle Patterson","RB",2022,13,5800,NA,NA
 "Aaron Rodgers","QB",2022,13,5800,NA,NA
 "Terry McLaurin","WR",2022,13,5800,NA,NA
-"Ezekiel Elliott","RB",2022,13,5800,NA,NA
-"Jerry Jeudy","WR",2022,13,5700,NA,NA
-"Kirk Cousins","QB",2022,13,5700,NA,NA
-"Jimmy Garoppolo","QB",2022,13,5700,NA,NA
-"Isiah Pacheco","RB",2022,13,5700,NA,NA
-"JuJu Smith-Schuster","WR",2022,13,5700,NA,NA
-"Leonard Fournette","RB",2022,13,5700,NA,NA
+"Ezekiel Elliott","RB",2022,13,5800,NA,6100
+"Jerry Jeudy","WR",2022,13,5700,NA,5400
+"Kirk Cousins","QB",2022,13,5700,NA,6100
+"Jimmy Garoppolo","QB",2022,13,5700,NA,4000
+"Isiah Pacheco","RB",2022,13,5700,NA,5700
+"JuJu Smith-Schuster","WR",2022,13,5700,NA,5600
+"Leonard Fournette","RB",2022,13,5700,NA,5600
 "AJ Dillon","RB",2022,13,5600,NA,NA
-"D'Andre Swift","RB",2022,13,5600,NA,NA
-"Derek Carr","QB",2022,13,5600,NA,NA
-"Joshua Palmer","WR",2022,13,5600,NA,NA
-"Tom Brady","QB",2022,13,5600,NA,NA
-"Rachaad White","RB",2022,13,5600,NA,NA
-"Damien Harris","RB",2022,13,5500,NA,NA
-"Courtland Sutton","WR",2022,13,5500,NA,NA
-"Daniel Jones","QB",2022,13,5500,NA,NA
-"Matthew Stafford","QB",2022,13,5500,NA,NA
-"Raheem Mostert","RB",2022,13,5500,NA,NA
+"D'Andre Swift","RB",2022,13,5600,NA,5800
+"Derek Carr","QB",2022,13,5600,NA,5700
+"Joshua Palmer","WR",2022,13,5600,NA,5400
+"Tom Brady","QB",2022,13,5600,NA,5600
+"Rachaad White","RB",2022,13,5600,NA,5500
+"Damien Harris","RB",2022,13,5500,NA,5600
+"Courtland Sutton","WR",2022,13,5500,NA,5200
+"Daniel Jones","QB",2022,13,5500,NA,5400
+"Matthew Stafford","QB",2022,13,5500,NA,5500
+"Raheem Mostert","RB",2022,13,5500,NA,5400
 "Marcus Mariota","QB",2022,13,5400,NA,NA
-"Gus Edwards","RB",2022,13,5400,NA,NA
+"Gus Edwards","RB",2022,13,5400,NA,5200
 "Allen Lazard","WR",2022,13,5400,NA,NA
-"Mike White","QB",2022,13,5400,NA,NA
-"Michael Carter","RB",2022,13,5400,NA,NA
-"Gabe Davis","WR",2022,13,5300,NA,NA
-"Kenyan Drake","RB",2022,13,5300,NA,NA
-"Latavius Murray","RB",2022,13,5300,NA,NA
-"Jared Goff","QB",2022,13,5300,NA,NA
-"Jacoby Brissett","QB",2022,13,5300,NA,NA
-"Garrett Wilson","WR",2022,13,5300,NA,NA
+"Mike White","QB",2022,13,5400,NA,5500
+"Michael Carter","RB",2022,13,5400,NA,5300
+"Gabe Davis","WR",2022,13,5300,NA,5300
+"Kenyan Drake","RB",2022,13,5300,NA,5100
+"Latavius Murray","RB",2022,13,5300,NA,5200
+"Jared Goff","QB",2022,13,5300,NA,5600
+"Jacoby Brissett","QB",2022,13,5300,NA,5300
+"Garrett Wilson","WR",2022,13,5300,NA,5900
 "Brian Robinson Jr.","RB",2022,13,5300,NA,NA
-"Tyler Boyd","WR",2022,13,5300,NA,NA
+"Tyler Boyd","WR",2022,13,5300,NA,5000
 "Deon Jackson","RB",2022,13,5300,NA,NA
-"Mac Jones","QB",2022,13,5200,NA,NA
-"Kenny Pickett","QB",2022,13,5200,NA,NA
-"Diontae Johnson","WR",2022,13,5200,NA,NA
-"Russell Wilson","QB",2022,13,5200,NA,NA
+"Mac Jones","QB",2022,13,5200,NA,5100
+"Kenny Pickett","QB",2022,13,5200,NA,5200
+"Diontae Johnson","WR",2022,13,5200,NA,5100
+"Russell Wilson","QB",2022,13,5200,NA,5100
 "Christian Watson","WR",2022,13,5200,NA,NA
-"James Robinson","RB",2022,13,5200,NA,NA
-"T.J. Hockenson","TE",2022,13,5200,NA,NA
+"James Robinson","RB",2022,13,5200,NA,4500
+"T.J. Hockenson","TE",2022,13,5200,NA,5100
 "Antonio Gibson","RB",2022,13,5200,NA,NA
-"Ryan Tannehill","QB",2022,13,5200,NA,NA
-"Kyren Williams","RB",2022,13,5200,NA,NA
+"Ryan Tannehill","QB",2022,13,5200,NA,5200
+"Kyren Williams","RB",2022,13,5200,NA,5000
 "Matt Ryan","QB",2022,13,5200,NA,NA
 "Andy Dalton","QB",2022,13,5200,NA,NA
 "Jameis Winston","QB",2022,13,5200,NA,NA
-"George Pickens","WR",2022,13,5100,NA,NA
+"George Pickens","WR",2022,13,5100,NA,5000
 "Jordan Love","QB",2022,13,5100,NA,NA
 "Taylor Heinicke","QB",2022,13,5100,NA,NA
-"Darius Slayton","WR",2022,13,5100,NA,NA
-"Kenneth Gainwell","RB",2022,13,5100,NA,NA
-"Cam Akers","RB",2022,13,5100,NA,NA
-"Jakobi Meyers","WR",2022,13,5000,NA,NA
+"Darius Slayton","WR",2022,13,5100,NA,5100
+"Kenneth Gainwell","RB",2022,13,5100,NA,5000
+"Cam Akers","RB",2022,13,5100,NA,5400
+"Jakobi Meyers","WR",2022,13,5000,NA,4800
 "Desmond Ridder","QB",2022,13,5000,NA,NA
-"Brett Rypien","QB",2022,13,5000,NA,NA
-"JaMycal Hasty","RB",2022,13,5000,NA,NA
-"Kyle Allen","QB",2022,13,5000,NA,NA
-"Davis Mills","QB",2022,13,5000,NA,NA
-"Brandin Cooks","WR",2022,13,5000,NA,NA
-"Ty Johnson","RB",2022,13,5000,NA,NA
-"Adam Thielen","WR",2022,13,5000,NA,NA
+"Brett Rypien","QB",2022,13,5000,NA,5000
+"JaMycal Hasty","RB",2022,13,5000,NA,4700
+"Kyle Allen","QB",2022,13,5000,NA,5000
+"Davis Mills","QB",2022,13,5000,NA,5000
+"Brandin Cooks","WR",2022,13,5000,NA,4900
+"Ty Johnson","RB",2022,13,5000,NA,4900
+"Adam Thielen","WR",2022,13,5000,NA,4900
 "Carson Wentz","QB",2022,13,5000,NA,NA
-"Gardner Minshew II","QB",2022,13,5000,NA,NA
-"George Kittle","TE",2022,13,5000,NA,NA
-"Chad Henne","QB",2022,13,5000,NA,NA
-"Brandon Allen","QB",2022,13,5000,NA,NA
-"Case Keenum","QB",2022,13,4900,NA,NA
-"Bailey Zappe","QB",2022,13,4900,NA,NA
-"Mitch Trubisky","QB",2022,13,4900,NA,NA
-"Mason Rudolph","QB",2022,13,4900,NA,NA
-"Jaylen Warren","RB",2022,13,4900,NA,NA
-"Tyler Huntley","QB",2022,13,4900,NA,NA
+"Gardner Minshew II","QB",2022,13,5000,NA,5000
+"George Kittle","TE",2022,13,5000,NA,4300
+"Chad Henne","QB",2022,13,5000,NA,5000
+"Brandon Allen","QB",2022,13,5000,NA,4700
+"Case Keenum","QB",2022,13,4900,NA,4100
+"Bailey Zappe","QB",2022,13,4900,NA,5000
+"Mitch Trubisky","QB",2022,13,4900,NA,4900
+"Mason Rudolph","QB",2022,13,4900,NA,4900
+"Jaylen Warren","RB",2022,13,4900,NA,4500
+"Tyler Huntley","QB",2022,13,4900,NA,5500
 "Trevor Siemian","QB",2022,13,4900,NA,NA
 "Darnell Mooney","WR",2022,13,4900,NA,NA
-"Darrell Henderson Jr.","RB",2022,13,4900,NA,NA
-"Zay Jones","WR",2022,13,4900,NA,NA
+"Darrell Henderson Jr.","RB",2022,13,4900,NA,4800
+"Zay Jones","WR",2022,13,4900,NA,4700
 "Joshua Dobbs","QB",2022,13,4900,NA,NA
-"Donovan Peoples-Jones","WR",2022,13,4900,NA,NA
-"Joe Flacco","QB",2022,13,4900,NA,NA
-"Zach Wilson","QB",2022,13,4900,NA,NA
-"Nick Mullens","QB",2022,13,4900,NA,NA
-"Dallas Goedert","TE",2022,13,4900,NA,NA
-"Drew Lock","QB",2022,13,4900,NA,NA
-"Bryce Perkins","QB",2022,13,4900,NA,NA
-"John Wolford","QB",2022,13,4900,NA,NA
-"Brock Purdy","QB",2022,13,4900,NA,NA
-"Kadarius Toney","WR",2022,13,4900,NA,NA
-"Chase Daniel","QB",2022,13,4900,NA,NA
-"Jarrett Stidham","QB",2022,13,4900,NA,NA
+"Donovan Peoples-Jones","WR",2022,13,4900,NA,4900
+"Joe Flacco","QB",2022,13,4900,NA,4800
+"Zach Wilson","QB",2022,13,4900,NA,4800
+"Nick Mullens","QB",2022,13,4900,NA,4900
+"Dallas Goedert","TE",2022,13,4900,NA,4700
+"Drew Lock","QB",2022,13,4900,NA,4900
+"Bryce Perkins","QB",2022,13,4900,NA,4900
+"John Wolford","QB",2022,13,4900,NA,4900
+"Brock Purdy","QB",2022,13,4900,NA,5100
+"Kadarius Toney","WR",2022,13,4900,NA,4800
+"Chase Daniel","QB",2022,13,4900,NA,4800
+"Jarrett Stidham","QB",2022,13,4900,NA,4700
 "Sam Ehlinger","QB",2022,13,4900,NA,NA
 "Nathan Peterman","QB",2022,13,4800,NA,NA
 "Romeo Doubs","WR",2022,13,4800,NA,NA
-"C.J. Beathard","QB",2022,13,4800,NA,NA
-"Nate Sudfeld","QB",2022,13,4800,NA,NA
-"Kareem Hunt","RB",2022,13,4800,NA,NA
-"Alexander Mattison","RB",2022,13,4800,NA,NA
+"C.J. Beathard","QB",2022,13,4800,NA,4800
+"Nate Sudfeld","QB",2022,13,4800,NA,4100
+"Kareem Hunt","RB",2022,13,4800,NA,4600
+"Alexander Mattison","RB",2022,13,4800,NA,4900
 "Sam Howell","QB",2022,13,4800,NA,NA
-"Tyrod Taylor","QB",2022,13,4800,NA,NA
-"Malik Willis","QB",2022,13,4800,NA,NA
-"Van Jefferson","WR",2022,13,4800,NA,NA
-"Teddy Bridgewater","QB",2022,13,4800,NA,NA
-"Elijah Mitchell","RB",2022,13,4800,NA,NA
-"Cooper Rush","QB",2022,13,4800,NA,NA
+"Tyrod Taylor","QB",2022,13,4800,NA,4600
+"Malik Willis","QB",2022,13,4800,NA,4800
+"Van Jefferson","WR",2022,13,4800,NA,4600
+"Teddy Bridgewater","QB",2022,13,4800,NA,4900
+"Elijah Mitchell","RB",2022,13,4800,NA,4000
+"Cooper Rush","QB",2022,13,4800,NA,5000
 "Nick Foles","QB",2022,13,4800,NA,NA
 "Mark Ingram II","RB",2022,13,4800,NA,NA
-"Benny Snell Jr.","RB",2022,13,4700,NA,NA
+"Benny Snell Jr.","RB",2022,13,4700,NA,4300
 "Tyler Allgeier","RB",2022,13,4700,NA,NA
 "Drake London","WR",2022,13,4700,NA,NA
-"Jameson Williams","WR",2022,13,4700,NA,NA
+"Jameson Williams","WR",2022,13,4700,NA,4400
 "Taysom Hill","QB",2022,13,4700,NA,NA
-"James Cook","RB",2022,13,4600,NA,NA
-"Eno Benjamin","RB",2022,13,4600,NA,NA
-"Zonovan Knight","RB",2022,13,4600,NA,NA
-"Dontrell Hilliard","RB",2022,13,4600,NA,NA
-"Treylon Burks","WR",2022,13,4600,NA,NA
-"Travis Homer","RB",2022,13,4600,NA,NA
-"Ameer Abdullah","RB",2022,13,4600,NA,NA
-"Mack Hollins","WR",2022,13,4600,NA,NA
+"James Cook","RB",2022,13,4600,NA,4600
+"Eno Benjamin","RB",2022,13,4600,NA,4200
+"Zonovan Knight","RB",2022,13,4600,NA,5100
+"Dontrell Hilliard","RB",2022,13,4600,NA,4500
+"Treylon Burks","WR",2022,13,4600,NA,4700
+"Travis Homer","RB",2022,13,4600,NA,5000
+"Ameer Abdullah","RB",2022,13,4600,NA,4600
+"Mack Hollins","WR",2022,13,4600,NA,4400
 "Zack Moss","RB",2022,13,4600,NA,NA
 "Parris Campbell","WR",2022,13,4600,NA,NA
-"Michael Gallup","WR",2022,13,4600,NA,NA
-"Blaine Gabbert","QB",2022,13,4600,NA,NA
-"Devin Duvernay","WR",2022,13,4500,NA,NA
+"Michael Gallup","WR",2022,13,4600,NA,4600
+"Blaine Gabbert","QB",2022,13,4600,NA,4900
+"Devin Duvernay","WR",2022,13,4500,NA,4400
 "Curtis Samuel","WR",2022,13,4500,NA,NA
-"Boston Scott","RB",2022,13,4500,NA,NA
-"Jordan Mason","RB",2022,13,4500,NA,NA
-"Jerick McKinnon","RB",2022,13,4500,NA,NA
-"Darren Waller","TE",2022,13,4500,NA,NA
-"Myles Gaskin","RB",2022,13,4400,NA,NA
-"Ronald Jones II","RB",2022,13,4400,NA,NA
-"Clyde Edwards-Helaire","RB",2022,13,4400,NA,NA
-"Mecole Hardman","WR",2022,13,4400,NA,NA
-"Gerald Everett","TE",2022,13,4400,NA,NA
-"Pat Freiermuth","TE",2022,13,4300,NA,NA
-"Chase Edmonds","RB",2022,13,4300,NA,NA
-"Matt Breida","RB",2022,13,4300,NA,NA
-"Robert Woods","WR",2022,13,4300,NA,NA
-"Trayveon Williams","RB",2022,13,4300,NA,NA
-"Nyheim Hines","RB",2022,13,4200,NA,NA
-"Isaiah McKenzie","WR",2022,13,4200,NA,NA
+"Boston Scott","RB",2022,13,4500,NA,4200
+"Jordan Mason","RB",2022,13,4500,NA,4400
+"Jerick McKinnon","RB",2022,13,4500,NA,4600
+"Darren Waller","TE",2022,13,4500,NA,4100
+"Myles Gaskin","RB",2022,13,4400,NA,4300
+"Ronald Jones II","RB",2022,13,4400,NA,4000
+"Clyde Edwards-Helaire","RB",2022,13,4400,NA,4000
+"Mecole Hardman","WR",2022,13,4400,NA,4200
+"Gerald Everett","TE",2022,13,4400,NA,4300
+"Pat Freiermuth","TE",2022,13,4300,NA,4500
+"Chase Edmonds","RB",2022,13,4300,NA,4300
+"Matt Breida","RB",2022,13,4300,NA,4300
+"Robert Woods","WR",2022,13,4300,NA,4500
+"Trayveon Williams","RB",2022,13,4300,NA,4200
+"Nyheim Hines","RB",2022,13,4200,NA,4200
+"Isaiah McKenzie","WR",2022,13,4200,NA,4200
 "Darrynton Evans","RB",2022,13,4200,NA,NA
 "Randall Cobb","WR",2022,13,4200,NA,NA
-"Nico Collins","WR",2022,13,4200,NA,NA
-"Gary Brightwell","RB",2022,13,4200,NA,NA
-"Skylar Thompson","QB",2022,13,4200,NA,NA
-"Sony Michel","RB",2022,13,4200,NA,NA
-"Marlon Mack","RB",2022,13,4100,NA,NA
-"Rex Burkhead","RB",2022,13,4100,NA,NA
-"Corey Davis","WR",2022,13,4100,NA,NA
-"Marquez Valdes-Scantling","WR",2022,13,4100,NA,NA
-"Isaiah Spiller","RB",2022,13,4100,NA,NA
-"Hunter Renfrow","WR",2022,13,4100,NA,NA
-"Malik Davis","RB",2022,13,4100,NA,NA
-"Dalton Schultz","TE",2022,13,4100,NA,NA
+"Nico Collins","WR",2022,13,4200,NA,4400
+"Gary Brightwell","RB",2022,13,4200,NA,4000
+"Skylar Thompson","QB",2022,13,4200,NA,4800
+"Sony Michel","RB",2022,13,4200,NA,4000
+"Marlon Mack","RB",2022,13,4100,NA,4000
+"Rex Burkhead","RB",2022,13,4100,NA,4000
+"Corey Davis","WR",2022,13,4100,NA,4200
+"Marquez Valdes-Scantling","WR",2022,13,4100,NA,4100
+"Isaiah Spiller","RB",2022,13,4100,NA,4000
+"Hunter Renfrow","WR",2022,13,4100,NA,4000
+"Malik Davis","RB",2022,13,4100,NA,4200
+"Dalton Schultz","TE",2022,13,4100,NA,4400
 "Dwayne Washington","RB",2022,13,4100,NA,NA
-"Brian Hoyer","QB",2022,13,4000,NA,NA
-"Garrett Gilbert","QB",2022,13,4000,NA,NA
-"Matt Barkley","QB",2022,13,4000,NA,NA
-"Pierre Strong Jr.","RB",2022,13,4000,NA,NA
-"Kevin Harris","RB",2022,13,4000,NA,NA
-"J.J. Taylor","RB",2022,13,4000,NA,NA
-"Taiwan Jones","RB",2022,13,4000,NA,NA
-"Reggie Gilliam","RB",2022,13,4000,NA,NA
-"Duke Johnson","RB",2022,13,4000,NA,NA
-"Jeremy McNichols","RB",2022,13,4000,NA,NA
-"Jason Huntley","RB",2022,13,4000,NA,NA
-"Anthony McFarland Jr.","RB",2022,13,4000,NA,NA
-"Derek Watt","RB",2022,13,4000,NA,NA
-"Master Teague III","RB",2022,13,4000,NA,NA
+"Brian Hoyer","QB",2022,13,4000,NA,4000
+"Garrett Gilbert","QB",2022,13,4000,NA,4000
+"Matt Barkley","QB",2022,13,4000,NA,4000
+"Pierre Strong Jr.","RB",2022,13,4000,NA,4000
+"Kevin Harris","RB",2022,13,4000,NA,4000
+"J.J. Taylor","RB",2022,13,4000,NA,4000
+"Taiwan Jones","RB",2022,13,4000,NA,4000
+"Reggie Gilliam","RB",2022,13,4000,NA,4000
+"Duke Johnson","RB",2022,13,4000,NA,4000
+"Jeremy McNichols","RB",2022,13,4000,NA,4000
+"Jason Huntley","RB",2022,13,4000,NA,4000
+"Anthony McFarland Jr.","RB",2022,13,4000,NA,4000
+"Derek Watt","RB",2022,13,4000,NA,4000
+"Master Teague III","RB",2022,13,4000,NA,4000
 "Caleb Huntley","RB",2022,13,4000,NA,NA
 "Avery Williams","RB",2022,13,4000,NA,NA
 "Damien Williams","RB",2022,13,4000,NA,NA
 "B.J. Baylor","RB",2022,13,4000,NA,NA
 "Keith Smith","RB",2022,13,4000,NA,NA
-"Anthony Brown","QB",2022,13,4000,NA,NA
-"Justice Hill","RB",2022,13,4000,NA,NA
-"Mike Davis","RB",2022,13,4000,NA,NA
-"J.K. Dobbins","RB",2022,13,4000,NA,NA
-"Patrick Ricard","RB",2022,13,4000,NA,NA
-"Tyler Badie","RB",2022,13,4000,NA,NA
-"Ben Mason","RB",2022,13,4000,NA,NA
-"Ricky Person Jr.","RB",2022,13,4000,NA,NA
-"Devine Ozigbo","RB",2022,13,4000,NA,NA
-"Mike Boone","RB",2022,13,4000,NA,NA
-"Javonte Williams","RB",2022,13,4000,NA,NA
-"Damarea Crockett","RB",2022,13,4000,NA,NA
+"Anthony Brown","QB",2022,13,4000,NA,4000
+"Justice Hill","RB",2022,13,4000,NA,4000
+"Mike Davis","RB",2022,13,4000,NA,4000
+"J.K. Dobbins","RB",2022,13,4000,NA,4000
+"Patrick Ricard","RB",2022,13,4000,NA,4000
+"Tyler Badie","RB",2022,13,4000,NA,4000
+"Ben Mason","RB",2022,13,4000,NA,4000
+"Ricky Person Jr.","RB",2022,13,4000,NA,4000
+"Devine Ozigbo","RB",2022,13,4000,NA,4000
+"Mike Boone","RB",2022,13,4000,NA,4200
+"Javonte Williams","RB",2022,13,4000,NA,4000
+"Damarea Crockett","RB",2022,13,4000,NA,4000
 "Tyreik McAllister","RB",2022,13,4000,NA,NA
-"Demarcus Robinson","WR",2022,13,4000,NA,NA
-"Ravens","DST",2022,13,4000,NA,NA
+"Demarcus Robinson","WR",2022,13,4000,NA,4000
+"Ravens","DST",2022,13,4000,NA,3300
 "Danny Etling","QB",2022,13,4000,NA,NA
 "Patrick Taylor","RB",2022,13,4000,NA,NA
 "Tyler Goodson","RB",2022,13,4000,NA,NA
 "Trestan Ebner","RB",2022,13,4000,NA,NA
 "Khalil Herbert","RB",2022,13,4000,NA,NA
 "Khari Blasingame","RB",2022,13,4000,NA,NA
-"E.J. Perry","QB",2022,13,4000,NA,NA
+"E.J. Perry","QB",2022,13,4000,NA,4000
 "Tim Boyle","QB",2022,13,4000,NA,NA
-"Snoop Conner","RB",2022,13,4000,NA,NA
-"Mekhi Sargent","RB",2022,13,4000,NA,NA
-"Justin Jackson","RB",2022,13,4000,NA,NA
-"Craig Reynolds","RB",2022,13,4000,NA,NA
-"Greg Bell","RB",2022,13,4000,NA,NA
-"Jermar Jefferson","RB",2022,13,4000,NA,NA
-"Jason Cabinda","RB",2022,13,4000,NA,NA
-"Marvin Jones Jr.","WR",2022,13,4000,NA,NA
-"Josh Reynolds","WR",2022,13,4000,NA,NA
-"Kellen Mond","QB",2022,13,4000,NA,NA
-"Jeff Driskel","QB",2022,13,4000,NA,NA
-"D'Ernest Johnson","RB",2022,13,4000,NA,NA
-"Jerome Ford","RB",2022,13,4000,NA,NA
-"Demetric Felton","RB",2022,13,4000,NA,NA
-"John Kelly Jr.","RB",2022,13,4000,NA,NA
-"Dare Ogunbowale","RB",2022,13,4000,NA,NA
-"Darius Anderson","RB",2022,13,4000,NA,NA
-"Royce Freeman","RB",2022,13,4000,NA,NA
-"Troy Hairston","RB",2022,13,4000,NA,NA
-"Chris Streveler","QB",2022,13,4000,NA,NA
-"David Blough","QB",2022,13,4000,NA,NA
-"Breece Hall","RB",2022,13,4000,NA,NA
-"Nick Bawden","RB",2022,13,4000,NA,NA
-"Kene Nwangwu","RB",2022,13,4000,NA,NA
-"Ty Chandler","RB",2022,13,4000,NA,NA
-"Bryant Koback","RB",2022,13,4000,NA,NA
-"C.J. Ham","RB",2022,13,4000,NA,NA
+"Snoop Conner","RB",2022,13,4000,NA,4000
+"Mekhi Sargent","RB",2022,13,4000,NA,4000
+"Justin Jackson","RB",2022,13,4000,NA,4000
+"Craig Reynolds","RB",2022,13,4000,NA,4000
+"Greg Bell","RB",2022,13,4000,NA,4000
+"Jermar Jefferson","RB",2022,13,4000,NA,4000
+"Jason Cabinda","RB",2022,13,4000,NA,4000
+"Marvin Jones Jr.","WR",2022,13,4000,NA,3800
+"Josh Reynolds","WR",2022,13,4000,NA,3400
+"Kellen Mond","QB",2022,13,4000,NA,4000
+"Jeff Driskel","QB",2022,13,4000,NA,4000
+"D'Ernest Johnson","RB",2022,13,4000,NA,4000
+"Jerome Ford","RB",2022,13,4000,NA,4000
+"Demetric Felton","RB",2022,13,4000,NA,4000
+"John Kelly Jr.","RB",2022,13,4000,NA,4000
+"Dare Ogunbowale","RB",2022,13,4000,NA,4000
+"Darius Anderson","RB",2022,13,4000,NA,4000
+"Royce Freeman","RB",2022,13,4000,NA,4000
+"Troy Hairston","RB",2022,13,4000,NA,4000
+"Chris Streveler","QB",2022,13,4000,NA,4000
+"David Blough","QB",2022,13,4000,NA,4000
+"Breece Hall","RB",2022,13,4000,NA,4000
+"Nick Bawden","RB",2022,13,4000,NA,4000
+"Kene Nwangwu","RB",2022,13,4000,NA,4000
+"Ty Chandler","RB",2022,13,4000,NA,4000
+"Bryant Koback","RB",2022,13,4000,NA,4000
+"C.J. Ham","RB",2022,13,4000,NA,4000
 "Jake Fromm","QB",2022,13,4000,NA,NA
-"Davis Webb","QB",2022,13,4000,NA,NA
+"Davis Webb","QB",2022,13,4000,NA,4000
 "Jonathan Williams","RB",2022,13,4000,NA,NA
 "J.D. McKissic","RB",2022,13,4000,NA,NA
 "Jaret Patterson","RB",2022,13,4000,NA,NA
 "Alex Armah","RB",2022,13,4000,NA,NA
-"Jashaun Corbin","RB",2022,13,4000,NA,NA
-"Sandro Platzgummer","RB",2022,13,4000,NA,NA
-"Ian Book","QB",2022,13,4000,NA,NA
-"Logan Woodside","QB",2022,13,4000,NA,NA
-"Trey Sermon","RB",2022,13,4000,NA,NA
+"Jashaun Corbin","RB",2022,13,4000,NA,4000
+"Sandro Platzgummer","RB",2022,13,4000,NA,4000
+"Ian Book","QB",2022,13,4000,NA,4000
+"Logan Woodside","QB",2022,13,4000,NA,4000
+"Trey Sermon","RB",2022,13,4000,NA,4000
 "Kennedy Brooks","RB",2022,13,4000,NA,NA
-"Hassan Haskins","RB",2022,13,4000,NA,NA
-"Trenton Cannon","RB",2022,13,4000,NA,NA
-"Julius Chestnut","RB",2022,13,4000,NA,NA
-"Tory Carter","RB",2022,13,4000,NA,NA
-"Sean Mannion","QB",2022,13,4000,NA,NA
-"Case Cookus","QB",2022,13,4000,NA,NA
-"DeeJay Dallas","RB",2022,13,4000,NA,NA
-"Tony Jones Jr.","RB",2022,13,4000,NA,NA
-"Rashaad Penny","RB",2022,13,4000,NA,NA
-"Darwin Thompson","RB",2022,13,4000,NA,NA
-"Cullen Gillaspia","RB",2022,13,4000,NA,NA
-"Godwin Igwebuike","RB",2022,13,4000,NA,NA
-"Ronnie Rivers","RB",2022,13,4000,NA,NA
-"Malcolm Brown","RB",2022,13,4000,NA,NA
-"Trey Lance","QB",2022,13,4000,NA,NA
-"Jacob Eason","QB",2022,13,4000,NA,NA
-"Tyrion Davis-Price","RB",2022,13,4000,NA,NA
-"Tevin Coleman","RB",2022,13,4000,NA,NA
-"Kyle Juszczyk","RB",2022,13,4000,NA,NA
-"Salvon Ahmed","RB",2022,13,4000,NA,NA
-"La'Mical Perine","RB",2022,13,4000,NA,NA
-"Jake Bargas","RB",2022,13,4000,NA,NA
-"John Lovett","RB",2022,13,4000,NA,NA
-"Alec Ingold","RB",2022,13,4000,NA,NA
-"Shane Buechele","QB",2022,13,4000,NA,NA
-"Chris Oladokun","QB",2022,13,4000,NA,NA
-"Jake Browning","QB",2022,13,4000,NA,NA
-"Michael Burton","RB",2022,13,4000,NA,NA
+"Hassan Haskins","RB",2022,13,4000,NA,4000
+"Trenton Cannon","RB",2022,13,4000,NA,4000
+"Julius Chestnut","RB",2022,13,4000,NA,4000
+"Tory Carter","RB",2022,13,4000,NA,4000
+"Sean Mannion","QB",2022,13,4000,NA,4000
+"Case Cookus","QB",2022,13,4000,NA,4000
+"DeeJay Dallas","RB",2022,13,4000,NA,4900
+"Tony Jones Jr.","RB",2022,13,4000,NA,4800
+"Rashaad Penny","RB",2022,13,4000,NA,4000
+"Darwin Thompson","RB",2022,13,4000,NA,4000
+"Cullen Gillaspia","RB",2022,13,4000,NA,4000
+"Godwin Igwebuike","RB",2022,13,4000,NA,4000
+"Ronnie Rivers","RB",2022,13,4000,NA,4000
+"Malcolm Brown","RB",2022,13,4000,NA,4000
+"Trey Lance","QB",2022,13,4000,NA,4000
+"Jacob Eason","QB",2022,13,4000,NA,4800
+"Tyrion Davis-Price","RB",2022,13,4000,NA,4000
+"Tevin Coleman","RB",2022,13,4000,NA,4000
+"Kyle Juszczyk","RB",2022,13,4000,NA,4200
+"Salvon Ahmed","RB",2022,13,4000,NA,4000
+"La'Mical Perine","RB",2022,13,4000,NA,4000
+"Jake Bargas","RB",2022,13,4000,NA,4000
+"John Lovett","RB",2022,13,4000,NA,4000
+"Alec Ingold","RB",2022,13,4000,NA,4000
+"Shane Buechele","QB",2022,13,4000,NA,4000
+"Chris Oladokun","QB",2022,13,4000,NA,4000
+"Jake Browning","QB",2022,13,4000,NA,4000
+"Michael Burton","RB",2022,13,4000,NA,4000
 "Wayne Gallman Jr.","RB",2022,13,4000,NA,NA
-"Chris Evans","RB",2022,13,4000,NA,NA
-"Elijah Holyfield","RB",2022,13,4000,NA,NA
-"Easton Stick","QB",2022,13,4000,NA,NA
-"Chase Garbers","QB",2022,13,4000,NA,NA
-"Joshua Kelley","RB",2022,13,4000,NA,NA
-"Zander Horvath","RB",2022,13,4000,NA,NA
-"Brandon Bolden","RB",2022,13,4000,NA,NA
-"Zamir White","RB",2022,13,4000,NA,NA
-"Brittain Brown","RB",2022,13,4000,NA,NA
-"Sincere McCormick","RB",2022,13,4000,NA,NA
-"Austin Walter","RB",2022,13,4000,NA,NA
-"Jakob Johnson","RB",2022,13,4000,NA,NA
-"Will Grier","QB",2022,13,4000,NA,NA
+"Chris Evans","RB",2022,13,4000,NA,4000
+"Elijah Holyfield","RB",2022,13,4000,NA,4000
+"Easton Stick","QB",2022,13,4000,NA,4000
+"Chase Garbers","QB",2022,13,4000,NA,4000
+"Joshua Kelley","RB",2022,13,4000,NA,4400
+"Zander Horvath","RB",2022,13,4000,NA,4000
+"Brandon Bolden","RB",2022,13,4000,NA,4000
+"Zamir White","RB",2022,13,4000,NA,4000
+"Brittain Brown","RB",2022,13,4000,NA,4000
+"Sincere McCormick","RB",2022,13,4000,NA,4000
+"Austin Walter","RB",2022,13,4000,NA,4000
+"Jakob Johnson","RB",2022,13,4000,NA,4000
+"Will Grier","QB",2022,13,4000,NA,4000
 "Jake Funk","RB",2022,13,4000,NA,NA
 "Jordan Wilkins","RB",2022,13,4000,NA,NA
-"Rico Dowdle","RB",2022,13,4000,NA,NA
-"Qadree Ollison","RB",2022,13,4000,NA,NA
-"Kyle Trask","QB",2022,13,4000,NA,NA
+"Rico Dowdle","RB",2022,13,4000,NA,4000
+"Qadree Ollison","RB",2022,13,4000,NA,4000
+"Kyle Trask","QB",2022,13,4000,NA,4000
 "Jake Luton","QB",2022,13,4000,NA,NA
-"Ke'Shawn Vaughn","RB",2022,13,4000,NA,NA
-"Giovani Bernard","RB",2022,13,4000,NA,NA
-"Patrick Laird","RB",2022,13,4000,NA,NA
+"Ke'Shawn Vaughn","RB",2022,13,4000,NA,4000
+"Giovani Bernard","RB",2022,13,4000,NA,4000
+"Patrick Laird","RB",2022,13,4000,NA,4000
 "David Johnson","RB",2022,13,4000,NA,NA
 "Derrick Gore","RB",2022,13,4000,NA,NA
 "Adam Prentice","RB",2022,13,4000,NA,NA
 "Jarvis Landry","WR",2022,13,4000,NA,NA
-"Dawson Knox","TE",2022,13,3900,NA,NA
-"Kalif Raymond","WR",2022,13,3900,NA,NA
-"David Njoku","TE",2022,13,3900,NA,NA
-"Browns","DST",2022,13,3900,NA,NA
-"DeAndre Carter","WR",2022,13,3900,NA,NA
-"Cowboys","DST",2022,13,3900,NA,NA
-"Julio Jones","WR",2022,13,3900,NA,NA
-"DeVante Parker","WR",2022,13,3800,NA,NA
+"Dawson Knox","TE",2022,13,3900,NA,3800
+"Kalif Raymond","WR",2022,13,3900,NA,3300
+"David Njoku","TE",2022,13,3900,NA,3900
+"Browns","DST",2022,13,3900,NA,2600
+"DeAndre Carter","WR",2022,13,3900,NA,3800
+"Cowboys","DST",2022,13,3900,NA,3800
+"Julio Jones","WR",2022,13,3900,NA,4000
+"DeVante Parker","WR",2022,13,3800,NA,3700
 "Chase Claypool","WR",2022,13,3800,NA,NA
 "Cole Kmet","TE",2022,13,3800,NA,NA
-"DJ Chark Jr.","WR",2022,13,3800,NA,NA
-"Richie James Jr.","WR",2022,13,3800,NA,NA
-"Quez Watkins","WR",2022,13,3800,NA,NA
-"Eagles","DST",2022,13,3800,NA,NA
-"KJ Hamler","WR",2022,13,3700,NA,NA
-"Elijah Moore","WR",2022,13,3700,NA,NA
-"Vikings","DST",2022,13,3700,NA,NA
+"DJ Chark Jr.","WR",2022,13,3800,NA,4300
+"Richie James Jr.","WR",2022,13,3800,NA,3600
+"Quez Watkins","WR",2022,13,3800,NA,3800
+"Eagles","DST",2022,13,3800,NA,3700
+"KJ Hamler","WR",2022,13,3700,NA,3700
+"Elijah Moore","WR",2022,13,3700,NA,3500
+"Vikings","DST",2022,13,3700,NA,3100
 "Jahan Dotson","WR",2022,13,3700,NA,NA
-"Marquise Goodwin","WR",2022,13,3700,NA,NA
-"Tyler Higbee","TE",2022,13,3700,NA,NA
+"Marquise Goodwin","WR",2022,13,3700,NA,3500
+"Tyler Higbee","TE",2022,13,3700,NA,3500
 "Alec Pierce","WR",2022,13,3700,NA,NA
 "Olamide Zaccheaus","WR",2022,13,3600,NA,NA
-"Kendall Hinton","WR",2022,13,3600,NA,NA
-"Nick Westbrook-Ikhine","WR",2022,13,3600,NA,NA
-"Seahawks","DST",2022,13,3600,NA,NA
-"Foster Moreau","TE",2022,13,3600,NA,NA
-"Russell Gage","WR",2022,13,3600,NA,NA
-"Buccaneers","DST",2022,13,3600,NA,NA
-"Bills","DST",2022,13,3500,NA,NA
-"Zach Pascal","WR",2022,13,3500,NA,NA
-"Ben Skowronek","WR",2022,13,3500,NA,NA
-"Hayden Hurst","TE",2022,13,3500,NA,NA
-"Chiefs","DST",2022,13,3500,NA,NA
-"Nelson Agholor","WR",2022,13,3400,NA,NA
-"DeSean Jackson","WR",2022,13,3400,NA,NA
-"Greg Dulcich","TE",2022,13,3400,NA,NA
+"Kendall Hinton","WR",2022,13,3600,NA,3400
+"Nick Westbrook-Ikhine","WR",2022,13,3600,NA,4000
+"Seahawks","DST",2022,13,3600,NA,3600
+"Foster Moreau","TE",2022,13,3600,NA,3500
+"Russell Gage","WR",2022,13,3600,NA,3700
+"Buccaneers","DST",2022,13,3600,NA,2900
+"Bills","DST",2022,13,3500,NA,4000
+"Zach Pascal","WR",2022,13,3500,NA,3300
+"Ben Skowronek","WR",2022,13,3500,NA,3400
+"Hayden Hurst","TE",2022,13,3500,NA,3200
+"Chiefs","DST",2022,13,3500,NA,3900
+"Nelson Agholor","WR",2022,13,3400,NA,3500
+"DeSean Jackson","WR",2022,13,3400,NA,3400
+"Greg Dulcich","TE",2022,13,3400,NA,3400
 "Sammy Watkins","WR",2022,13,3400,NA,NA
-"K.J. Osborn","WR",2022,13,3400,NA,NA
-"Kenny Golladay","WR",2022,13,3400,NA,NA
-"Chargers","DST",2022,13,3400,NA,NA
-"Noah Brown","WR",2022,13,3400,NA,NA
+"K.J. Osborn","WR",2022,13,3400,NA,3500
+"Kenny Golladay","WR",2022,13,3400,NA,3200
+"Chargers","DST",2022,13,3400,NA,2500
+"Noah Brown","WR",2022,13,3400,NA,3500
 "Juwan Johnson","TE",2022,13,3400,NA,NA
-"Hunter Henry","TE",2022,13,3300,NA,NA
-"Steven Sims Jr.","WR",2022,13,3300,NA,NA
-"Jamal Agnew","WR",2022,13,3300,NA,NA
-"David Bell","WR",2022,13,3300,NA,NA
+"Hunter Henry","TE",2022,13,3300,NA,3200
+"Steven Sims Jr.","WR",2022,13,3300,NA,3100
+"Jamal Agnew","WR",2022,13,3300,NA,3200
+"David Bell","WR",2022,13,3300,NA,3100
 "Commanders","DST",2022,13,3300,NA,NA
-"Trent Sherfield","WR",2022,13,3300,NA,NA
-"Mike Gesicki","TE",2022,13,3300,NA,NA
-"Kendrick Bourne","WR",2022,13,3200,NA,NA
+"Trent Sherfield","WR",2022,13,3300,NA,3400
+"Mike Gesicki","TE",2022,13,3300,NA,3500
+"Kendrick Bourne","WR",2022,13,3200,NA,3200
 "Falcons","DST",2022,13,3200,NA,NA
 "Equanimeous St. Brown","WR",2022,13,3200,NA,NA
 "Robert Tonyan","TE",2022,13,3200,NA,NA
-"Chris Moore","WR",2022,13,3200,NA,NA
-"Isaiah Hodgins","WR",2022,13,3200,NA,NA
-"Daniel Bellinger","TE",2022,13,3200,NA,NA
-"Tutu Atwell","WR",2022,13,3200,NA,NA
-"Jauan Jennings","WR",2022,13,3200,NA,NA
-"Justin Watson","WR",2022,13,3200,NA,NA
+"Chris Moore","WR",2022,13,3200,NA,3400
+"Isaiah Hodgins","WR",2022,13,3200,NA,3500
+"Daniel Bellinger","TE",2022,13,3200,NA,3300
+"Tutu Atwell","WR",2022,13,3200,NA,3300
+"Jauan Jennings","WR",2022,13,3200,NA,3000
+"Justin Watson","WR",2022,13,3200,NA,3100
 "Tre'Quan Smith","WR",2022,13,3200,NA,NA
-"Denzel Mims","WR",2022,13,3100,NA,NA
-"Tyler Conklin","TE",2022,13,3100,NA,NA
-"49ers","DST",2022,13,3100,NA,NA
-"Skyy Moore","WR",2022,13,3100,NA,NA
-"Cade Otton","TE",2022,13,3100,NA,NA
-"Ty Montgomery","WR",2022,13,3000,NA,NA
-"Tyquan Thornton","WR",2022,13,3000,NA,NA
-"Matthew Slater","WR",2022,13,3000,NA,NA
-"Raleigh Webb","WR",2022,13,3000,NA,NA
-"Kristian Wilkerson","WR",2022,13,3000,NA,NA
-"Tre Nixon","WR",2022,13,3000,NA,NA
-"Lynn Bowden Jr.","WR",2022,13,3000,NA,NA
-"Khalil Shakir","WR",2022,13,3000,NA,NA
-"Marquez Stevenson","WR",2022,13,3000,NA,NA
-"Jake Kumerow","WR",2022,13,3000,NA,NA
-"Jamison Crowder","WR",2022,13,3000,NA,NA
-"Tanner Gentry","WR",2022,13,3000,NA,NA
-"Isaiah Coulter","WR",2022,13,3000,NA,NA
-"KeeSean Johnson","WR",2022,13,3000,NA,NA
-"Gunner Olszewski","WR",2022,13,3000,NA,NA
-"Miles Boykin","WR",2022,13,3000,NA,NA
-"Calvin Austin III","WR",2022,13,3000,NA,NA
-"Anthony Miller","WR",2022,13,3000,NA,NA
+"Denzel Mims","WR",2022,13,3100,NA,3000
+"Tyler Conklin","TE",2022,13,3100,NA,3100
+"49ers","DST",2022,13,3100,NA,3200
+"Skyy Moore","WR",2022,13,3100,NA,3200
+"Cade Otton","TE",2022,13,3100,NA,2800
+"Ty Montgomery","WR",2022,13,3000,NA,3000
+"Tyquan Thornton","WR",2022,13,3000,NA,3000
+"Matthew Slater","WR",2022,13,3000,NA,3000
+"Raleigh Webb","WR",2022,13,3000,NA,3000
+"Kristian Wilkerson","WR",2022,13,3000,NA,3000
+"Tre Nixon","WR",2022,13,3000,NA,3000
+"Lynn Bowden Jr.","WR",2022,13,3000,NA,3000
+"Khalil Shakir","WR",2022,13,3000,NA,3000
+"Marquez Stevenson","WR",2022,13,3000,NA,3000
+"Jake Kumerow","WR",2022,13,3000,NA,3000
+"Jamison Crowder","WR",2022,13,3000,NA,3000
+"Tanner Gentry","WR",2022,13,3000,NA,3000
+"Isaiah Coulter","WR",2022,13,3000,NA,3000
+"KeeSean Johnson","WR",2022,13,3000,NA,3000
+"Gunner Olszewski","WR",2022,13,3000,NA,3000
+"Miles Boykin","WR",2022,13,3000,NA,3000
+"Calvin Austin III","WR",2022,13,3000,NA,3000
+"Anthony Miller","WR",2022,13,3000,NA,3000
 "Josh Malone","WR",2022,13,3000,NA,NA
-"Cody White","WR",2022,13,3000,NA,NA
-"Ja'Marcus Bradley","WR",2022,13,3000,NA,NA
+"Cody White","WR",2022,13,3000,NA,3000
+"Ja'Marcus Bradley","WR",2022,13,3000,NA,3000
 "Damiere Byrd","WR",2022,13,3000,NA,NA
 "KhaDarel Hodge","WR",2022,13,3000,NA,NA
 "Frank Darby","WR",2022,13,3000,NA,NA
@@ -63888,17 +63887,17 @@
 "Ra'Shaun Henry","WR",2022,13,3000,NA,NA
 "Cameron Batson","WR",2022,13,3000,NA,NA
 "Emeka Emezie","WR",2022,13,3000,NA,NA
-"James Proche II","WR",2022,13,3000,NA,NA
-"Tylan Wallace","WR",2022,13,3000,NA,NA
-"Rashod Bateman","WR",2022,13,3000,NA,NA
-"Binjimen Victor","WR",2022,13,3000,NA,NA
-"Andy Isabella","WR",2022,13,3000,NA,NA
-"Jalen Virgil","WR",2022,13,3000,NA,NA
-"Montrell Washington","WR",2022,13,3000,NA,NA
-"Brandon Johnson","WR",2022,13,3000,NA,NA
-"Tim Patrick","WR",2022,13,3000,NA,NA
-"Victor Bolden Jr.","WR",2022,13,3000,NA,NA
-"Tyrie Cleveland","WR",2022,13,3000,NA,NA
+"James Proche II","WR",2022,13,3000,NA,3000
+"Tylan Wallace","WR",2022,13,3000,NA,3000
+"Rashod Bateman","WR",2022,13,3000,NA,3000
+"Binjimen Victor","WR",2022,13,3000,NA,3000
+"Andy Isabella","WR",2022,13,3000,NA,3000
+"Jalen Virgil","WR",2022,13,3000,NA,3000
+"Montrell Washington","WR",2022,13,3000,NA,3000
+"Brandon Johnson","WR",2022,13,3000,NA,3000
+"Tim Patrick","WR",2022,13,3000,NA,3000
+"Victor Bolden Jr.","WR",2022,13,3000,NA,3000
+"Tyrie Cleveland","WR",2022,13,3000,NA,3000
 "Kaden Davis","WR",2022,13,3000,NA,NA
 "Samori Toure","WR",2022,13,3000,NA,NA
 "Juwann Winfree","WR",2022,13,3000,NA,NA
@@ -63912,138 +63911,138 @@
 "Daurice Fountain","WR",2022,13,3000,NA,NA
 "Nsimba Webster","WR",2022,13,3000,NA,NA
 "Packers","DST",2022,13,3000,NA,NA
-"Tim Jones","WR",2022,13,3000,NA,NA
-"Kendric Pryor","WR",2022,13,3000,NA,NA
-"Willie Johnson","WR",2022,13,3000,NA,NA
-"Calvin Ridley","WR",2022,13,3000,NA,NA
-"Jaylon Moore","WR",2022,13,3000,NA,NA
-"Kevin Austin Jr.","WR",2022,13,3000,NA,NA
-"Seth Williams","WR",2022,13,3000,NA,NA
-"Tom Kennedy","WR",2022,13,3000,NA,NA
-"Quintez Cephus","WR",2022,13,3000,NA,NA
-"Trinity Benson","WR",2022,13,3000,NA,NA
-"Brandon Zylstra","WR",2022,13,3000,NA,NA
-"Josh Johnson","WR",2022,13,3000,NA,NA
-"Stanley Berryhill","WR",2022,13,3000,NA,NA
-"Maurice Alexander","WR",2022,13,3000,NA,NA
-"Evan Engram","TE",2022,13,3000,NA,NA
-"Anthony Schwartz","WR",2022,13,3000,NA,NA
-"Michael Woods II","WR",2022,13,3000,NA,NA
-"Jakeem Grant Sr.","WR",2022,13,3000,NA,NA
-"Isaiah Weston","WR",2022,13,3000,NA,NA
-"Daylen Baldwin","WR",2022,13,3000,NA,NA
-"Mike Harley Jr.","WR",2022,13,3000,NA,NA
+"Tim Jones","WR",2022,13,3000,NA,3000
+"Kendric Pryor","WR",2022,13,3000,NA,3000
+"Willie Johnson","WR",2022,13,3000,NA,3000
+"Calvin Ridley","WR",2022,13,3000,NA,3000
+"Jaylon Moore","WR",2022,13,3000,NA,3000
+"Kevin Austin Jr.","WR",2022,13,3000,NA,3000
+"Seth Williams","WR",2022,13,3000,NA,3000
+"Tom Kennedy","WR",2022,13,3000,NA,3000
+"Quintez Cephus","WR",2022,13,3000,NA,3000
+"Trinity Benson","WR",2022,13,3000,NA,3000
+"Brandon Zylstra","WR",2022,13,3000,NA,3000
+"Josh Johnson","WR",2022,13,3000,NA,4000
+"Stanley Berryhill","WR",2022,13,3000,NA,3000
+"Maurice Alexander","WR",2022,13,3000,NA,3000
+"Evan Engram","TE",2022,13,3000,NA,3300
+"Anthony Schwartz","WR",2022,13,3000,NA,3000
+"Michael Woods II","WR",2022,13,3000,NA,3000
+"Jakeem Grant Sr.","WR",2022,13,3000,NA,3000
+"Isaiah Weston","WR",2022,13,3000,NA,3000
+"Daylen Baldwin","WR",2022,13,3000,NA,3000
+"Mike Harley Jr.","WR",2022,13,3000,NA,3000
 "Chester Rogers","WR",2022,13,3000,NA,NA
-"Phillip Dorsett II","WR",2022,13,3000,NA,NA
-"Amari Rodgers","WR",2022,13,3000,NA,NA
-"John Metchie III","WR",2022,13,3000,NA,NA
-"Alex Bachman","WR",2022,13,3000,NA,NA
-"Davion Davis","WR",2022,13,3000,NA,NA
-"Johnny Johnson III","WR",2022,13,3000,NA,NA
-"Jalen Camp","WR",2022,13,3000,NA,NA
-"Braxton Berrios","WR",2022,13,3000,NA,NA
-"Jeff Smith","WR",2022,13,3000,NA,NA
-"Rodney Adams","WR",2022,13,3000,NA,NA
-"Irvin Charles","WR",2022,13,3000,NA,NA
+"Phillip Dorsett II","WR",2022,13,3000,NA,3000
+"Amari Rodgers","WR",2022,13,3000,NA,3000
+"John Metchie III","WR",2022,13,3000,NA,3000
+"Alex Bachman","WR",2022,13,3000,NA,3000
+"Davion Davis","WR",2022,13,3000,NA,3000
+"Johnny Johnson III","WR",2022,13,3000,NA,3000
+"Jalen Camp","WR",2022,13,3000,NA,3000
+"Braxton Berrios","WR",2022,13,3000,NA,3000
+"Jeff Smith","WR",2022,13,3000,NA,3000
+"Rodney Adams","WR",2022,13,3000,NA,3000
+"Irvin Charles","WR",2022,13,3000,NA,3000
 "Diontae Spencer","WR",2022,13,3000,NA,NA
-"Tarik Black","WR",2022,13,3000,NA,NA
-"Jalen Nailor","WR",2022,13,3000,NA,NA
-"Jalen Reagor","WR",2022,13,3000,NA,NA
-"Bisi Johnson","WR",2022,13,3000,NA,NA
-"Thomas Hennigan","WR",2022,13,3000,NA,NA
-"Trishton Jackson","WR",2022,13,3000,NA,NA
-"Blake Proehl","WR",2022,13,3000,NA,NA
-"Dan Chisena","WR",2022,13,3000,NA,NA
+"Tarik Black","WR",2022,13,3000,NA,3000
+"Jalen Nailor","WR",2022,13,3000,NA,3000
+"Jalen Reagor","WR",2022,13,3000,NA,3000
+"Bisi Johnson","WR",2022,13,3000,NA,3000
+"Thomas Hennigan","WR",2022,13,3000,NA,3000
+"Trishton Jackson","WR",2022,13,3000,NA,3000
+"Blake Proehl","WR",2022,13,3000,NA,3000
+"Dan Chisena","WR",2022,13,3000,NA,3000
 "Cam Sims","WR",2022,13,3000,NA,NA
 "Dyami Brown","WR",2022,13,3000,NA,NA
 "Dax Milne","WR",2022,13,3000,NA,NA
 "Alex Erickson","WR",2022,13,3000,NA,NA
 "Marken Michel","WR",2022,13,3000,NA,NA
 "Kyric McGowan","WR",2022,13,3000,NA,NA
-"Marcus Johnson","WR",2022,13,3000,NA,NA
-"David Sills V","WR",2022,13,3000,NA,NA
-"Sterling Shepard","WR",2022,13,3000,NA,NA
-"Wan'Dale Robinson","WR",2022,13,3000,NA,NA
-"Collin Johnson","WR",2022,13,3000,NA,NA
-"Makai Polk","WR",2022,13,3000,NA,NA
+"Marcus Johnson","WR",2022,13,3000,NA,3000
+"David Sills V","WR",2022,13,3000,NA,3000
+"Sterling Shepard","WR",2022,13,3000,NA,3000
+"Wan'Dale Robinson","WR",2022,13,3000,NA,3000
+"Collin Johnson","WR",2022,13,3000,NA,3000
+"Makai Polk","WR",2022,13,3000,NA,3000
 "Robert Foster","WR",2022,13,3000,NA,NA
-"Kalil Pimpleton","WR",2022,13,3000,NA,NA
-"Britain Covey","WR",2022,13,3000,NA,NA
-"Devon Allen","WR",2022,13,3000,NA,NA
-"Greg Ward","WR",2022,13,3000,NA,NA
-"Cody Hollister","WR",2022,13,3000,NA,NA
-"C.J. Board","WR",2022,13,3000,NA,NA
-"Kyle Philips","WR",2022,13,3000,NA,NA
-"Racey McMath","WR",2022,13,3000,NA,NA
-"Chris Conley","WR",2022,13,3000,NA,NA
-"Dez Fitzpatrick","WR",2022,13,3000,NA,NA
-"Mason Kinsey","WR",2022,13,3000,NA,NA
-"Austin Hooper","TE",2022,13,3000,NA,NA
-"Dareke Young","WR",2022,13,3000,NA,NA
-"Penny Hart","WR",2022,13,3000,NA,NA
-"Laquon Treadwell","WR",2022,13,3000,NA,NA
-"Dee Eskridge","WR",2022,13,3000,NA,NA
-"Cody Thompson","WR",2022,13,3000,NA,NA
-"Easop Winston","WR",2022,13,3000,NA,NA
-"Bo Melton","WR",2022,13,3000,NA,NA
-"Cade Johnson","WR",2022,13,3000,NA,NA
-"Brandon Powell","WR",2022,13,3000,NA,NA
-"Lance McCutcheon","WR",2022,13,3000,NA,NA
-"J.J. Koski","WR",2022,13,3000,NA,NA
-"Allen Robinson II","WR",2022,13,3000,NA,NA
-"Austin Trammell","WR",2022,13,3000,NA,NA
-"Noah Fant","TE",2022,13,3000,NA,NA
-"Ray-Ray McCloud III","WR",2022,13,3000,NA,NA
-"Danny Gray","WR",2022,13,3000,NA,NA
-"Willie Snead IV","WR",2022,13,3000,NA,NA
-"Dazz Newsome","WR",2022,13,3000,NA,NA
-"Tay Martin","WR",2022,13,3000,NA,NA
-"Cedrick Wilson Jr.","WR",2022,13,3000,NA,NA
-"River Cracraft","WR",2022,13,3000,NA,NA
-"Erik Ezukanma","WR",2022,13,3000,NA,NA
-"Braylon Sanders","WR",2022,13,3000,NA,NA
+"Kalil Pimpleton","WR",2022,13,3000,NA,3000
+"Britain Covey","WR",2022,13,3000,NA,3000
+"Devon Allen","WR",2022,13,3000,NA,3000
+"Greg Ward","WR",2022,13,3000,NA,3000
+"Cody Hollister","WR",2022,13,3000,NA,3000
+"C.J. Board","WR",2022,13,3000,NA,3000
+"Kyle Philips","WR",2022,13,3000,NA,3000
+"Racey McMath","WR",2022,13,3000,NA,3000
+"Chris Conley","WR",2022,13,3000,NA,3000
+"Dez Fitzpatrick","WR",2022,13,3000,NA,3000
+"Mason Kinsey","WR",2022,13,3000,NA,3000
+"Austin Hooper","TE",2022,13,3000,NA,2900
+"Dareke Young","WR",2022,13,3000,NA,3000
+"Penny Hart","WR",2022,13,3000,NA,3000
+"Laquon Treadwell","WR",2022,13,3000,NA,3000
+"Dee Eskridge","WR",2022,13,3000,NA,3000
+"Cody Thompson","WR",2022,13,3000,NA,3000
+"Easop Winston","WR",2022,13,3000,NA,3000
+"Bo Melton","WR",2022,13,3000,NA,3000
+"Cade Johnson","WR",2022,13,3000,NA,3000
+"Brandon Powell","WR",2022,13,3000,NA,3100
+"Lance McCutcheon","WR",2022,13,3000,NA,3000
+"J.J. Koski","WR",2022,13,3000,NA,3000
+"Allen Robinson II","WR",2022,13,3000,NA,3000
+"Austin Trammell","WR",2022,13,3000,NA,3000
+"Noah Fant","TE",2022,13,3000,NA,3100
+"Ray-Ray McCloud III","WR",2022,13,3000,NA,3000
+"Danny Gray","WR",2022,13,3000,NA,3000
+"Willie Snead IV","WR",2022,13,3000,NA,3000
+"Dazz Newsome","WR",2022,13,3000,NA,3000
+"Tay Martin","WR",2022,13,3000,NA,3000
+"Cedrick Wilson Jr.","WR",2022,13,3000,NA,3000
+"River Cracraft","WR",2022,13,3000,NA,3000
+"Erik Ezukanma","WR",2022,13,3000,NA,3000
+"Braylon Sanders","WR",2022,13,3000,NA,3000
 "Calvin Jackson Jr.","WR",2022,13,3000,NA,NA
-"Cornell Powell","WR",2022,13,3000,NA,NA
-"Justyn Ross","WR",2022,13,3000,NA,NA
-"Marcus Kemp","WR",2022,13,3000,NA,NA
-"Ihmir Smith-Marsette","WR",2022,13,3000,NA,NA
-"Jerrion Ealy","WR",2022,13,3000,NA,NA
-"Trenton Irwin","WR",2022,13,3000,NA,NA
-"Trent Taylor","WR",2022,13,3000,NA,NA
-"Stanley Morgan","WR",2022,13,3000,NA,NA
-"Kwamie Lassiter II","WR",2022,13,3000,NA,NA
-"Michael Bandy","WR",2022,13,3000,NA,NA
-"Jason Moore Jr.","WR",2022,13,3000,NA,NA
-"Jalen Guyton","WR",2022,13,3000,NA,NA
-"Joe Reed","WR",2022,13,3000,NA,NA
-"John Hightower","WR",2022,13,3000,NA,NA
-"Keelan Doss","WR",2022,13,3000,NA,NA
-"Keelan Cole","WR",2022,13,3000,NA,NA
-"DJ Turner","WR",2022,13,3000,NA,NA
-"Isaiah Zuber","WR",2022,13,3000,NA,NA
-"Chris Lacy","WR",2022,13,3000,NA,NA
-"Albert Wilson","WR",2022,13,3000,NA,NA
-"Malik Turner","WR",2022,13,3000,NA,NA
+"Cornell Powell","WR",2022,13,3000,NA,3000
+"Justyn Ross","WR",2022,13,3000,NA,3000
+"Marcus Kemp","WR",2022,13,3000,NA,3000
+"Ihmir Smith-Marsette","WR",2022,13,3000,NA,3000
+"Jerrion Ealy","WR",2022,13,3000,NA,3000
+"Trenton Irwin","WR",2022,13,3000,NA,3000
+"Trent Taylor","WR",2022,13,3000,NA,3000
+"Stanley Morgan","WR",2022,13,3000,NA,3000
+"Kwamie Lassiter II","WR",2022,13,3000,NA,3000
+"Michael Bandy","WR",2022,13,3000,NA,3000
+"Jason Moore Jr.","WR",2022,13,3000,NA,3000
+"Jalen Guyton","WR",2022,13,3000,NA,3000
+"Joe Reed","WR",2022,13,3000,NA,3000
+"John Hightower","WR",2022,13,3000,NA,3000
+"Keelan Doss","WR",2022,13,3000,NA,3000
+"Keelan Cole","WR",2022,13,3000,NA,3000
+"DJ Turner","WR",2022,13,3000,NA,3000
+"Isaiah Zuber","WR",2022,13,3000,NA,3000
+"Chris Lacy","WR",2022,13,3000,NA,3000
+"Albert Wilson","WR",2022,13,3000,NA,3000
+"Malik Turner","WR",2022,13,3000,NA,3000
 "Ashton Dulin","WR",2022,13,3000,NA,NA
 "Keke Coutee","WR",2022,13,3000,NA,NA
 "Mike Strachan","WR",2022,13,3000,NA,NA
 "Vyncint Smith","WR",2022,13,3000,NA,NA
 "Ethan Fernea","WR",2022,13,3000,NA,NA
 "Dezmon Patmon","WR",2022,13,3000,NA,NA
-"KaVontae Turpin","WR",2022,13,3000,NA,NA
-"James Washington","WR",2022,13,3000,NA,NA
-"Simi Fehoko","WR",2022,13,3000,NA,NA
-"Antonio Callaway","WR",2022,13,3000,NA,NA
-"Dennis Houston","WR",2022,13,3000,NA,NA
-"Dontario Drummond","WR",2022,13,3000,NA,NA
-"Brandon Smith","WR",2022,13,3000,NA,NA
-"Jalen Tolbert","WR",2022,13,3000,NA,NA
-"Scotty Miller","WR",2022,13,3000,NA,NA
-"Breshad Perriman","WR",2022,13,3000,NA,NA
-"Jaelon Darden","WR",2022,13,3000,NA,NA
-"Kaylon Geiger Sr.","WR",2022,13,3000,NA,NA
-"Tyler Johnson","WR",2022,13,3000,NA,NA
-"Deven Thompkins","WR",2022,13,3000,NA,NA
+"KaVontae Turpin","WR",2022,13,3000,NA,3000
+"James Washington","WR",2022,13,3000,NA,3000
+"Simi Fehoko","WR",2022,13,3000,NA,3000
+"Antonio Callaway","WR",2022,13,3000,NA,3000
+"Dennis Houston","WR",2022,13,3000,NA,3000
+"Dontario Drummond","WR",2022,13,3000,NA,3000
+"Brandon Smith","WR",2022,13,3000,NA,3000
+"Jalen Tolbert","WR",2022,13,3000,NA,3000
+"Scotty Miller","WR",2022,13,3000,NA,3000
+"Breshad Perriman","WR",2022,13,3000,NA,3000
+"Jaelon Darden","WR",2022,13,3000,NA,3000
+"Kaylon Geiger Sr.","WR",2022,13,3000,NA,3000
+"Tyler Johnson","WR",2022,13,3000,NA,3000
+"Deven Thompkins","WR",2022,13,3000,NA,3000
 "Rashid Shaheed","WR",2022,13,3000,NA,NA
 "Marquez Callaway","WR",2022,13,3000,NA,NA
 "Kevin White","WR",2022,13,3000,NA,NA
@@ -64051,46 +64050,46 @@
 "Michael Thomas","WR",2022,13,3000,NA,NA
 "Keith Kirkwood","WR",2022,13,3000,NA,NA
 "Kirk Merritt","WR",2022,13,3000,NA,NA
-"Zach Gentry","TE",2022,13,2900,NA,NA
-"Jordan Akins","TE",2022,13,2900,NA,NA
+"Zach Gentry","TE",2022,13,2900,NA,2500
+"Jordan Akins","TE",2022,13,2900,NA,2800
 "Logan Thomas","TE",2022,13,2900,NA,NA
-"Giants","DST",2022,13,2900,NA,NA
-"Jonnu Smith","TE",2022,13,2800,NA,NA
-"Isaiah Likely","TE",2022,13,2800,NA,NA
-"Brock Wright","TE",2022,13,2800,NA,NA
-"Lions","DST",2022,13,2800,NA,NA
-"Irv Smith Jr.","TE",2022,13,2800,NA,NA
-"Will Dissly","TE",2022,13,2800,NA,NA
+"Giants","DST",2022,13,2900,NA,2400
+"Jonnu Smith","TE",2022,13,2800,NA,2900
+"Isaiah Likely","TE",2022,13,2800,NA,2700
+"Brock Wright","TE",2022,13,2800,NA,2900
+"Lions","DST",2022,13,2800,NA,3000
+"Irv Smith Jr.","TE",2022,13,2800,NA,2900
+"Will Dissly","TE",2022,13,2800,NA,2700
 "Kylen Granson","TE",2022,13,2800,NA,NA
 "MyCole Pruitt","TE",2022,13,2700,NA,NA
-"Josh Oliver","TE",2022,13,2700,NA,NA
+"Josh Oliver","TE",2022,13,2700,NA,2500
 "Bears","DST",2022,13,2700,NA,NA
-"Jaguars","DST",2022,13,2700,NA,NA
-"Harrison Bryant","TE",2022,13,2700,NA,NA
-"Lawrence Cager","TE",2022,13,2700,NA,NA
-"Grant Calcaterra","TE",2022,13,2700,NA,NA
-"Noah Gray","TE",2022,13,2700,NA,NA
-"Jake Ferguson","TE",2022,13,2700,NA,NA
-"Cameron Brate","TE",2022,13,2700,NA,NA
+"Jaguars","DST",2022,13,2700,NA,2700
+"Harrison Bryant","TE",2022,13,2700,NA,2800
+"Lawrence Cager","TE",2022,13,2700,NA,2500
+"Grant Calcaterra","TE",2022,13,2700,NA,2500
+"Noah Gray","TE",2022,13,2700,NA,2600
+"Jake Ferguson","TE",2022,13,2700,NA,2800
+"Cameron Brate","TE",2022,13,2700,NA,3000
 "Parker Hesse","TE",2022,13,2600,NA,NA
-"Steelers","DST",2022,13,2600,NA,NA
-"James Mitchell","TE",2022,13,2600,NA,NA
-"O.J. Howard","TE",2022,13,2600,NA,NA
-"Jets","DST",2022,13,2600,NA,NA
+"Steelers","DST",2022,13,2600,NA,2800
+"James Mitchell","TE",2022,13,2600,NA,2600
+"O.J. Howard","TE",2022,13,2600,NA,2500
+"Jets","DST",2022,13,2600,NA,2500
 "John Bates","TE",2022,13,2600,NA,NA
-"Jack Stoll","TE",2022,13,2600,NA,NA
-"Chig Okonkwo","TE",2022,13,2600,NA,NA
-"Tyler Kroft","TE",2022,13,2600,NA,NA
-"Durham Smythe","TE",2022,13,2600,NA,NA
+"Jack Stoll","TE",2022,13,2600,NA,2800
+"Chig Okonkwo","TE",2022,13,2600,NA,2700
+"Tyler Kroft","TE",2022,13,2600,NA,2500
+"Durham Smythe","TE",2022,13,2600,NA,2600
 "Jelani Woods","TE",2022,13,2600,NA,NA
-"Peyton Hendershot","TE",2022,13,2600,NA,NA
-"Scotty Washington","TE",2022,13,2500,NA,NA
-"Matt Sokol","TE",2022,13,2500,NA,NA
-"Quintin Morris","TE",2022,13,2500,NA,NA
-"Tommy Sweeney","TE",2022,13,2500,NA,NA
-"Zach Davidson","TE",2022,13,2500,NA,NA
-"Connor Heyward","TE",2022,13,2500,NA,NA
-"Rodney Williams II","TE",2022,13,2500,NA,NA
+"Peyton Hendershot","TE",2022,13,2600,NA,2700
+"Scotty Washington","TE",2022,13,2500,NA,2500
+"Matt Sokol","TE",2022,13,2500,NA,2500
+"Quintin Morris","TE",2022,13,2500,NA,2500
+"Tommy Sweeney","TE",2022,13,2500,NA,2500
+"Zach Davidson","TE",2022,13,2500,NA,2500
+"Connor Heyward","TE",2022,13,2500,NA,2500
+"Rodney Williams II","TE",2022,13,2500,NA,2500
 "Feleipe Franks","TE",2022,13,2500,NA,NA
 "Anthony Firkser","TE",2022,13,2500,NA,NA
 "Kyle Pitts","TE",2022,13,2500,NA,NA
@@ -64098,111 +64097,773 @@
 "Tucker Fisk","TE",2022,13,2500,NA,NA
 "Beau Brinkley","TE",2022,13,2500,NA,NA
 "John Raine","TE",2022,13,2500,NA,NA
-"Nick Boyle","TE",2022,13,2500,NA,NA
-"Charlie Kolar","TE",2022,13,2500,NA,NA
-"Eric Saubert","TE",2022,13,2500,NA,NA
-"Eric Tomlinson","TE",2022,13,2500,NA,NA
-"Andrew Beck","TE",2022,13,2500,NA,NA
-"Albert Okwuegbunam","TE",2022,13,2500,NA,NA
-"Mitchell Fraboni","TE",2022,13,2500,NA,NA
+"Nick Boyle","TE",2022,13,2500,NA,2500
+"Charlie Kolar","TE",2022,13,2500,NA,2500
+"Eric Saubert","TE",2022,13,2500,NA,2500
+"Eric Tomlinson","TE",2022,13,2500,NA,2500
+"Andrew Beck","TE",2022,13,2500,NA,2500
+"Albert Okwuegbunam","TE",2022,13,2500,NA,2500
+"Mitchell Fraboni","TE",2022,13,2500,NA,2500
 "Marcedes Lewis","TE",2022,13,2500,NA,NA
 "Josiah Deguara","TE",2022,13,2500,NA,NA
 "Tyler Davis","TE",2022,13,2500,NA,NA
 "Jack Coco","TE",2022,13,2500,NA,NA
 "Trevon Wesco","TE",2022,13,2500,NA,NA
-"Ryan Griffin","TE",2022,13,2500,NA,NA
+"Ryan Griffin","TE",2022,13,2500,NA,4000
 "Jake Tonges","TE",2022,13,2500,NA,NA
 "Chase Allen","TE",2022,13,2500,NA,NA
 "Patrick Scales","TE",2022,13,2500,NA,NA
 "Sammis Reyes","TE",2022,13,2500,NA,NA
-"Chris Manhertz","TE",2022,13,2500,NA,NA
-"Dan Arnold","TE",2022,13,2500,NA,NA
-"Luke Farrell","TE",2022,13,2500,NA,NA
-"Gerrit Prince","TE",2022,13,2500,NA,NA
-"Shane Zylstra","TE",2022,13,2500,NA,NA
-"Garrett Griffin","TE",2022,13,2500,NA,NA
-"Pharaoh Brown","TE",2022,13,2500,NA,NA
-"Jesse James","TE",2022,13,2500,NA,NA
-"Zaire Mitchell-Paden","TE",2022,13,2500,NA,NA
-"Miller Forristall","TE",2022,13,2500,NA,NA
-"Teagan Quitoriano","TE",2022,13,2500,NA,NA
-"Brevin Jordan","TE",2022,13,2500,NA,NA
-"Mason Schreck","TE",2022,13,2500,NA,NA
-"C.J. Uzomah","TE",2022,13,2500,NA,NA
-"Kenny Yeboah","TE",2022,13,2500,NA,NA
-"Jeremy Ruckert","TE",2022,13,2500,NA,NA
-"Johnny Mundt","TE",2022,13,2500,NA,NA
-"Nick Muse","TE",2022,13,2500,NA,NA
-"Ben Ellefson","TE",2022,13,2500,NA,NA
-"Andrew DePaola","TE",2022,13,2500,NA,NA
-"James O'Shaughnessy","TE",2022,13,2500,NA,NA
+"Chris Manhertz","TE",2022,13,2500,NA,2500
+"Dan Arnold","TE",2022,13,2500,NA,2500
+"Luke Farrell","TE",2022,13,2500,NA,2500
+"Gerrit Prince","TE",2022,13,2500,NA,2500
+"Shane Zylstra","TE",2022,13,2500,NA,2500
+"Garrett Griffin","TE",2022,13,2500,NA,2500
+"Pharaoh Brown","TE",2022,13,2500,NA,2500
+"Jesse James","TE",2022,13,2500,NA,2500
+"Zaire Mitchell-Paden","TE",2022,13,2500,NA,2500
+"Miller Forristall","TE",2022,13,2500,NA,2500
+"Teagan Quitoriano","TE",2022,13,2500,NA,2500
+"Brevin Jordan","TE",2022,13,2500,NA,2500
+"Mason Schreck","TE",2022,13,2500,NA,2500
+"C.J. Uzomah","TE",2022,13,2500,NA,2500
+"Kenny Yeboah","TE",2022,13,2500,NA,2500
+"Jeremy Ruckert","TE",2022,13,2500,NA,2500
+"Johnny Mundt","TE",2022,13,2500,NA,2500
+"Nick Muse","TE",2022,13,2500,NA,2500
+"Ben Ellefson","TE",2022,13,2500,NA,2500
+"Andrew DePaola","TE",2022,13,2500,NA,2500
+"James O'Shaughnessy","TE",2022,13,2500,NA,2500
 "Cole Turner","TE",2022,13,2500,NA,NA
 "Armani Rogers","TE",2022,13,2500,NA,NA
 "Curtis Hodges","TE",2022,13,2500,NA,NA
 "Eli Wolf","TE",2022,13,2500,NA,NA
 "Tanner Hudson","TE",2022,13,2500,NA,NA
-"Chris Myarick","TE",2022,13,2500,NA,NA
-"Dre Miller","TE",2022,13,2500,NA,NA
-"Nick Vannett","TE",2022,13,2500,NA,NA
-"Tyree Jackson","TE",2022,13,2500,NA,NA
-"Noah Togiai","TE",2022,13,2500,NA,NA
-"Geoff Swaim","TE",2022,13,2500,NA,NA
-"Kevin Rader","TE",2022,13,2500,NA,NA
-"Thomas Odukoya","TE",2022,13,2500,NA,NA
-"Colby Parkinson","TE",2022,13,2500,NA,NA
-"Tyler Mabry","TE",2022,13,2500,NA,NA
-"Tyler Ott","TE",2022,13,2500,NA,NA
-"Brycen Hopkins","TE",2022,13,2500,NA,NA
-"Roger Carter Jr.","TE",2022,13,2500,NA,NA
-"Jacob Harris","TE",2022,13,2500,NA,NA
-"Jared Pinkney","TE",2022,13,2500,NA,NA
-"Charlie Woerner","TE",2022,13,2500,NA,NA
-"Ross Dwelley","TE",2022,13,2500,NA,NA
-"Jordan Matthews","TE",2022,13,2500,NA,NA
-"Hunter Long","TE",2022,13,2500,NA,NA
-"Tanner Conner","TE",2022,13,2500,NA,NA
-"Cethan Carter","TE",2022,13,2500,NA,NA
-"Adam Shaheen","TE",2022,13,2500,NA,NA
-"Dolphins","DST",2022,13,2500,NA,NA
-"Jody Fortson","TE",2022,13,2500,NA,NA
-"Blake Bell","TE",2022,13,2500,NA,NA
-"James Winchester","TE",2022,13,2500,NA,NA
-"Kendall Blanton","TE",2022,13,2500,NA,NA
-"Mitchell Wilcox","TE",2022,13,2500,NA,NA
-"Devin Asiasi","TE",2022,13,2500,NA,NA
-"Drew Sample","TE",2022,13,2500,NA,NA
-"Cal Adomitis","TE",2022,13,2500,NA,NA
-"Clark Harris","TE",2022,13,2500,NA,NA
-"Nick Bowers","TE",2022,13,2500,NA,NA
-"Tre' McKitty","TE",2022,13,2500,NA,NA
-"Richard Rodgers","TE",2022,13,2500,NA,NA
-"Stone Smartt","TE",2022,13,2500,NA,NA
-"Donald Parham Jr.","TE",2022,13,2500,NA,NA
-"Hunter Kampmoyer","TE",2022,13,2500,NA,NA
-"Jesper Horsted","TE",2022,13,2500,NA,NA
-"Jacob Hollister","TE",2022,13,2500,NA,NA
-"Cole Fotheringham","TE",2022,13,2500,NA,NA
-"Raiders","DST",2022,13,2500,NA,NA
+"Chris Myarick","TE",2022,13,2500,NA,2500
+"Dre Miller","TE",2022,13,2500,NA,2500
+"Nick Vannett","TE",2022,13,2500,NA,2500
+"Tyree Jackson","TE",2022,13,2500,NA,2500
+"Noah Togiai","TE",2022,13,2500,NA,2500
+"Geoff Swaim","TE",2022,13,2500,NA,2500
+"Kevin Rader","TE",2022,13,2500,NA,2500
+"Thomas Odukoya","TE",2022,13,2500,NA,2500
+"Colby Parkinson","TE",2022,13,2500,NA,2500
+"Tyler Mabry","TE",2022,13,2500,NA,2500
+"Tyler Ott","TE",2022,13,2500,NA,2500
+"Brycen Hopkins","TE",2022,13,2500,NA,2500
+"Roger Carter Jr.","TE",2022,13,2500,NA,2500
+"Jacob Harris","TE",2022,13,2500,NA,2500
+"Jared Pinkney","TE",2022,13,2500,NA,2500
+"Charlie Woerner","TE",2022,13,2500,NA,2500
+"Ross Dwelley","TE",2022,13,2500,NA,2500
+"Jordan Matthews","TE",2022,13,2500,NA,2500
+"Hunter Long","TE",2022,13,2500,NA,2500
+"Tanner Conner","TE",2022,13,2500,NA,2500
+"Cethan Carter","TE",2022,13,2500,NA,2500
+"Adam Shaheen","TE",2022,13,2500,NA,2500
+"Dolphins","DST",2022,13,2500,NA,2400
+"Jody Fortson","TE",2022,13,2500,NA,2500
+"Blake Bell","TE",2022,13,2500,NA,2500
+"James Winchester","TE",2022,13,2500,NA,2500
+"Kendall Blanton","TE",2022,13,2500,NA,2500
+"Mitchell Wilcox","TE",2022,13,2500,NA,2700
+"Devin Asiasi","TE",2022,13,2500,NA,2500
+"Drew Sample","TE",2022,13,2500,NA,2500
+"Cal Adomitis","TE",2022,13,2500,NA,2500
+"Clark Harris","TE",2022,13,2500,NA,2500
+"Nick Bowers","TE",2022,13,2500,NA,2500
+"Tre' McKitty","TE",2022,13,2500,NA,2500
+"Richard Rodgers","TE",2022,13,2500,NA,2500
+"Stone Smartt","TE",2022,13,2500,NA,2500
+"Donald Parham Jr.","TE",2022,13,2500,NA,2500
+"Hunter Kampmoyer","TE",2022,13,2500,NA,2500
+"Jesper Horsted","TE",2022,13,2500,NA,2500
+"Jacob Hollister","TE",2022,13,2500,NA,2500
+"Cole Fotheringham","TE",2022,13,2500,NA,2500
+"Raiders","DST",2022,13,2500,NA,3400
 "Drew Ogletree","TE",2022,13,2500,NA,NA
 "Nikola Kalinic","TE",2022,13,2500,NA,NA
 "Jalen Wydermyer","TE",2022,13,2500,NA,NA
-"Sean McKeon","TE",2022,13,2500,NA,NA
-"Ian Bunting","TE",2022,13,2500,NA,NA
-"Seth Green","TE",2022,13,2500,NA,NA
+"Sean McKeon","TE",2022,13,2500,NA,2500
+"Ian Bunting","TE",2022,13,2500,NA,2500
+"Seth Green","TE",2022,13,2500,NA,2500
 "Mo Alie-Cox","TE",2022,13,2500,NA,NA
-"Ko Kieft","TE",2022,13,2500,NA,NA
-"Kyle Rudolph","TE",2022,13,2500,NA,NA
-"David Wells","TE",2022,13,2500,NA,NA
+"Ko Kieft","TE",2022,13,2500,NA,2500
+"Kyle Rudolph","TE",2022,13,2500,NA,2500
+"David Wells","TE",2022,13,2500,NA,2500
 "Adam Trautman","TE",2022,13,2500,NA,NA
 "Dylan Soehner","TE",2022,13,2500,NA,NA
 "J.P. Holtz","TE",2022,13,2500,NA,NA
 "Lucas Krull","TE",2022,13,2500,NA,NA
 "Zach Wood","TE",2022,13,2500,NA,NA
 "Saints","DST",2022,13,2500,NA,NA
-"Patriots","DST",2022,13,2400,NA,NA
-"Broncos","DST",2022,13,2400,NA,NA
-"Bengals","DST",2022,13,2400,NA,NA
-"Texans","DST",2022,13,2300,NA,NA
-"Rams","DST",2022,13,2300,NA,NA
+"Patriots","DST",2022,13,2400,NA,2900
+"Broncos","DST",2022,13,2400,NA,2300
+"Bengals","DST",2022,13,2400,NA,3500
+"Texans","DST",2022,13,2300,NA,2100
+"Rams","DST",2022,13,2300,NA,2700
 "Colts","DST",2022,13,2300,NA,NA
-"Titans","DST",2022,13,2200,NA,NA
+"Titans","DST",2022,13,2200,NA,3400
+"Justin Jefferson","WR",2022,14,9000,NA,NA
+"Davante Adams","WR",2022,14,8900,NA,NA
+"Tyreek Hill","WR",2022,14,8800,NA,NA
+"Austin Ekeler","RB",2022,14,8600,NA,NA
+"Christian McCaffrey","RB",2022,14,8500,NA,NA
+"Josh Allen","QB",2022,14,8300,NA,NA
+"Stefon Diggs","WR",2022,14,8300,NA,NA
+"Josh Jacobs","RB",2022,14,8100,NA,NA
+"Jalen Hurts","QB",2022,14,8100,NA,NA
+"Cooper Kupp","WR",2022,14,8000,NA,NA
+"Saquon Barkley","RB",2022,14,8000,NA,NA
+"A.J. Brown","WR",2022,14,8000,NA,NA
+"Patrick Mahomes","QB",2022,14,8000,NA,NA
+"Ja'Marr Chase","WR",2022,14,7900,NA,NA
+"Derrick Henry","RB",2022,14,7900,NA,NA
+"DeAndre Hopkins","WR",2022,14,7900,NA,NA
+"Nick Chubb","RB",2022,14,7800,NA,NA
+"Amon-Ra St. Brown","WR",2022,14,7800,NA,NA
+"Travis Kelce","TE",2022,14,7600,NA,NA
+"CeeDee Lamb","WR",2022,14,7500,NA,NA
+"Lamar Jackson","QB",2022,14,7400,NA,NA
+"Dalvin Cook","RB",2022,14,7300,NA,NA
+"Justin Herbert","QB",2022,14,7200,NA,NA
+"Jaylen Waddle","WR",2022,14,7200,NA,NA
+"DK Metcalf","WR",2022,14,7100,NA,NA
+"Joe Burrow","QB",2022,14,7000,NA,NA
+"Tee Higgins","WR",2022,14,7000,NA,NA
+"Joe Mixon","RB",2022,14,6900,NA,NA
+"Kyler Murray","QB",2022,14,6900,NA,NA
+"James Conner","RB",2022,14,6900,NA,NA
+"Tua Tagovailoa","QB",2022,14,6800,NA,NA
+"Kenneth Walker III","RB",2022,14,6800,NA,NA
+"Tony Pollard","RB",2022,14,6700,NA,NA
+"Chris Godwin","WR",2022,14,6700,NA,NA
+"Christian Kirk","WR",2022,14,6600,NA,NA
+"Keenan Allen","WR",2022,14,6600,NA,NA
+"Rhamondre Stevenson","RB",2022,14,6600,NA,NA
+"Dak Prescott","QB",2022,14,6500,NA,NA
+"Mark Andrews","TE",2022,14,6500,NA,NA
+"Tyler Lockett","WR",2022,14,6500,NA,NA
+"Deshaun Watson","QB",2022,14,6400,NA,NA
+"Travis Etienne Jr.","RB",2022,14,6400,NA,NA
+"Mike Evans","WR",2022,14,6400,NA,NA
+"Samaje Perine","RB",2022,14,6300,NA,NA
+"DeVonta Smith","WR",2022,14,6300,NA,NA
+"Amari Cooper","WR",2022,14,6200,NA,NA
+"Miles Sanders","RB",2022,14,6200,NA,NA
+"Geno Smith","QB",2022,14,6200,NA,NA
+"Ezekiel Elliott","RB",2022,14,6100,NA,NA
+"Kirk Cousins","QB",2022,14,6100,NA,NA
+"Deebo Samuel","WR",2022,14,6100,NA,NA
+"Dameon Pierce","RB",2022,14,6000,NA,NA
+"Garrett Wilson","WR",2022,14,5900,NA,NA
+"Jamaal Williams","RB",2022,14,5900,NA,NA
+"Mike Williams","WR",2022,14,5900,NA,NA
+"D'Andre Swift","RB",2022,14,5800,NA,NA
+"Najee Harris","RB",2022,14,5800,NA,NA
+"Brandon Aiyuk","WR",2022,14,5800,NA,NA
+"Derek Carr","QB",2022,14,5700,NA,NA
+"Devin Singletary","RB",2022,14,5700,NA,NA
+"Trevor Lawrence","QB",2022,14,5700,NA,NA
+"Isiah Pacheco","RB",2022,14,5700,NA,NA
+"Jared Goff","QB",2022,14,5600,NA,NA
+"Tom Brady","QB",2022,14,5600,NA,NA
+"Leonard Fournette","RB",2022,14,5600,NA,NA
+"JuJu Smith-Schuster","WR",2022,14,5600,NA,NA
+"Damien Harris","RB",2022,14,5600,NA,NA
+"Matthew Stafford","QB",2022,14,5500,NA,NA
+"Mike White","QB",2022,14,5500,NA,NA
+"Tyler Huntley","QB",2022,14,5500,NA,NA
+"Jeff Wilson Jr.","RB",2022,14,5500,NA,NA
+"DJ Moore","WR",2022,14,5500,NA,NA
+"Rachaad White","RB",2022,14,5500,NA,NA
+"Cam Akers","RB",2022,14,5400,NA,NA
+"Daniel Jones","QB",2022,14,5400,NA,NA
+"Raheem Mostert","RB",2022,14,5400,NA,NA
+"Joshua Palmer","WR",2022,14,5400,NA,NA
+"D'Onta Foreman","RB",2022,14,5400,NA,NA
+"Jerry Jeudy","WR",2022,14,5400,NA,NA
+"Michael Carter","RB",2022,14,5300,NA,NA
+"Gabe Davis","WR",2022,14,5300,NA,NA
+"Jacoby Brissett","QB",2022,14,5300,NA,NA
+"Kenny Pickett","QB",2022,14,5200,NA,NA
+"Gus Edwards","RB",2022,14,5200,NA,NA
+"Ryan Tannehill","QB",2022,14,5200,NA,NA
+"Sam Darnold","QB",2022,14,5200,NA,NA
+"Latavius Murray","RB",2022,14,5200,NA,NA
+"Courtland Sutton","WR",2022,14,5200,NA,NA
+"Zonovan Knight","RB",2022,14,5100,NA,NA
+"T.J. Hockenson","TE",2022,14,5100,NA,NA
+"Darius Slayton","WR",2022,14,5100,NA,NA
+"Kenyan Drake","RB",2022,14,5100,NA,NA
+"Diontae Johnson","WR",2022,14,5100,NA,NA
+"Brock Purdy","QB",2022,14,5100,NA,NA
+"Russell Wilson","QB",2022,14,5100,NA,NA
+"Mac Jones","QB",2022,14,5100,NA,NA
+"Marquise Brown","WR",2022,14,5100,NA,NA
+"Kyren Williams","RB",2022,14,5000,NA,NA
+"Tyler Boyd","WR",2022,14,5000,NA,NA
+"Cooper Rush","QB",2022,14,5000,NA,NA
+"Kyle Allen","QB",2022,14,5000,NA,NA
+"Davis Mills","QB",2022,14,5000,NA,NA
+"Gardner Minshew II","QB",2022,14,5000,NA,NA
+"Kenneth Gainwell","RB",2022,14,5000,NA,NA
+"George Pickens","WR",2022,14,5000,NA,NA
+"Travis Homer","RB",2022,14,5000,NA,NA
+"Chad Henne","QB",2022,14,5000,NA,NA
+"Brett Rypien","QB",2022,14,5000,NA,NA
+"Bailey Zappe","QB",2022,14,5000,NA,NA
+"John Wolford","QB",2022,14,4900,NA,NA
+"Bryce Perkins","QB",2022,14,4900,NA,NA
+"Ty Johnson","RB",2022,14,4900,NA,NA
+"Donovan Peoples-Jones","WR",2022,14,4900,NA,NA
+"Brandin Cooks","WR",2022,14,4900,NA,NA
+"Nick Mullens","QB",2022,14,4900,NA,NA
+"Alexander Mattison","RB",2022,14,4900,NA,NA
+"Adam Thielen","WR",2022,14,4900,NA,NA
+"Mitch Trubisky","QB",2022,14,4900,NA,NA
+"Mason Rudolph","QB",2022,14,4900,NA,NA
+"Teddy Bridgewater","QB",2022,14,4900,NA,NA
+"P.J. Walker","QB",2022,14,4900,NA,NA
+"Baker Mayfield","QB",2022,14,4900,NA,NA
+"Drew Lock","QB",2022,14,4900,NA,NA
+"DeeJay Dallas","RB",2022,14,4900,NA,NA
+"Blaine Gabbert","QB",2022,14,4900,NA,NA
+"Joe Flacco","QB",2022,14,4800,NA,NA
+"Zach Wilson","QB",2022,14,4800,NA,NA
+"C.J. Beathard","QB",2022,14,4800,NA,NA
+"Malik Willis","QB",2022,14,4800,NA,NA
+"Darrell Henderson Jr.","RB",2022,14,4800,NA,NA
+"Chase Daniel","QB",2022,14,4800,NA,NA
+"Skylar Thompson","QB",2022,14,4800,NA,NA
+"Chuba Hubbard","RB",2022,14,4800,NA,NA
+"Tony Jones Jr.","RB",2022,14,4800,NA,NA
+"Jacob Eason","QB",2022,14,4800,NA,NA
+"Kadarius Toney","WR",2022,14,4800,NA,NA
+"Colt McCoy","QB",2022,14,4800,NA,NA
+"Jakobi Meyers","WR",2022,14,4800,NA,NA
+"Jarrett Stidham","QB",2022,14,4700,NA,NA
+"Brandon Allen","QB",2022,14,4700,NA,NA
+"Dallas Goedert","TE",2022,14,4700,NA,NA
+"JaMycal Hasty","RB",2022,14,4700,NA,NA
+"Zay Jones","WR",2022,14,4700,NA,NA
+"Treylon Burks","WR",2022,14,4700,NA,NA
+"Rondale Moore","WR",2022,14,4700,NA,NA
+"Ameer Abdullah","RB",2022,14,4600,NA,NA
+"Van Jefferson","WR",2022,14,4600,NA,NA
+"James Cook","RB",2022,14,4600,NA,NA
+"Kareem Hunt","RB",2022,14,4600,NA,NA
+"Michael Gallup","WR",2022,14,4600,NA,NA
+"Tyrod Taylor","QB",2022,14,4600,NA,NA
+"Jerick McKinnon","RB",2022,14,4600,NA,NA
+"James Robinson","RB",2022,14,4500,NA,NA
+"Jaylen Warren","RB",2022,14,4500,NA,NA
+"Pat Freiermuth","TE",2022,14,4500,NA,NA
+"Dontrell Hilliard","RB",2022,14,4500,NA,NA
+"Robert Woods","WR",2022,14,4500,NA,NA
+"Keaontay Ingram","RB",2022,14,4500,NA,NA
+"Mack Hollins","WR",2022,14,4400,NA,NA
+"Nico Collins","WR",2022,14,4400,NA,NA
+"Dalton Schultz","TE",2022,14,4400,NA,NA
+"Jameson Williams","WR",2022,14,4400,NA,NA
+"Devin Duvernay","WR",2022,14,4400,NA,NA
+"Joshua Kelley","RB",2022,14,4400,NA,NA
+"Jordan Mason","RB",2022,14,4400,NA,NA
+"DJ Chark Jr.","WR",2022,14,4300,NA,NA
+"Matt Breida","RB",2022,14,4300,NA,NA
+"Benny Snell Jr.","RB",2022,14,4300,NA,NA
+"Myles Gaskin","RB",2022,14,4300,NA,NA
+"Gerald Everett","TE",2022,14,4300,NA,NA
+"George Kittle","TE",2022,14,4300,NA,NA
+"Melvin Gordon III","RB",2022,14,4300,NA,NA
+"Chase Edmonds","RB",2022,14,4300,NA,NA
+"Nyheim Hines","RB",2022,14,4200,NA,NA
+"Corey Davis","WR",2022,14,4200,NA,NA
+"Isaiah McKenzie","WR",2022,14,4200,NA,NA
+"Trayveon Williams","RB",2022,14,4200,NA,NA
+"Malik Davis","RB",2022,14,4200,NA,NA
+"Eno Benjamin","RB",2022,14,4200,NA,NA
+"Boston Scott","RB",2022,14,4200,NA,NA
+"Kyle Juszczyk","RB",2022,14,4200,NA,NA
+"Mike Boone","RB",2022,14,4200,NA,NA
+"Mecole Hardman","WR",2022,14,4200,NA,NA
+"Corey Clement","RB",2022,14,4200,NA,NA
+"Darren Waller","TE",2022,14,4100,NA,NA
+"Case Keenum","QB",2022,14,4100,NA,NA
+"Nate Sudfeld","QB",2022,14,4100,NA,NA
+"Marquez Valdes-Scantling","WR",2022,14,4100,NA,NA
+"Case Cookus","QB",2022,14,4000,NA,NA
+"Chase Garbers","QB",2022,14,4000,NA,NA
+"Ronnie Rivers","RB",2022,14,4000,NA,NA
+"Malcolm Brown","RB",2022,14,4000,NA,NA
+"Brandon Bolden","RB",2022,14,4000,NA,NA
+"Zamir White","RB",2022,14,4000,NA,NA
+"Brittain Brown","RB",2022,14,4000,NA,NA
+"Sincere McCormick","RB",2022,14,4000,NA,NA
+"Austin Walter","RB",2022,14,4000,NA,NA
+"Jakob Johnson","RB",2022,14,4000,NA,NA
+"Hunter Renfrow","WR",2022,14,4000,NA,NA
+"Chris Streveler","QB",2022,14,4000,NA,NA
+"Matt Barkley","QB",2022,14,4000,NA,NA
+"Breece Hall","RB",2022,14,4000,NA,NA
+"Jonathan Ward","RB",2022,14,4000,NA,NA
+"Nick Bawden","RB",2022,14,4000,NA,NA
+"Taiwan Jones","RB",2022,14,4000,NA,NA
+"Duke Johnson","RB",2022,14,4000,NA,NA
+"Reggie Gilliam","RB",2022,14,4000,NA,NA
+"Bills","DST",2022,14,4000,NA,NA
+"Kellen Mond","QB",2022,14,4000,NA,NA
+"Jake Browning","QB",2022,14,4000,NA,NA
+"Jerome Ford","RB",2022,14,4000,NA,NA
+"D'Ernest Johnson","RB",2022,14,4000,NA,NA
+"Demetric Felton","RB",2022,14,4000,NA,NA
+"John Kelly Jr.","RB",2022,14,4000,NA,NA
+"Chris Evans","RB",2022,14,4000,NA,NA
+"Elijah Holyfield","RB",2022,14,4000,NA,NA
+"Will Grier","QB",2022,14,4000,NA,NA
+"Jeff Driskel","QB",2022,14,4000,NA,NA
+"Rico Dowdle","RB",2022,14,4000,NA,NA
+"Qadree Ollison","RB",2022,14,4000,NA,NA
+"Rex Burkhead","RB",2022,14,4000,NA,NA
+"Dare Ogunbowale","RB",2022,14,4000,NA,NA
+"Darius Anderson","RB",2022,14,4000,NA,NA
+"Royce Freeman","RB",2022,14,4000,NA,NA
+"Troy Hairston","RB",2022,14,4000,NA,NA
+"David Blough","QB",2022,14,4000,NA,NA
+"Kene Nwangwu","RB",2022,14,4000,NA,NA
+"Ty Chandler","RB",2022,14,4000,NA,NA
+"C.J. Ham","RB",2022,14,4000,NA,NA
+"Bryant Koback","RB",2022,14,4000,NA,NA
+"Justin Jackson","RB",2022,14,4000,NA,NA
+"Craig Reynolds","RB",2022,14,4000,NA,NA
+"Greg Bell","RB",2022,14,4000,NA,NA
+"Jermar Jefferson","RB",2022,14,4000,NA,NA
+"Jason Cabinda","RB",2022,14,4000,NA,NA
+"Ian Book","QB",2022,14,4000,NA,NA
+"Davis Webb","QB",2022,14,4000,NA,NA
+"Trey Sermon","RB",2022,14,4000,NA,NA
+"Gary Brightwell","RB",2022,14,4000,NA,NA
+"Jashaun Corbin","RB",2022,14,4000,NA,NA
+"Sandro Platzgummer","RB",2022,14,4000,NA,NA
+"Anthony Brown","QB",2022,14,4000,NA,NA
+"Justice Hill","RB",2022,14,4000,NA,NA
+"Mike Davis","RB",2022,14,4000,NA,NA
+"J.K. Dobbins","RB",2022,14,4000,NA,NA
+"Tyler Badie","RB",2022,14,4000,NA,NA
+"Patrick Ricard","RB",2022,14,4000,NA,NA
+"Ben Mason","RB",2022,14,4000,NA,NA
+"Ricky Person Jr.","RB",2022,14,4000,NA,NA
+"Jeremy McNichols","RB",2022,14,4000,NA,NA
+"Derek Watt","RB",2022,14,4000,NA,NA
+"Jason Huntley","RB",2022,14,4000,NA,NA
+"Anthony McFarland Jr.","RB",2022,14,4000,NA,NA
+"Master Teague III","RB",2022,14,4000,NA,NA
+"Demarcus Robinson","WR",2022,14,4000,NA,NA
+"E.J. Perry","QB",2022,14,4000,NA,NA
+"Logan Woodside","QB",2022,14,4000,NA,NA
+"Snoop Conner","RB",2022,14,4000,NA,NA
+"Mekhi Sargent","RB",2022,14,4000,NA,NA
+"Hassan Haskins","RB",2022,14,4000,NA,NA
+"Julius Chestnut","RB",2022,14,4000,NA,NA
+"Trenton Cannon","RB",2022,14,4000,NA,NA
+"Tory Carter","RB",2022,14,4000,NA,NA
+"Nick Westbrook-Ikhine","WR",2022,14,4000,NA,NA
+"Easton Stick","QB",2022,14,4000,NA,NA
+"Sony Michel","RB",2022,14,4000,NA,NA
+"Isaiah Spiller","RB",2022,14,4000,NA,NA
+"Larry Rountree III","RB",2022,14,4000,NA,NA
+"Zander Horvath","RB",2022,14,4000,NA,NA
+"Salvon Ahmed","RB",2022,14,4000,NA,NA
+"John Lovett","RB",2022,14,4000,NA,NA
+"Jake Bargas","RB",2022,14,4000,NA,NA
+"La'Mical Perine","RB",2022,14,4000,NA,NA
+"Alec Ingold","RB",2022,14,4000,NA,NA
+"Matt Corral","QB",2022,14,4000,NA,NA
+"Sean Mannion","QB",2022,14,4000,NA,NA
+"Raheem Blackshear","RB",2022,14,4000,NA,NA
+"Spencer Brown","RB",2022,14,4000,NA,NA
+"Nate McCrary","RB",2022,14,4000,NA,NA
+"Rashaad Penny","RB",2022,14,4000,NA,NA
+"Darwin Thompson","RB",2022,14,4000,NA,NA
+"Cullen Gillaspia","RB",2022,14,4000,NA,NA
+"Godwin Igwebuike","RB",2022,14,4000,NA,NA
+"Kyle Trask","QB",2022,14,4000,NA,NA
+"Ryan Griffin","QB",2022,14,4000,NA,NA
+"Jimmy Garoppolo","QB",2022,14,4000,NA,NA
+"Trey Lance","QB",2022,14,4000,NA,NA
+"Ke'Shawn Vaughn","RB",2022,14,4000,NA,NA
+"Giovani Bernard","RB",2022,14,4000,NA,NA
+"Patrick Laird","RB",2022,14,4000,NA,NA
+"Tyrion Davis-Price","RB",2022,14,4000,NA,NA
+"Elijah Mitchell","RB",2022,14,4000,NA,NA
+"Tevin Coleman","RB",2022,14,4000,NA,NA
+"Julio Jones","WR",2022,14,4000,NA,NA
+"Shane Buechele","QB",2022,14,4000,NA,NA
+"Chris Oladokun","QB",2022,14,4000,NA,NA
+"Josh Johnson","QB",2022,14,4000,NA,NA
+"Ronald Jones II","RB",2022,14,4000,NA,NA
+"Clyde Edwards-Helaire","RB",2022,14,4000,NA,NA
+"Michael Burton","RB",2022,14,4000,NA,NA
+"Marlon Mack","RB",2022,14,4000,NA,NA
+"Javonte Williams","RB",2022,14,4000,NA,NA
+"Damarea Crockett","RB",2022,14,4000,NA,NA
+"Devine Ozigbo","RB",2022,14,4000,NA,NA
+"Trace McSorley","QB",2022,14,4000,NA,NA
+"Brian Hoyer","QB",2022,14,4000,NA,NA
+"Garrett Gilbert","QB",2022,14,4000,NA,NA
+"Darrel Williams","RB",2022,14,4000,NA,NA
+"Ty'Son Williams","RB",2022,14,4000,NA,NA
+"Pierre Strong Jr.","RB",2022,14,4000,NA,NA
+"Kevin Harris","RB",2022,14,4000,NA,NA
+"J.J. Taylor","RB",2022,14,4000,NA,NA
+"David Njoku","TE",2022,14,3900,NA,NA
+"Chiefs","DST",2022,14,3900,NA,NA
+"Dawson Knox","TE",2022,14,3800,NA,NA
+"Cowboys","DST",2022,14,3800,NA,NA
+"Quez Watkins","WR",2022,14,3800,NA,NA
+"Marvin Jones Jr.","WR",2022,14,3800,NA,NA
+"DeAndre Carter","WR",2022,14,3800,NA,NA
+"Eagles","DST",2022,14,3700,NA,NA
+"Russell Gage","WR",2022,14,3700,NA,NA
+"KJ Hamler","WR",2022,14,3700,NA,NA
+"DeVante Parker","WR",2022,14,3700,NA,NA
+"Richie James Jr.","WR",2022,14,3600,NA,NA
+"Terrace Marshall Jr.","WR",2022,14,3600,NA,NA
+"Seahawks","DST",2022,14,3600,NA,NA
+"Tyler Higbee","TE",2022,14,3500,NA,NA
+"Foster Moreau","TE",2022,14,3500,NA,NA
+"Elijah Moore","WR",2022,14,3500,NA,NA
+"Bengals","DST",2022,14,3500,NA,NA
+"Noah Brown","WR",2022,14,3500,NA,NA
+"K.J. Osborn","WR",2022,14,3500,NA,NA
+"Isaiah Hodgins","WR",2022,14,3500,NA,NA
+"Mike Gesicki","TE",2022,14,3500,NA,NA
+"Marquise Goodwin","WR",2022,14,3500,NA,NA
+"Nelson Agholor","WR",2022,14,3500,NA,NA
+"Ben Skowronek","WR",2022,14,3400,NA,NA
+"Raiders","DST",2022,14,3400,NA,NA
+"Chris Moore","WR",2022,14,3400,NA,NA
+"Josh Reynolds","WR",2022,14,3400,NA,NA
+"DeSean Jackson","WR",2022,14,3400,NA,NA
+"Titans","DST",2022,14,3400,NA,NA
+"Trent Sherfield","WR",2022,14,3400,NA,NA
+"Kendall Hinton","WR",2022,14,3400,NA,NA
+"Greg Dulcich","TE",2022,14,3400,NA,NA
+"Tutu Atwell","WR",2022,14,3300,NA,NA
+"Kalif Raymond","WR",2022,14,3300,NA,NA
+"Zach Pascal","WR",2022,14,3300,NA,NA
+"Daniel Bellinger","TE",2022,14,3300,NA,NA
+"Ravens","DST",2022,14,3300,NA,NA
+"Evan Engram","TE",2022,14,3300,NA,NA
+"Laviska Shenault Jr.","WR",2022,14,3300,NA,NA
+"Cardinals","DST",2022,14,3300,NA,NA
+"Hayden Hurst","TE",2022,14,3200,NA,NA
+"Kenny Golladay","WR",2022,14,3200,NA,NA
+"Jamal Agnew","WR",2022,14,3200,NA,NA
+"49ers","DST",2022,14,3200,NA,NA
+"Skyy Moore","WR",2022,14,3200,NA,NA
+"Kendrick Bourne","WR",2022,14,3200,NA,NA
+"A.J. Green","WR",2022,14,3200,NA,NA
+"Hunter Henry","TE",2022,14,3200,NA,NA
+"Brandon Powell","WR",2022,14,3100,NA,NA
+"Tyler Conklin","TE",2022,14,3100,NA,NA
+"David Bell","WR",2022,14,3100,NA,NA
+"Vikings","DST",2022,14,3100,NA,NA
+"Steven Sims Jr.","WR",2022,14,3100,NA,NA
+"Noah Fant","TE",2022,14,3100,NA,NA
+"Justin Watson","WR",2022,14,3100,NA,NA
+"Robbie Anderson","WR",2022,14,3100,NA,NA
+"Lance McCutcheon","WR",2022,14,3000,NA,NA
+"Austin Trammell","WR",2022,14,3000,NA,NA
+"Allen Robinson II","WR",2022,14,3000,NA,NA
+"J.J. Koski","WR",2022,14,3000,NA,NA
+"Jaquarii Roberson","WR",2022,14,3000,NA,NA
+"Keelan Cole","WR",2022,14,3000,NA,NA
+"DJ Turner","WR",2022,14,3000,NA,NA
+"Isaiah Zuber","WR",2022,14,3000,NA,NA
+"Malik Turner","WR",2022,14,3000,NA,NA
+"Albert Wilson","WR",2022,14,3000,NA,NA
+"Chris Lacy","WR",2022,14,3000,NA,NA
+"Denzel Mims","WR",2022,14,3000,NA,NA
+"Braxton Berrios","WR",2022,14,3000,NA,NA
+"Jeff Smith","WR",2022,14,3000,NA,NA
+"Rodney Adams","WR",2022,14,3000,NA,NA
+"Tarik Black","WR",2022,14,3000,NA,NA
+"Irvin Charles","WR",2022,14,3000,NA,NA
+"Khalil Shakir","WR",2022,14,3000,NA,NA
+"Marquez Stevenson","WR",2022,14,3000,NA,NA
+"Jake Kumerow","WR",2022,14,3000,NA,NA
+"Jamison Crowder","WR",2022,14,3000,NA,NA
+"Isaiah Coulter","WR",2022,14,3000,NA,NA
+"John Brown","WR",2022,14,3000,NA,NA
+"KeeSean Johnson","WR",2022,14,3000,NA,NA
+"Tanner Gentry","WR",2022,14,3000,NA,NA
+"Anthony Schwartz","WR",2022,14,3000,NA,NA
+"Michael Woods II","WR",2022,14,3000,NA,NA
+"Jakeem Grant Sr.","WR",2022,14,3000,NA,NA
+"Isaiah Weston","WR",2022,14,3000,NA,NA
+"Daylen Baldwin","WR",2022,14,3000,NA,NA
+"Mike Harley Jr.","WR",2022,14,3000,NA,NA
+"Trenton Irwin","WR",2022,14,3000,NA,NA
+"Trent Taylor","WR",2022,14,3000,NA,NA
+"Stanley Morgan","WR",2022,14,3000,NA,NA
+"Kwamie Lassiter II","WR",2022,14,3000,NA,NA
+"Tyron Johnson","WR",2022,14,3000,NA,NA
+"Jalen Tolbert","WR",2022,14,3000,NA,NA
+"KaVontae Turpin","WR",2022,14,3000,NA,NA
+"James Washington","WR",2022,14,3000,NA,NA
+"Simi Fehoko","WR",2022,14,3000,NA,NA
+"Dontario Drummond","WR",2022,14,3000,NA,NA
+"Dennis Houston","WR",2022,14,3000,NA,NA
+"Antonio Callaway","WR",2022,14,3000,NA,NA
+"Brandon Smith","WR",2022,14,3000,NA,NA
+"Phillip Dorsett II","WR",2022,14,3000,NA,NA
+"Amari Rodgers","WR",2022,14,3000,NA,NA
+"John Metchie III","WR",2022,14,3000,NA,NA
+"Jalen Camp","WR",2022,14,3000,NA,NA
+"Davion Davis","WR",2022,14,3000,NA,NA
+"Johnny Johnson III","WR",2022,14,3000,NA,NA
+"Alex Bachman","WR",2022,14,3000,NA,NA
+"Jalen Reagor","WR",2022,14,3000,NA,NA
+"Jalen Nailor","WR",2022,14,3000,NA,NA
+"Bisi Johnson","WR",2022,14,3000,NA,NA
+"Thomas Hennigan","WR",2022,14,3000,NA,NA
+"Dan Chisena","WR",2022,14,3000,NA,NA
+"Trishton Jackson","WR",2022,14,3000,NA,NA
+"Blake Proehl","WR",2022,14,3000,NA,NA
+"Tom Kennedy","WR",2022,14,3000,NA,NA
+"Quintez Cephus","WR",2022,14,3000,NA,NA
+"Trinity Benson","WR",2022,14,3000,NA,NA
+"Stanley Berryhill","WR",2022,14,3000,NA,NA
+"Brandon Zylstra","WR",2022,14,3000,NA,NA
+"Maurice Alexander","WR",2022,14,3000,NA,NA
+"Lions","DST",2022,14,3000,NA,NA
+"Britain Covey","WR",2022,14,3000,NA,NA
+"Kawaan Baker","WR",2022,14,3000,NA,NA
+"Auden Tate","WR",2022,14,3000,NA,NA
+"Devon Allen","WR",2022,14,3000,NA,NA
+"Greg Ward","WR",2022,14,3000,NA,NA
+"Marcus Johnson","WR",2022,14,3000,NA,NA
+"David Sills V","WR",2022,14,3000,NA,NA
+"Sterling Shepard","WR",2022,14,3000,NA,NA
+"Wan'Dale Robinson","WR",2022,14,3000,NA,NA
+"Collin Johnson","WR",2022,14,3000,NA,NA
+"Kalil Pimpleton","WR",2022,14,3000,NA,NA
+"Makai Polk","WR",2022,14,3000,NA,NA
+"James Proche II","WR",2022,14,3000,NA,NA
+"Binjimen Victor","WR",2022,14,3000,NA,NA
+"Tylan Wallace","WR",2022,14,3000,NA,NA
+"Rashod Bateman","WR",2022,14,3000,NA,NA
+"Shemar Bridges","WR",2022,14,3000,NA,NA
+"Andy Isabella","WR",2022,14,3000,NA,NA
+"Gunner Olszewski","WR",2022,14,3000,NA,NA
+"Miles Boykin","WR",2022,14,3000,NA,NA
+"Calvin Austin III","WR",2022,14,3000,NA,NA
+"Anthony Miller","WR",2022,14,3000,NA,NA
+"Cody White","WR",2022,14,3000,NA,NA
+"Ja'Marcus Bradley","WR",2022,14,3000,NA,NA
+"Tim Jones","WR",2022,14,3000,NA,NA
+"Kendric Pryor","WR",2022,14,3000,NA,NA
+"Willie Johnson","WR",2022,14,3000,NA,NA
+"Calvin Ridley","WR",2022,14,3000,NA,NA
+"Seth Williams","WR",2022,14,3000,NA,NA
+"Jaylon Moore","WR",2022,14,3000,NA,NA
+"Kevin Austin Jr.","WR",2022,14,3000,NA,NA
+"Cody Hollister","WR",2022,14,3000,NA,NA
+"C.J. Board","WR",2022,14,3000,NA,NA
+"Kyle Philips","WR",2022,14,3000,NA,NA
+"Racey McMath","WR",2022,14,3000,NA,NA
+"Reggie Roberson Jr.","WR",2022,14,3000,NA,NA
+"Mason Kinsey","WR",2022,14,3000,NA,NA
+"Dez Fitzpatrick","WR",2022,14,3000,NA,NA
+"Chris Conley","WR",2022,14,3000,NA,NA
+"Michael Bandy","WR",2022,14,3000,NA,NA
+"Jason Moore Jr.","WR",2022,14,3000,NA,NA
+"Jalen Guyton","WR",2022,14,3000,NA,NA
+"Joe Reed","WR",2022,14,3000,NA,NA
+"John Hightower","WR",2022,14,3000,NA,NA
+"Keelan Doss","WR",2022,14,3000,NA,NA
+"Cedrick Wilson Jr.","WR",2022,14,3000,NA,NA
+"River Cracraft","WR",2022,14,3000,NA,NA
+"Erik Ezukanma","WR",2022,14,3000,NA,NA
+"Freddie Swain","WR",2022,14,3000,NA,NA
+"Braylon Sanders","WR",2022,14,3000,NA,NA
+"Shi Smith","WR",2022,14,3000,NA,NA
+"Rashard Higgins","WR",2022,14,3000,NA,NA
+"Andre Roberts","WR",2022,14,3000,NA,NA
+"C.J. Saunders","WR",2022,14,3000,NA,NA
+"Derek Wright","WR",2022,14,3000,NA,NA
+"Preston Williams","WR",2022,14,3000,NA,NA
+"Dareke Young","WR",2022,14,3000,NA,NA
+"Penny Hart","WR",2022,14,3000,NA,NA
+"Laquon Treadwell","WR",2022,14,3000,NA,NA
+"Dee Eskridge","WR",2022,14,3000,NA,NA
+"Cody Thompson","WR",2022,14,3000,NA,NA
+"Easop Winston","WR",2022,14,3000,NA,NA
+"Bo Melton","WR",2022,14,3000,NA,NA
+"Cade Johnson","WR",2022,14,3000,NA,NA
+"Breshad Perriman","WR",2022,14,3000,NA,NA
+"Scotty Miller","WR",2022,14,3000,NA,NA
+"Jaelon Darden","WR",2022,14,3000,NA,NA
+"Tyler Johnson","WR",2022,14,3000,NA,NA
+"Kaylon Geiger Sr.","WR",2022,14,3000,NA,NA
+"Deven Thompkins","WR",2022,14,3000,NA,NA
+"Jauan Jennings","WR",2022,14,3000,NA,NA
+"Ray-Ray McCloud III","WR",2022,14,3000,NA,NA
+"Danny Gray","WR",2022,14,3000,NA,NA
+"Tay Martin","WR",2022,14,3000,NA,NA
+"Dazz Newsome","WR",2022,14,3000,NA,NA
+"Willie Snead IV","WR",2022,14,3000,NA,NA
+"Cameron Brate","TE",2022,14,3000,NA,NA
+"Cornell Powell","WR",2022,14,3000,NA,NA
+"Justyn Ross","WR",2022,14,3000,NA,NA
+"Bryan Edwards","WR",2022,14,3000,NA,NA
+"Marcus Kemp","WR",2022,14,3000,NA,NA
+"Ihmir Smith-Marsette","WR",2022,14,3000,NA,NA
+"Jerrion Ealy","WR",2022,14,3000,NA,NA
+"Brandon Johnson","WR",2022,14,3000,NA,NA
+"Montrell Washington","WR",2022,14,3000,NA,NA
+"Jalen Virgil","WR",2022,14,3000,NA,NA
+"Tim Patrick","WR",2022,14,3000,NA,NA
+"Tyrie Cleveland","WR",2022,14,3000,NA,NA
+"Victor Bolden Jr.","WR",2022,14,3000,NA,NA
+"Greg Dortch","WR",2022,14,3000,NA,NA
+"Antoine Wesley","WR",2022,14,3000,NA,NA
+"Pharoh Cooper","WR",2022,14,3000,NA,NA
+"Javon Wims","WR",2022,14,3000,NA,NA
+"Andre Baccellia","WR",2022,14,3000,NA,NA
+"Tyquan Thornton","WR",2022,14,3000,NA,NA
+"Ty Montgomery","WR",2022,14,3000,NA,NA
+"Matthew Slater","WR",2022,14,3000,NA,NA
+"Raleigh Webb","WR",2022,14,3000,NA,NA
+"Kristian Wilkerson","WR",2022,14,3000,NA,NA
+"Tre Nixon","WR",2022,14,3000,NA,NA
+"Lynn Bowden Jr.","WR",2022,14,3000,NA,NA
+"Trey McBride","TE",2022,14,3000,NA,NA
+"Irv Smith Jr.","TE",2022,14,2900,NA,NA
+"Brock Wright","TE",2022,14,2900,NA,NA
+"Austin Hooper","TE",2022,14,2900,NA,NA
+"Buccaneers","DST",2022,14,2900,NA,NA
+"Jonnu Smith","TE",2022,14,2900,NA,NA
+"Patriots","DST",2022,14,2900,NA,NA
+"Harrison Bryant","TE",2022,14,2800,NA,NA
+"Jake Ferguson","TE",2022,14,2800,NA,NA
+"Jordan Akins","TE",2022,14,2800,NA,NA
+"Jack Stoll","TE",2022,14,2800,NA,NA
+"Steelers","DST",2022,14,2800,NA,NA
+"Cade Otton","TE",2022,14,2800,NA,NA
+"Rams","DST",2022,14,2700,NA,NA
+"Mitchell Wilcox","TE",2022,14,2700,NA,NA
+"Peyton Hendershot","TE",2022,14,2700,NA,NA
+"Isaiah Likely","TE",2022,14,2700,NA,NA
+"Chig Okonkwo","TE",2022,14,2700,NA,NA
+"Jaguars","DST",2022,14,2700,NA,NA
+"Ian Thomas","TE",2022,14,2700,NA,NA
+"Will Dissly","TE",2022,14,2700,NA,NA
+"Browns","DST",2022,14,2600,NA,NA
+"James Mitchell","TE",2022,14,2600,NA,NA
+"Durham Smythe","TE",2022,14,2600,NA,NA
+"Tommy Tremble","TE",2022,14,2600,NA,NA
+"Noah Gray","TE",2022,14,2600,NA,NA
+"Brycen Hopkins","TE",2022,14,2500,NA,NA
+"Jacob Harris","TE",2022,14,2500,NA,NA
+"Jared Pinkney","TE",2022,14,2500,NA,NA
+"Roger Carter Jr.","TE",2022,14,2500,NA,NA
+"Jesper Horsted","TE",2022,14,2500,NA,NA
+"Jacob Hollister","TE",2022,14,2500,NA,NA
+"Cole Fotheringham","TE",2022,14,2500,NA,NA
+"C.J. Uzomah","TE",2022,14,2500,NA,NA
+"Kenny Yeboah","TE",2022,14,2500,NA,NA
+"Jeremy Ruckert","TE",2022,14,2500,NA,NA
+"Quintin Morris","TE",2022,14,2500,NA,NA
+"Tommy Sweeney","TE",2022,14,2500,NA,NA
+"Zach Davidson","TE",2022,14,2500,NA,NA
+"Jets","DST",2022,14,2500,NA,NA
+"Pharaoh Brown","TE",2022,14,2500,NA,NA
+"Jesse James","TE",2022,14,2500,NA,NA
+"Zaire Mitchell-Paden","TE",2022,14,2500,NA,NA
+"Miller Forristall","TE",2022,14,2500,NA,NA
+"Devin Asiasi","TE",2022,14,2500,NA,NA
+"Drew Sample","TE",2022,14,2500,NA,NA
+"Cal Adomitis","TE",2022,14,2500,NA,NA
+"Nick Bowers","TE",2022,14,2500,NA,NA
+"Clark Harris","TE",2022,14,2500,NA,NA
+"Sean McKeon","TE",2022,14,2500,NA,NA
+"Ian Bunting","TE",2022,14,2500,NA,NA
+"Seth Green","TE",2022,14,2500,NA,NA
+"Brevin Jordan","TE",2022,14,2500,NA,NA
+"Teagan Quitoriano","TE",2022,14,2500,NA,NA
+"O.J. Howard","TE",2022,14,2500,NA,NA
+"Mason Schreck","TE",2022,14,2500,NA,NA
+"Johnny Mundt","TE",2022,14,2500,NA,NA
+"Ben Ellefson","TE",2022,14,2500,NA,NA
+"Nick Muse","TE",2022,14,2500,NA,NA
+"Andrew DePaola","TE",2022,14,2500,NA,NA
+"James O'Shaughnessy","TE",2022,14,2500,NA,NA
+"Shane Zylstra","TE",2022,14,2500,NA,NA
+"Garrett Griffin","TE",2022,14,2500,NA,NA
+"Grant Calcaterra","TE",2022,14,2500,NA,NA
+"Tyree Jackson","TE",2022,14,2500,NA,NA
+"Noah Togiai","TE",2022,14,2500,NA,NA
+"Chris Myarick","TE",2022,14,2500,NA,NA
+"Nick Vannett","TE",2022,14,2500,NA,NA
+"Lawrence Cager","TE",2022,14,2500,NA,NA
+"Dre Miller","TE",2022,14,2500,NA,NA
+"Josh Oliver","TE",2022,14,2500,NA,NA
+"Nick Boyle","TE",2022,14,2500,NA,NA
+"Charlie Kolar","TE",2022,14,2500,NA,NA
+"Zach Gentry","TE",2022,14,2500,NA,NA
+"Connor Heyward","TE",2022,14,2500,NA,NA
+"Rodney Williams II","TE",2022,14,2500,NA,NA
+"Chris Manhertz","TE",2022,14,2500,NA,NA
+"Dan Arnold","TE",2022,14,2500,NA,NA
+"Luke Farrell","TE",2022,14,2500,NA,NA
+"Gerrit Prince","TE",2022,14,2500,NA,NA
+"Geoff Swaim","TE",2022,14,2500,NA,NA
+"Kevin Rader","TE",2022,14,2500,NA,NA
+"Thomas Odukoya","TE",2022,14,2500,NA,NA
+"Tre' McKitty","TE",2022,14,2500,NA,NA
+"Richard Rodgers","TE",2022,14,2500,NA,NA
+"Stone Smartt","TE",2022,14,2500,NA,NA
+"Donald Parham Jr.","TE",2022,14,2500,NA,NA
+"Hunter Kampmoyer","TE",2022,14,2500,NA,NA
+"Hunter Long","TE",2022,14,2500,NA,NA
+"Tanner Conner","TE",2022,14,2500,NA,NA
+"Cethan Carter","TE",2022,14,2500,NA,NA
+"Adam Shaheen","TE",2022,14,2500,NA,NA
+"Chargers","DST",2022,14,2500,NA,NA
+"Stephen Sullivan","TE",2022,14,2500,NA,NA
+"Giovanni Ricci","TE",2022,14,2500,NA,NA
+"Colin Thompson","TE",2022,14,2500,NA,NA
+"Colby Parkinson","TE",2022,14,2500,NA,NA
+"Tyler Ott","TE",2022,14,2500,NA,NA
+"Tyler Mabry","TE",2022,14,2500,NA,NA
+"Ko Kieft","TE",2022,14,2500,NA,NA
+"Kyle Rudolph","TE",2022,14,2500,NA,NA
+"David Wells","TE",2022,14,2500,NA,NA
+"Tyler Kroft","TE",2022,14,2500,NA,NA
+"Charlie Woerner","TE",2022,14,2500,NA,NA
+"Ross Dwelley","TE",2022,14,2500,NA,NA
+"Jordan Matthews","TE",2022,14,2500,NA,NA
+"Jody Fortson","TE",2022,14,2500,NA,NA
+"Blake Bell","TE",2022,14,2500,NA,NA
+"James Winchester","TE",2022,14,2500,NA,NA
+"Kendall Blanton","TE",2022,14,2500,NA,NA
+"Eric Saubert","TE",2022,14,2500,NA,NA
+"Eric Tomlinson","TE",2022,14,2500,NA,NA
+"Andrew Beck","TE",2022,14,2500,NA,NA
+"Albert Okwuegbunam","TE",2022,14,2500,NA,NA
+"Mitchell Fraboni","TE",2022,14,2500,NA,NA
+"Stephen Anderson","TE",2022,14,2500,NA,NA
+"Zach Ertz","TE",2022,14,2500,NA,NA
+"Maxx Williams","TE",2022,14,2500,NA,NA
+"Chris Pierce Jr.","TE",2022,14,2500,NA,NA
+"Bernhard Seikovits","TE",2022,14,2500,NA,NA
+"Matt Sokol","TE",2022,14,2500,NA,NA
+"Scotty Washington","TE",2022,14,2500,NA,NA
+"Giants","DST",2022,14,2400,NA,NA
+"Dolphins","DST",2022,14,2400,NA,NA
+"Broncos","DST",2022,14,2300,NA,NA
+"Panthers","DST",2022,14,2200,NA,NA
+"Texans","DST",2022,14,2100,NA,NA
