@@ -93773,7 +93773,7 @@
 "Keith Kirkwood","WR",2025,2,3000,NA,3000
 "Anthony Miller","WR",2025,2,3000,NA,3000
 "DeAndre Carter","WR",2025,2,3000,NA,3000
-"Gage Larvadain","WR",2025,2,3000,NA,NA
+"Gage Larvadain","WR",2025,2,3000,NA,3000
 "David Bell","WR",2025,2,3000,NA,3000
 "Cade McDonald","WR",2025,2,3000,NA,3000
 "Malachi Corley","WR",2025,2,3000,NA,3000
@@ -93946,797 +93946,1594 @@
 "Jets","DST",2025,2,2400,NA,2200
 "Panthers","DST",2025,2,2300,NA,2500
 "Browns","DST",2025,2,2200,NA,2200
-"Christian McCaffrey","RB",2025,3,8200,NA,NA
-"Ja'Marr Chase","WR",2025,3,8100,NA,NA
-"CeeDee Lamb","WR",2025,3,8000,NA,NA
-"Bijan Robinson","RB",2025,3,7900,NA,NA
-"Saquon Barkley","RB",2025,3,7800,NA,NA
-"Puka Nacua","WR",2025,3,7700,NA,NA
-"Jahmyr Gibbs","RB",2025,3,7600,NA,NA
-"Derrick Henry","RB",2025,3,7500,NA,NA
-"Justin Jefferson","WR",2025,3,7500,NA,NA
-"Josh Allen","QB",2025,3,7400,NA,NA
-"Amon-Ra St. Brown","WR",2025,3,7400,NA,NA
-"Lamar Jackson","QB",2025,3,7300,NA,NA
-"Nico Collins","WR",2025,3,7300,NA,NA
-"Jonathan Taylor","RB",2025,3,7200,NA,NA
-"Malik Nabers","WR",2025,3,7200,NA,NA
-"Bucky Irving","RB",2025,3,7100,NA,NA
-"Jayden Daniels","QB",2025,3,7000,NA,NA
-"Josh Jacobs","RB",2025,3,7000,NA,NA
-"Chase Brown","RB",2025,3,6900,NA,NA
-"Jalen Hurts","QB",2025,3,6800,NA,NA
-"De'Von Achane","RB",2025,3,6800,NA,NA
-"Ladd McConkey","WR",2025,3,6800,NA,NA
-"Ashton Jeanty","RB",2025,3,6700,NA,NA
-"Tyreek Hill","WR",2025,3,6700,NA,NA
-"Baker Mayfield","QB",2025,3,6600,NA,NA
+"Christian McCaffrey","RB",2025,3,8200,NA,8500
+"Ja'Marr Chase","WR",2025,3,8100,NA,8000
+"CeeDee Lamb","WR",2025,3,8000,NA,7800
+"Bijan Robinson","RB",2025,3,7900,NA,8200
+"Saquon Barkley","RB",2025,3,7800,NA,7600
+"Puka Nacua","WR",2025,3,7700,NA,7900
+"Jahmyr Gibbs","RB",2025,3,7600,NA,7700
+"Derrick Henry","RB",2025,3,7500,NA,7200
+"Justin Jefferson","WR",2025,3,7500,NA,7500
+"Josh Allen","QB",2025,3,7400,NA,7700
+"Amon-Ra St. Brown","WR",2025,3,7400,NA,7300
+"Lamar Jackson","QB",2025,3,7300,NA,7500
+"Nico Collins","WR",2025,3,7300,NA,7400
+"Jonathan Taylor","RB",2025,3,7200,NA,7500
+"Malik Nabers","WR",2025,3,7200,NA,7000
+"Bucky Irving","RB",2025,3,7100,NA,6900
+"Jayden Daniels","QB",2025,3,7000,NA,7000
+"Josh Jacobs","RB",2025,3,7000,NA,6800
+"Chase Brown","RB",2025,3,6900,NA,6600
+"Jalen Hurts","QB",2025,3,6800,NA,6700
+"De'Von Achane","RB",2025,3,6800,NA,7000
+"Ladd McConkey","WR",2025,3,6800,NA,6500
+"Ashton Jeanty","RB",2025,3,6700,NA,6200
+"Tyreek Hill","WR",2025,3,6700,NA,6500
+"Baker Mayfield","QB",2025,3,6600,NA,6500
 "James Cook","RB",2025,3,6600,NA,NA
-"Mike Evans","WR",2025,3,6600,NA,NA
-"Joe Burrow","QB",2025,3,6500,NA,NA
-"Patrick Mahomes","QB",2025,3,6500,NA,NA
-"James Conner","RB",2025,3,6500,NA,NA
-"Jaxon Smith-Njigba","WR",2025,3,6500,NA,NA
-"Jared Goff","QB",2025,3,6400,NA,NA
-"Kyren Williams","RB",2025,3,6400,NA,NA
-"Brian Thomas Jr.","WR",2025,3,6400,NA,NA
-"Zay Flowers","WR",2025,3,6400,NA,NA
-"Jordan Love","QB",2025,3,6300,NA,NA
-"Alvin Kamara","RB",2025,3,6300,NA,NA
-"Emeka Egbuka","WR",2025,3,6300,NA,NA
-"A.J. Brown","WR",2025,3,6300,NA,NA
-"Justin Herbert","QB",2025,3,6200,NA,NA
-"Chuba Hubbard","RB",2025,3,6200,NA,NA
-"Garrett Wilson","WR",2025,3,6200,NA,NA
-"Davante Adams","WR",2025,3,6200,NA,NA
-"Kyler Murray","QB",2025,3,6100,NA,NA
-"Javonte Williams","RB",2025,3,6100,NA,NA
-"Deebo Samuel Sr.","WR",2025,3,6100,NA,NA
-"Tee Higgins","WR",2025,3,6100,NA,NA
-"Brock Purdy","QB",2025,3,6000,NA,NA
-"Breece Hall","RB",2025,3,6000,NA,NA
-"Courtland Sutton","WR",2025,3,6000,NA,NA
-"Drake London","WR",2025,3,6000,NA,NA
-"Brock Bowers","TE",2025,3,6000,NA,NA
-"Dak Prescott","QB",2025,3,5900,NA,NA
-"Travis Etienne Jr.","RB",2025,3,5900,NA,NA
-"Jameson Williams","WR",2025,3,5900,NA,NA
-"George Pickens","WR",2025,3,5900,NA,NA
-"Tetairoa McMillan","WR",2025,3,5900,NA,NA
-"Bo Nix","QB",2025,3,5800,NA,NA
-"Kenneth Walker III","RB",2025,3,5800,NA,NA
-"Terry McLaurin","WR",2025,3,5800,NA,NA
-"Xavier Worthy","WR",2025,3,5800,NA,NA
-"Matthew Stafford","QB",2025,3,5700,NA,NA
-"J.K. Dobbins","RB",2025,3,5700,NA,NA
-"Tony Pollard","RB",2025,3,5700,NA,NA
-"DK Metcalf","WR",2025,3,5700,NA,NA
-"Jaylen Waddle","WR",2025,3,5700,NA,NA
-"Trey McBride","TE",2025,3,5700,NA,NA
-"Caleb Williams","QB",2025,3,5600,NA,NA
-"Michael Penix Jr.","QB",2025,3,5600,NA,NA
-"D'Andre Swift","RB",2025,3,5600,NA,NA
-"Omarion Hampton","RB",2025,3,5600,NA,NA
-"David Montgomery","RB",2025,3,5600,NA,NA
-"Marvin Harrison Jr.","WR",2025,3,5600,NA,NA
-"Jakobi Meyers","WR",2025,3,5600,NA,NA
-"Jake Browning","QB",2025,3,5500,NA,NA
-"C.J. Stroud","QB",2025,3,5500,NA,NA
-"Jacory Croskey-Merritt","RB",2025,3,5500,NA,NA
-"Jaylen Warren","RB",2025,3,5500,NA,NA
-"Ricky Pearsall","WR",2025,3,5500,NA,NA
-"Chris Godwin Jr.","WR",2025,3,5500,NA,NA
-"Hollywood Brown","WR",2025,3,5500,NA,NA
-"Tua Tagovailoa","QB",2025,3,5400,NA,NA
-"Daniel Jones","QB",2025,3,5400,NA,NA
-"Trevor Lawrence","QB",2025,3,5400,NA,NA
-"TreVeyon Henderson","RB",2025,3,5400,NA,NA
-"Jordan Mason","RB",2025,3,5400,NA,NA
-"DJ Moore","WR",2025,3,5400,NA,NA
-"Quentin Johnston","WR",2025,3,5400,NA,NA
-"Khalil Shakir","WR",2025,3,5400,NA,NA
-"Russell Wilson","QB",2025,3,5300,NA,NA
-"Justin Fields","QB",2025,3,5300,NA,NA
-"Drake Maye","QB",2025,3,5300,NA,NA
-"Rhamondre Stevenson","RB",2025,3,5300,NA,NA
-"Aaron Jones Sr.","RB",2025,3,5300,NA,NA
-"Rome Odunze","WR",2025,3,5300,NA,NA
-"DeVonta Smith","WR",2025,3,5300,NA,NA
-"Keon Coleman","WR",2025,3,5300,NA,NA
-"Geno Smith","QB",2025,3,5200,NA,NA
-"Aaron Rodgers","QB",2025,3,5200,NA,NA
-"Isiah Pacheco","RB",2025,3,5200,NA,NA
-"Nick Chubb","RB",2025,3,5200,NA,NA
-"Dylan Sampson","RB",2025,3,5200,NA,NA
-"Chris Olave","WR",2025,3,5200,NA,NA
-"Jerry Jeudy","WR",2025,3,5200,NA,NA
-"Sam Darnold","QB",2025,3,5100,NA,NA
-"J.J. McCarthy","QB",2025,3,5100,NA,NA
-"Najee Harris","RB",2025,3,5100,NA,NA
-"Rachaad White","RB",2025,3,5100,NA,NA
-"Tyrone Tracy Jr.","RB",2025,3,5100,NA,NA
-"Calvin Ridley","WR",2025,3,5100,NA,NA
-"Matthew Golden","WR",2025,3,5100,NA,NA
-"Mac Jones","QB",2025,3,5000,NA,NA
-"Bryce Young","QB",2025,3,5000,NA,NA
-"Braelon Allen","RB",2025,3,5000,NA,NA
-"Quinshon Judkins","RB",2025,3,5000,NA,NA
-"Cam Skattebo","RB",2025,3,5000,NA,NA
-"Jauan Jennings","WR",2025,3,5000,NA,NA
-"Cooper Kupp","WR",2025,3,5000,NA,NA
-"Travis Kelce","TE",2025,3,5000,NA,NA
-"Spencer Rattler","QB",2025,3,4900,NA,NA
-"Cam Ward","QB",2025,3,4900,NA,NA
-"Raheem Mostert","RB",2025,3,4900,NA,NA
-"Bhayshul Tuten","RB",2025,3,4900,NA,NA
-"Michael Pittman Jr.","WR",2025,3,4900,NA,NA
-"Travis Hunter","WR",2025,3,4900,NA,NA
-"Tyrod Taylor","QB",2025,3,4800,NA,NA
-"Joe Flacco","QB",2025,3,4800,NA,NA
-"Jaylen Wright","RB",2025,3,4800,NA,NA
-"Brian Robinson Jr.","RB",2025,3,4800,NA,NA
-"Zach Charbonnet","RB",2025,3,4800,NA,NA
-"Stefon Diggs","WR",2025,3,4800,NA,NA
-"Romeo Doubs","WR",2025,3,4800,NA,NA
-"Trey Lance","QB",2025,3,4700,NA,NA
-"Kenny Pickett","QB",2025,3,4700,NA,NA
-"RJ Harvey","RB",2025,3,4700,NA,NA
-"Rico Dowdle","RB",2025,3,4700,NA,NA
-"Tyler Allgeier","RB",2025,3,4700,NA,NA
-"Kareem Hunt","RB",2025,3,4700,NA,NA
-"Wan'Dale Robinson","WR",2025,3,4700,NA,NA
-"Keenan Allen","WR",2025,3,4700,NA,NA
-"Christian Kirk","WR",2025,3,4700,NA,NA
-"Tucker Kraft","TE",2025,3,4700,NA,NA
-"Teddy Bridgewater","QB",2025,3,4600,NA,NA
-"Kirk Cousins","QB",2025,3,4600,NA,NA
-"Antonio Gibson","RB",2025,3,4600,NA,NA
-"Dameon Pierce","RB",2025,3,4600,NA,NA
-"Jerome Ford","RB",2025,3,4600,NA,NA
-"Rashid Shaheed","WR",2025,3,4600,NA,NA
-"Kayshon Boutte","WR",2025,3,4600,NA,NA
-"Davis Mills","QB",2025,3,4500,NA,NA
-"Andy Dalton","QB",2025,3,4500,NA,NA
-"Trey Benson","RB",2025,3,4500,NA,NA
-"Miles Sanders","RB",2025,3,4500,NA,NA
-"Kenneth Gainwell","RB",2025,3,4500,NA,NA
-"Justice Hill","RB",2025,3,4500,NA,NA
-"Cedric Tillman","WR",2025,3,4500,NA,NA
-"Darnell Mooney","WR",2025,3,4500,NA,NA
-"Rashod Bateman","WR",2025,3,4500,NA,NA
-"Sam LaPorta","TE",2025,3,4500,NA,NA
-"Tyler Shough","QB",2025,3,4400,NA,NA
-"Anthony Richardson Sr.","QB",2025,3,4400,NA,NA
-"Jeremy McNichols","RB",2025,3,4400,NA,NA
-"Kaleb Johnson","RB",2025,3,4400,NA,NA
-"Woody Marks","RB",2025,3,4400,NA,NA
-"Josh Downs","WR",2025,3,4400,NA,NA
-"Dyami Brown","WR",2025,3,4400,NA,NA
-"Joshua Palmer","WR",2025,3,4400,NA,NA
-"Tyler Warren","TE",2025,3,4400,NA,NA
-"Jameis Winston","QB",2025,3,4300,NA,NA
-"Dillon Gabriel","QB",2025,3,4300,NA,NA
-"Shedeur Sanders","QB",2025,3,4300,NA,NA
-"Jaxson Dart","QB",2025,3,4300,NA,NA
-"Ollie Gordon II","RB",2025,3,4300,NA,NA
-"Jaydon Blue","RB",2025,3,4300,NA,NA
-"Will Shipley","RB",2025,3,4300,NA,NA
-"Tank Bigsby","RB",2025,3,4300,NA,NA
-"DeAndre Hopkins","WR",2025,3,4300,NA,NA
-"Alec Pierce","WR",2025,3,4300,NA,NA
-"Adam Thielen","WR",2025,3,4300,NA,NA
-"Mark Andrews","TE",2025,3,4300,NA,NA
-"Jimmy Garoppolo","QB",2025,3,4200,NA,NA
-"Zamir White","RB",2025,3,4200,NA,NA
-"DJ Giddens","RB",2025,3,4200,NA,NA
-"Blake Corum","RB",2025,3,4200,NA,NA
-"Luther Burden III","WR",2025,3,4200,NA,NA
-"Jayden Higgins","WR",2025,3,4200,NA,NA
-"Zach Ertz","TE",2025,3,4200,NA,NA
-"Ray Davis","RB",2025,3,4100,NA,NA
-"Kyle Monangai","RB",2025,3,4100,NA,NA
-"Chris Rodriguez Jr.","RB",2025,3,4100,NA,NA
-"Dont'e Thornton Jr.","WR",2025,3,4100,NA,NA
-"DeMario Douglas","WR",2025,3,4100,NA,NA
-"David Njoku","TE",2025,3,4100,NA,NA
-"Mitchell Trubisky","QB",2025,3,4000,NA,NA
-"Cooper Rush","QB",2025,3,4000,NA,NA
-"Tyler Huntley","QB",2025,3,4000,NA,NA
-"Kyle Allen","QB",2025,3,4000,NA,NA
-"C.J. Beathard","QB",2025,3,4000,NA,NA
-"Gardner Minshew II","QB",2025,3,4000,NA,NA
-"Chris Oladokun","QB",2025,3,4000,NA,NA
-"Adrian Martinez","QB",2025,3,4000,NA,NA
-"Kurtis Rourke","QB",2025,3,4000,NA,NA
-"Jacoby Brissett","QB",2025,3,4000,NA,NA
-"Kedon Slovis","QB",2025,3,4000,NA,NA
-"Joe Milton III","QB",2025,3,4000,NA,NA
-"Will Grier","QB",2025,3,4000,NA,NA
-"Tyson Bagent","QB",2025,3,4000,NA,NA
-"Case Keenum","QB",2025,3,4000,NA,NA
-"Drew Lock","QB",2025,3,4000,NA,NA
-"Jalen Milroe","QB",2025,3,4000,NA,NA
-"Jake Haener","QB",2025,3,4000,NA,NA
-"Hunter Dekkers","QB",2025,3,4000,NA,NA
-"DJ Uiagalelei","QB",2025,3,4000,NA,NA
-"Jarrett Stidham","QB",2025,3,4000,NA,NA
-"Sam Ehlinger","QB",2025,3,4000,NA,NA
-"Marcus Mariota","QB",2025,3,4000,NA,NA
-"Josh Johnson","QB",2025,3,4000,NA,NA
-"Sam Hartman","QB",2025,3,4000,NA,NA
-"Aidan O'Connell","QB",2025,3,4000,NA,NA
-"Cam Miller","QB",2025,3,4000,NA,NA
-"Jeff Driskel","QB",2025,3,4000,NA,NA
-"Riley Leonard","QB",2025,3,4000,NA,NA
-"Brandon Allen","QB",2025,3,4000,NA,NA
-"Will Levis","QB",2025,3,4000,NA,NA
-"Trevor Siemian","QB",2025,3,4000,NA,NA
-"Connor Bazelak","QB",2025,3,4000,NA,NA
-"Brady Cook","QB",2025,3,4000,NA,NA
-"Tanner McKee","QB",2025,3,4000,NA,NA
-"Sam Howell","QB",2025,3,4000,NA,NA
-"Kyle McCord","QB",2025,3,4000,NA,NA
-"Stetson Bennett IV","QB",2025,3,4000,NA,NA
-"Mason Rudolph","QB",2025,3,4000,NA,NA
-"Will Howard","QB",2025,3,4000,NA,NA
-"Skylar Thompson","QB",2025,3,4000,NA,NA
-"Logan Woodside","QB",2025,3,4000,NA,NA
-"Joshua Dobbs","QB",2025,3,4000,NA,NA
-"Tommy DeVito","QB",2025,3,4000,NA,NA
-"Carson Wentz","QB",2025,3,4000,NA,NA
-"Max Brosmer","QB",2025,3,4000,NA,NA
-"Brett Rypien","QB",2025,3,4000,NA,NA
-"Nick Mullens","QB",2025,3,4000,NA,NA
-"Seth Henigan","QB",2025,3,4000,NA,NA
-"Graham Mertz","QB",2025,3,4000,NA,NA
-"Malik Willis","QB",2025,3,4000,NA,NA
-"Clayton Tune","QB",2025,3,4000,NA,NA
-"Deshaun Watson","QB",2025,3,4000,NA,NA
-"Bailey Zappe","QB",2025,3,4000,NA,NA
-"Hendon Hooker","QB",2025,3,4000,NA,NA
-"Emory Jones","QB",2025,3,4000,NA,NA
-"Easton Stick","QB",2025,3,4000,NA,NA
-"Zach Wilson","QB",2025,3,4000,NA,NA
-"Quinn Ewers","QB",2025,3,4000,NA,NA
-"Shane Buechele","QB",2025,3,4000,NA,NA
-"Rasheen Ali","RB",2025,3,4000,NA,NA
-"Keaton Mitchell","RB",2025,3,4000,NA,NA
-"D'Ernest Johnson","RB",2025,3,4000,NA,NA
-"Lucas Scott","RB",2025,3,4000,NA,NA
-"Patrick Ricard","RB",2025,3,4000,NA,NA
-"Craig Reynolds","RB",2025,3,4000,NA,NA
-"Sione Vaki","RB",2025,3,4000,NA,NA
-"Jacob Saylors","RB",2025,3,4000,NA,NA
-"Kye Robichaux","RB",2025,3,4000,NA,NA
-"Eric Gray","RB",2025,3,4000,NA,NA
-"Dante Miller","RB",2025,3,4000,NA,NA
-"Brashard Smith","RB",2025,3,4000,NA,NA
-"Elijah Mitchell","RB",2025,3,4000,NA,NA
-"Keaontay Ingram","RB",2025,3,4000,NA,NA
-"Carson Steele","RB",2025,3,4000,NA,NA
-"Clyde Edwards-Helaire","RB",2025,3,4000,NA,NA
-"Isaac Guerendo","RB",2025,3,4000,NA,NA
-"Jordan James","RB",2025,3,4000,NA,NA
-"Patrick Taylor Jr.","RB",2025,3,4000,NA,NA
-"Kyle Juszczyk","RB",2025,3,4000,NA,NA
-"Sincere McCormick","RB",2025,3,4000,NA,NA
-"Emari Demercado","RB",2025,3,4000,NA,NA
-"Zonovan Knight","RB",2025,3,4000,NA,NA
-"Michael Carter","RB",2025,3,4000,NA,NA
-"Phil Mafah","RB",2025,3,4000,NA,NA
-"Hunter Luepke","RB",2025,3,4000,NA,NA
-"Malik Davis","RB",2025,3,4000,NA,NA
-"Roschon Johnson","RB",2025,3,4000,NA,NA
-"Travis Homer","RB",2025,3,4000,NA,NA
-"Deion Hankins","RB",2025,3,4000,NA,NA
-"Brittain Brown","RB",2025,3,4000,NA,NA
-"George Holani","RB",2025,3,4000,NA,NA
-"Kenny McIntosh","RB",2025,3,4000,NA,NA
+"Mike Evans","WR",2025,3,6600,NA,6600
+"Joe Burrow","QB",2025,3,6500,NA,4000
+"Patrick Mahomes","QB",2025,3,6500,NA,6000
+"James Conner","RB",2025,3,6500,NA,4000
+"Jaxon Smith-Njigba","WR",2025,3,6500,NA,6600
+"Jared Goff","QB",2025,3,6400,NA,6400
+"Kyren Williams","RB",2025,3,6400,NA,6300
+"Brian Thomas Jr.","WR",2025,3,6400,NA,6100
+"Zay Flowers","WR",2025,3,6400,NA,6700
+"Jordan Love","QB",2025,3,6300,NA,6200
+"Alvin Kamara","RB",2025,3,6300,NA,6100
+"Emeka Egbuka","WR",2025,3,6300,NA,6800
+"A.J. Brown","WR",2025,3,6300,NA,6400
+"Justin Herbert","QB",2025,3,6200,NA,6300
+"Chuba Hubbard","RB",2025,3,6200,NA,6000
+"Garrett Wilson","WR",2025,3,6200,NA,6200
+"Davante Adams","WR",2025,3,6200,NA,6200
+"Kyler Murray","QB",2025,3,6100,NA,5800
+"Javonte Williams","RB",2025,3,6100,NA,5900
+"Deebo Samuel Sr.","WR",2025,3,6100,NA,6000
+"Tee Higgins","WR",2025,3,6100,NA,5800
+"Brock Purdy","QB",2025,3,6000,NA,6100
+"Breece Hall","RB",2025,3,6000,NA,5700
+"Courtland Sutton","WR",2025,3,6000,NA,6100
+"Drake London","WR",2025,3,6000,NA,5700
+"Brock Bowers","TE",2025,3,6000,NA,5800
+"Dak Prescott","QB",2025,3,5900,NA,5700
+"Travis Etienne Jr.","RB",2025,3,5900,NA,5800
+"Jameson Williams","WR",2025,3,5900,NA,5900
+"George Pickens","WR",2025,3,5900,NA,6300
+"Tetairoa McMillan","WR",2025,3,5900,NA,5900
+"Bo Nix","QB",2025,3,5800,NA,5600
+"Kenneth Walker III","RB",2025,3,5800,NA,6500
+"Terry McLaurin","WR",2025,3,5800,NA,5500
+"Xavier Worthy","WR",2025,3,5800,NA,5800
+"Matthew Stafford","QB",2025,3,5700,NA,5900
+"J.K. Dobbins","RB",2025,3,5700,NA,5800
+"Tony Pollard","RB",2025,3,5700,NA,5600
+"DK Metcalf","WR",2025,3,5700,NA,5400
+"Jaylen Waddle","WR",2025,3,5700,NA,5500
+"Trey McBride","TE",2025,3,5700,NA,5600
+"Caleb Williams","QB",2025,3,5600,NA,5800
+"Michael Penix Jr.","QB",2025,3,5600,NA,5100
+"D'Andre Swift","RB",2025,3,5600,NA,5400
+"Omarion Hampton","RB",2025,3,5600,NA,5900
+"David Montgomery","RB",2025,3,5600,NA,5700
+"Marvin Harrison Jr.","WR",2025,3,5600,NA,5300
+"Jakobi Meyers","WR",2025,3,5600,NA,5400
+"Jake Browning","QB",2025,3,5500,NA,5400
+"C.J. Stroud","QB",2025,3,5500,NA,5300
+"Jacory Croskey-Merritt","RB",2025,3,5500,NA,5300
+"Jaylen Warren","RB",2025,3,5500,NA,5400
+"Ricky Pearsall","WR",2025,3,5500,NA,5700
+"Chris Godwin Jr.","WR",2025,3,5500,NA,6000
+"Hollywood Brown","WR",2025,3,5500,NA,5200
+"Tua Tagovailoa","QB",2025,3,5400,NA,5200
+"Daniel Jones","QB",2025,3,5400,NA,5600
+"Trevor Lawrence","QB",2025,3,5400,NA,5200
+"TreVeyon Henderson","RB",2025,3,5400,NA,5200
+"Jordan Mason","RB",2025,3,5400,NA,6400
+"DJ Moore","WR",2025,3,5400,NA,5600
+"Quentin Johnston","WR",2025,3,5400,NA,5500
+"Khalil Shakir","WR",2025,3,5400,NA,5300
+"Russell Wilson","QB",2025,3,5300,NA,5000
+"Justin Fields","QB",2025,3,5300,NA,5300
+"Drake Maye","QB",2025,3,5300,NA,5500
+"Rhamondre Stevenson","RB",2025,3,5300,NA,5100
+"Aaron Jones Sr.","RB",2025,3,5300,NA,4000
+"Rome Odunze","WR",2025,3,5300,NA,6300
+"DeVonta Smith","WR",2025,3,5300,NA,5400
+"Keon Coleman","WR",2025,3,5300,NA,5600
+"Geno Smith","QB",2025,3,5200,NA,5400
+"Aaron Rodgers","QB",2025,3,5200,NA,5300
+"Isiah Pacheco","RB",2025,3,5200,NA,5000
+"Nick Chubb","RB",2025,3,5200,NA,5100
+"Dylan Sampson","RB",2025,3,5200,NA,4200
+"Chris Olave","WR",2025,3,5200,NA,5100
+"Jerry Jeudy","WR",2025,3,5200,NA,4900
+"Sam Darnold","QB",2025,3,5100,NA,5000
+"J.J. McCarthy","QB",2025,3,5100,NA,5100
+"Najee Harris","RB",2025,3,5100,NA,4300
+"Rachaad White","RB",2025,3,5100,NA,4900
+"Tyrone Tracy Jr.","RB",2025,3,5100,NA,5000
+"Calvin Ridley","WR",2025,3,5100,NA,4900
+"Matthew Golden","WR",2025,3,5100,NA,5200
+"Mac Jones","QB",2025,3,5000,NA,5100
+"Bryce Young","QB",2025,3,5000,NA,4900
+"Braelon Allen","RB",2025,3,5000,NA,5200
+"Quinshon Judkins","RB",2025,3,5000,NA,5500
+"Cam Skattebo","RB",2025,3,5000,NA,5500
+"Jauan Jennings","WR",2025,3,5000,NA,5000
+"Cooper Kupp","WR",2025,3,5000,NA,4700
+"Travis Kelce","TE",2025,3,5000,NA,4800
+"Spencer Rattler","QB",2025,3,4900,NA,4700
+"Cam Ward","QB",2025,3,4900,NA,4800
+"Raheem Mostert","RB",2025,3,4900,NA,4000
+"Bhayshul Tuten","RB",2025,3,4900,NA,4800
+"Michael Pittman Jr.","WR",2025,3,4900,NA,5100
+"Travis Hunter","WR",2025,3,4900,NA,4600
+"Tyrod Taylor","QB",2025,3,4800,NA,4800
+"Joe Flacco","QB",2025,3,4800,NA,4700
+"Jaylen Wright","RB",2025,3,4800,NA,4000
+"Brian Robinson Jr.","RB",2025,3,4800,NA,4500
+"Zach Charbonnet","RB",2025,3,4800,NA,4800
+"Stefon Diggs","WR",2025,3,4800,NA,4500
+"Romeo Doubs","WR",2025,3,4800,NA,4500
+"Trey Lance","QB",2025,3,4700,NA,4000
+"Kenny Pickett","QB",2025,3,4700,NA,4000
+"RJ Harvey","RB",2025,3,4700,NA,4800
+"Rico Dowdle","RB",2025,3,4700,NA,4500
+"Tyler Allgeier","RB",2025,3,4700,NA,4700
+"Kareem Hunt","RB",2025,3,4700,NA,4800
+"Wan'Dale Robinson","WR",2025,3,4700,NA,5000
+"Keenan Allen","WR",2025,3,4700,NA,5300
+"Christian Kirk","WR",2025,3,4700,NA,4400
+"Tucker Kraft","TE",2025,3,4700,NA,4700
+"Teddy Bridgewater","QB",2025,3,4600,NA,4000
+"Kirk Cousins","QB",2025,3,4600,NA,4600
+"Antonio Gibson","RB",2025,3,4600,NA,4600
+"Dameon Pierce","RB",2025,3,4600,NA,4000
+"Jerome Ford","RB",2025,3,4600,NA,4600
+"Rashid Shaheed","WR",2025,3,4600,NA,4600
+"Kayshon Boutte","WR",2025,3,4600,NA,4300
+"Davis Mills","QB",2025,3,4500,NA,4000
+"Andy Dalton","QB",2025,3,4500,NA,4400
+"Trey Benson","RB",2025,3,4500,NA,5500
+"Miles Sanders","RB",2025,3,4500,NA,4400
+"Kenneth Gainwell","RB",2025,3,4500,NA,4400
+"Justice Hill","RB",2025,3,4500,NA,4700
+"Cedric Tillman","WR",2025,3,4500,NA,4200
+"Darnell Mooney","WR",2025,3,4500,NA,4700
+"Rashod Bateman","WR",2025,3,4500,NA,4800
+"Sam LaPorta","TE",2025,3,4500,NA,4400
+"Tyler Shough","QB",2025,3,4400,NA,4200
+"Anthony Richardson Sr.","QB",2025,3,4400,NA,4100
+"Jeremy McNichols","RB",2025,3,4400,NA,4900
+"Kaleb Johnson","RB",2025,3,4400,NA,4000
+"Woody Marks","RB",2025,3,4400,NA,4400
+"Josh Downs","WR",2025,3,4400,NA,4100
+"Dyami Brown","WR",2025,3,4400,NA,4100
+"Joshua Palmer","WR",2025,3,4400,NA,4300
+"Tyler Warren","TE",2025,3,4400,NA,4600
+"Jameis Winston","QB",2025,3,4300,NA,4000
+"Dillon Gabriel","QB",2025,3,4300,NA,4200
+"Shedeur Sanders","QB",2025,3,4300,NA,4200
+"Jaxson Dart","QB",2025,3,4300,NA,4500
+"Ollie Gordon II","RB",2025,3,4300,NA,4500
+"Jaydon Blue","RB",2025,3,4300,NA,4000
+"Will Shipley","RB",2025,3,4300,NA,4300
+"Tank Bigsby","RB",2025,3,4300,NA,4100
+"DeAndre Hopkins","WR",2025,3,4300,NA,4500
+"Alec Pierce","WR",2025,3,4300,NA,4400
+"Adam Thielen","WR",2025,3,4300,NA,4000
+"Mark Andrews","TE",2025,3,4300,NA,4300
+"Jimmy Garoppolo","QB",2025,3,4200,NA,4400
+"Zamir White","RB",2025,3,4200,NA,4100
+"DJ Giddens","RB",2025,3,4200,NA,4000
+"Blake Corum","RB",2025,3,4200,NA,4300
+"Luther Burden III","WR",2025,3,4200,NA,4700
+"Jayden Higgins","WR",2025,3,4200,NA,3900
+"Zach Ertz","TE",2025,3,4200,NA,4100
+"Ray Davis","RB",2025,3,4100,NA,4000
+"Kyle Monangai","RB",2025,3,4100,NA,4400
+"Chris Rodriguez Jr.","RB",2025,3,4100,NA,4200
+"Dont'e Thornton Jr.","WR",2025,3,4100,NA,3900
+"DeMario Douglas","WR",2025,3,4100,NA,3800
+"David Njoku","TE",2025,3,4100,NA,3800
+"Mitchell Trubisky","QB",2025,3,4000,NA,4000
+"Cooper Rush","QB",2025,3,4000,NA,4300
+"Tyler Huntley","QB",2025,3,4000,NA,4300
+"Kyle Allen","QB",2025,3,4000,NA,4400
+"C.J. Beathard","QB",2025,3,4000,NA,4000
+"Gardner Minshew II","QB",2025,3,4000,NA,4000
+"Chris Oladokun","QB",2025,3,4000,NA,4000
+"Adrian Martinez","QB",2025,3,4000,NA,4000
+"Kurtis Rourke","QB",2025,3,4000,NA,4000
+"Jacoby Brissett","QB",2025,3,4000,NA,4000
+"Kedon Slovis","QB",2025,3,4000,NA,4000
+"Joe Milton III","QB",2025,3,4000,NA,4000
+"Will Grier","QB",2025,3,4000,NA,4000
+"Tyson Bagent","QB",2025,3,4000,NA,4000
+"Case Keenum","QB",2025,3,4000,NA,4000
+"Drew Lock","QB",2025,3,4000,NA,4000
+"Jalen Milroe","QB",2025,3,4000,NA,4000
+"Jake Haener","QB",2025,3,4000,NA,4000
+"Hunter Dekkers","QB",2025,3,4000,NA,4000
+"DJ Uiagalelei","QB",2025,3,4000,NA,4000
+"Jarrett Stidham","QB",2025,3,4000,NA,4000
+"Sam Ehlinger","QB",2025,3,4000,NA,4000
+"Marcus Mariota","QB",2025,3,4000,NA,5000
+"Josh Johnson","QB",2025,3,4000,NA,4000
+"Sam Hartman","QB",2025,3,4000,NA,4000
+"Aidan O'Connell","QB",2025,3,4000,NA,4000
+"Cam Miller","QB",2025,3,4000,NA,4000
+"Jeff Driskel","QB",2025,3,4000,NA,4000
+"Riley Leonard","QB",2025,3,4000,NA,4000
+"Brandon Allen","QB",2025,3,4000,NA,4000
+"Will Levis","QB",2025,3,4000,NA,4000
+"Trevor Siemian","QB",2025,3,4000,NA,4000
+"Connor Bazelak","QB",2025,3,4000,NA,4000
+"Brady Cook","QB",2025,3,4000,NA,4000
+"Tanner McKee","QB",2025,3,4000,NA,4000
+"Sam Howell","QB",2025,3,4000,NA,4000
+"Kyle McCord","QB",2025,3,4000,NA,4000
+"Stetson Bennett IV","QB",2025,3,4000,NA,4000
+"Mason Rudolph","QB",2025,3,4000,NA,4000
+"Will Howard","QB",2025,3,4000,NA,4000
+"Skylar Thompson","QB",2025,3,4000,NA,4000
+"Logan Woodside","QB",2025,3,4000,NA,4000
+"Joshua Dobbs","QB",2025,3,4000,NA,4000
+"Tommy DeVito","QB",2025,3,4000,NA,4000
+"Carson Wentz","QB",2025,3,4000,NA,5100
+"Max Brosmer","QB",2025,3,4000,NA,4000
+"Brett Rypien","QB",2025,3,4000,NA,4000
+"Nick Mullens","QB",2025,3,4000,NA,4000
+"Seth Henigan","QB",2025,3,4000,NA,4000
+"Graham Mertz","QB",2025,3,4000,NA,4000
+"Malik Willis","QB",2025,3,4000,NA,4000
+"Clayton Tune","QB",2025,3,4000,NA,4000
+"Deshaun Watson","QB",2025,3,4000,NA,4000
+"Bailey Zappe","QB",2025,3,4000,NA,4000
+"Hendon Hooker","QB",2025,3,4000,NA,4000
+"Emory Jones","QB",2025,3,4000,NA,4000
+"Easton Stick","QB",2025,3,4000,NA,4000
+"Zach Wilson","QB",2025,3,4000,NA,4200
+"Quinn Ewers","QB",2025,3,4000,NA,4000
+"Shane Buechele","QB",2025,3,4000,NA,4000
+"Rasheen Ali","RB",2025,3,4000,NA,4000
+"Keaton Mitchell","RB",2025,3,4000,NA,4200
+"D'Ernest Johnson","RB",2025,3,4000,NA,4000
+"Lucas Scott","RB",2025,3,4000,NA,4000
+"Patrick Ricard","RB",2025,3,4000,NA,4000
+"Craig Reynolds","RB",2025,3,4000,NA,4000
+"Sione Vaki","RB",2025,3,4000,NA,4000
+"Jacob Saylors","RB",2025,3,4000,NA,4000
+"Kye Robichaux","RB",2025,3,4000,NA,4000
+"Eric Gray","RB",2025,3,4000,NA,4000
+"Dante Miller","RB",2025,3,4000,NA,4000
+"Brashard Smith","RB",2025,3,4000,NA,4000
+"Elijah Mitchell","RB",2025,3,4000,NA,4000
+"Keaontay Ingram","RB",2025,3,4000,NA,4000
+"Carson Steele","RB",2025,3,4000,NA,4000
+"Clyde Edwards-Helaire","RB",2025,3,4000,NA,4000
+"Isaac Guerendo","RB",2025,3,4000,NA,4000
+"Jordan James","RB",2025,3,4000,NA,4000
+"Patrick Taylor Jr.","RB",2025,3,4000,NA,4000
+"Kyle Juszczyk","RB",2025,3,4000,NA,4000
+"Sincere McCormick","RB",2025,3,4000,NA,4000
+"Emari Demercado","RB",2025,3,4000,NA,4300
+"Zonovan Knight","RB",2025,3,4000,NA,4000
+"Michael Carter","RB",2025,3,4000,NA,4000
+"Phil Mafah","RB",2025,3,4000,NA,4000
+"Hunter Luepke","RB",2025,3,4000,NA,4000
+"Malik Davis","RB",2025,3,4000,NA,4000
+"Roschon Johnson","RB",2025,3,4000,NA,4000
+"Travis Homer","RB",2025,3,4000,NA,4000
+"Deion Hankins","RB",2025,3,4000,NA,4000
+"Brittain Brown","RB",2025,3,4000,NA,4000
+"George Holani","RB",2025,3,4000,NA,4000
+"Kenny McIntosh","RB",2025,3,4000,NA,4000
 "Damien Martinez","RB",2025,3,4000,NA,NA
-"Robbie Ouzts","RB",2025,3,4000,NA,NA
-"Brady Russell","RB",2025,3,4000,NA,NA
-"Jacardia Wright","RB",2025,3,4000,NA,NA
-"Kendre Miller","RB",2025,3,4000,NA,NA
-"Devin Neal","RB",2025,3,4000,NA,NA
-"Velus Jones Jr.","RB",2025,3,4000,NA,NA
-"Hassan Haskins","RB",2025,3,4000,NA,NA
-"Scott Matlock","RB",2025,3,4000,NA,NA
-"Amar Johnson","RB",2025,3,4000,NA,NA
-"Kimani Vidal","RB",2025,3,4000,NA,NA
-"Tyler Badie","RB",2025,3,4000,NA,NA
-"Jaleel McLaughlin","RB",2025,3,4000,NA,NA
-"Michael Burton","RB",2025,3,4000,NA,NA
-"Deuce Vaughn","RB",2025,3,4000,NA,NA
-"Adam Prentice","RB",2025,3,4000,NA,NA
-"Austin Ekeler","RB",2025,3,4000,NA,NA
-"Donovan Edwards","RB",2025,3,4000,NA,NA
-"Dylan Laube","RB",2025,3,4000,NA,NA
-"Chris Collier","RB",2025,3,4000,NA,NA
-"Tyler Goodson","RB",2025,3,4000,NA,NA
-"Ulysses Bentley IV","RB",2025,3,4000,NA,NA
-"Salvon Ahmed","RB",2025,3,4000,NA,NA
-"Ameer Abdullah","RB",2025,3,4000,NA,NA
-"Julius Chestnut","RB",2025,3,4000,NA,NA
-"Kalel Mullings","RB",2025,3,4000,NA,NA
-"Jordan Mims","RB",2025,3,4000,NA,NA
-"Tyjae Spears","RB",2025,3,4000,NA,NA
-"Sean Tucker","RB",2025,3,4000,NA,NA
-"Josh Williams","RB",2025,3,4000,NA,NA
-"Isaiah Davis","RB",2025,3,4000,NA,NA
-"Kene Nwangwu","RB",2025,3,4000,NA,NA
-"Andrew Beck","RB",2025,3,4000,NA,NA
+"Robbie Ouzts","RB",2025,3,4000,NA,4000
+"Brady Russell","RB",2025,3,4000,NA,4000
+"Jacardia Wright","RB",2025,3,4000,NA,4000
+"Kendre Miller","RB",2025,3,4000,NA,4100
+"Devin Neal","RB",2025,3,4000,NA,4000
+"Velus Jones Jr.","RB",2025,3,4000,NA,4000
+"Hassan Haskins","RB",2025,3,4000,NA,4400
+"Scott Matlock","RB",2025,3,4000,NA,4000
+"Amar Johnson","RB",2025,3,4000,NA,4000
+"Kimani Vidal","RB",2025,3,4000,NA,4000
+"Tyler Badie","RB",2025,3,4000,NA,4000
+"Jaleel McLaughlin","RB",2025,3,4000,NA,4000
+"Michael Burton","RB",2025,3,4000,NA,4000
+"Deuce Vaughn","RB",2025,3,4000,NA,4000
+"Adam Prentice","RB",2025,3,4000,NA,4000
+"Austin Ekeler","RB",2025,3,4000,NA,4000
+"Donovan Edwards","RB",2025,3,4000,NA,4000
+"Dylan Laube","RB",2025,3,4000,NA,4000
+"Chris Collier","RB",2025,3,4000,NA,4000
+"Tyler Goodson","RB",2025,3,4000,NA,4000
+"Ulysses Bentley IV","RB",2025,3,4000,NA,4000
+"Salvon Ahmed","RB",2025,3,4000,NA,4000
+"Ameer Abdullah","RB",2025,3,4000,NA,4000
+"Julius Chestnut","RB",2025,3,4000,NA,4000
+"Kalel Mullings","RB",2025,3,4000,NA,4000
+"Jordan Mims","RB",2025,3,4000,NA,4000
+"Tyjae Spears","RB",2025,3,4000,NA,4000
+"Sean Tucker","RB",2025,3,4000,NA,4000
+"Josh Williams","RB",2025,3,4000,NA,4000
+"Isaiah Davis","RB",2025,3,4000,NA,4000
+"Kene Nwangwu","RB",2025,3,4000,NA,4000
+"Andrew Beck","RB",2025,3,4000,NA,4000
 "Keilan Robinson","RB",2025,3,4000,NA,NA
-"A.J. Dillon","RB",2025,3,4000,NA,NA
-"Ben VanSumeren","RB",2025,3,4000,NA,NA
-"Audric Estime","RB",2025,3,4000,NA,NA
-"Jarquez Hunter","RB",2025,3,4000,NA,NA
-"Ronnie Rivers","RB",2025,3,4000,NA,NA
-"Lew Nichols","RB",2025,3,4000,NA,NA
-"Trey Sermon","RB",2025,3,4000,NA,NA
-"Lan Larison","RB",2025,3,4000,NA,NA
-"Deneric Prince","RB",2025,3,4000,NA,NA
-"Brock Lampe","RB",2025,3,4000,NA,NA
-"Jack Westover","RB",2025,3,4000,NA,NA
-"Terrell Jennings","RB",2025,3,4000,NA,NA
-"Zavier Scott","RB",2025,3,4000,NA,NA
-"Ty Chandler","RB",2025,3,4000,NA,NA
-"Xazavian Valladay","RB",2025,3,4000,NA,NA
-"C.J. Ham","RB",2025,3,4000,NA,NA
-"Samaje Perine","RB",2025,3,4000,NA,NA
-"Tahj Brooks","RB",2025,3,4000,NA,NA
-"Gary Brightwell","RB",2025,3,4000,NA,NA
-"Kendall Milton","RB",2025,3,4000,NA,NA
-"LeQuint Allen Jr.","RB",2025,3,4000,NA,NA
-"Cody Schrader","RB",2025,3,4000,NA,NA
-"Ja'Quinden Jackson","RB",2025,3,4000,NA,NA
-"Dare Ogunbowale","RB",2025,3,4000,NA,NA
-"British Brooks","RB",2025,3,4000,NA,NA
-"Joe Mixon","RB",2025,3,4000,NA,NA
-"Jawhar Jordan","RB",2025,3,4000,NA,NA
-"Chris Brooks","RB",2025,3,4000,NA,NA
-"Emanuel Wilson","RB",2025,3,4000,NA,NA
-"MarShawn Lloyd","RB",2025,3,4000,NA,NA
-"Pierre Strong Jr.","RB",2025,3,4000,NA,NA
-"Raheim Sanders","RB",2025,3,4000,NA,NA
-"Ahmani Marshall","RB",2025,3,4000,NA,NA
-"Trevor Etienne","RB",2025,3,4000,NA,NA
-"Jonathon Brooks","RB",2025,3,4000,NA,NA
-"DeeJay Dallas","RB",2025,3,4000,NA,NA
-"Nathan Carter","RB",2025,3,4000,NA,NA
-"Carlos Washington Jr.","RB",2025,3,4000,NA,NA
-"Jeff Wilson Jr.","RB",2025,3,4000,NA,NA
-"Alexander Mattison","RB",2025,3,4000,NA,NA
-"JaMycal Hasty","RB",2025,3,4000,NA,NA
-"Alec Ingold","RB",2025,3,4000,NA,NA
-"Frank Gore Jr.","RB",2025,3,4000,NA,NA
-"Reggie Gilliam","RB",2025,3,4000,NA,NA
-"Ty Johnson","RB",2025,3,4000,NA,NA
-"Devin Singletary","RB",2025,3,4000,NA,NA
-"Troy Franklin","WR",2025,3,4000,NA,NA
-"Calvin Austin III","WR",2025,3,4000,NA,NA
-"Jake Ferguson","TE",2025,3,4000,NA,NA
-"Dalton Kincaid","TE",2025,3,4000,NA,NA
-"Tyquan Thornton","WR",2025,3,3900,NA,NA
-"KaVontae Turpin","WR",2025,3,3900,NA,NA
-"Jack Bech","WR",2025,3,3900,NA,NA
-"Ray-Ray McCloud III","WR",2025,3,3900,NA,NA
-"Juwan Johnson","TE",2025,3,3900,NA,NA
-"Kyle Pitts Sr.","TE",2025,3,3900,NA,NA
-"Brandin Cooks","WR",2025,3,3800,NA,NA
-"Marvin Mims Jr.","WR",2025,3,3800,NA,NA
-"Jalen Nailor","WR",2025,3,3800,NA,NA
-"JuJu Smith-Schuster","WR",2025,3,3800,NA,NA
-"Hunter Henry","TE",2025,3,3800,NA,NA
-"T.J. Hockenson","TE",2025,3,3800,NA,NA
-"Bills","DST",2025,3,3800,NA,NA
-"Elijah Moore","WR",2025,3,3700,NA,NA
-"Darius Slayton","WR",2025,3,3700,NA,NA
-"Elic Ayomanor","WR",2025,3,3700,NA,NA
-"Dontayvion Wicks","WR",2025,3,3700,NA,NA
-"Hunter Renfrow","WR",2025,3,3700,NA,NA
-"Evan Engram","TE",2025,3,3700,NA,NA
-"Dallas Goedert","TE",2025,3,3700,NA,NA
-"Packers","DST",2025,3,3700,NA,NA
-"Malik Washington","WR",2025,3,3600,NA,NA
-"Tyler Lockett","WR",2025,3,3600,NA,NA
-"Sterling Shepard","WR",2025,3,3600,NA,NA
-"Xavier Legette","WR",2025,3,3600,NA,NA
-"Jonnu Smith","TE",2025,3,3600,NA,NA
-"Harold Fannin Jr.","TE",2025,3,3600,NA,NA
-"Seahawks","DST",2025,3,3600,NA,NA
-"Jalen Royals","WR",2025,3,3500,NA,NA
-"Kendrick Bourne","WR",2025,3,3500,NA,NA
-"Josh Reynolds","WR",2025,3,3500,NA,NA
-"Parker Washington","WR",2025,3,3500,NA,NA
-"Xavier Hutchinson","WR",2025,3,3500,NA,NA
-"Cade Otton","TE",2025,3,3500,NA,NA
-"Brenton Strange","TE",2025,3,3500,NA,NA
-"Darren Waller","TE",2025,3,3500,NA,NA
-"Buccaneers","DST",2025,3,3500,NA,NA
-"Isaac TeSlaa","WR",2025,3,3400,NA,NA
-"Michael Wilson","WR",2025,3,3400,NA,NA
-"Olamide Zaccheaus","WR",2025,3,3400,NA,NA
-"Tory Horton","WR",2025,3,3400,NA,NA
-"Tre Tucker","WR",2025,3,3400,NA,NA
-"Tez Johnson","WR",2025,3,3400,NA,NA
-"Chig Okonkwo","TE",2025,3,3400,NA,NA
-"Dalton Schultz","TE",2025,3,3400,NA,NA
-"Vikings","DST",2025,3,3400,NA,NA
-"Marquez Valdes-Scantling","WR",2025,3,3300,NA,NA
-"Allen Lazard","WR",2025,3,3300,NA,NA
-"Jahan Dotson","WR",2025,3,3300,NA,NA
-"Kyle Williams","WR",2025,3,3300,NA,NA
-"Andrei Iosivas","WR",2025,3,3300,NA,NA
-"Savion Williams","WR",2025,3,3300,NA,NA
-"Luke Farrell","TE",2025,3,3300,NA,NA
-"Ja'Tavion Sanders","TE",2025,3,3300,NA,NA
-"Isaiah Likely","TE",2025,3,3300,NA,NA
-"Colts","DST",2025,3,3300,NA,NA
-"Chiefs","DST",2025,3,3300,NA,NA
-"Curtis Samuel","WR",2025,3,3200,NA,NA
-"Jalen Tolbert","WR",2025,3,3200,NA,NA
-"Devaughn Vele","WR",2025,3,3200,NA,NA
-"Jaylin Lane","WR",2025,3,3200,NA,NA
-"Adonai Mitchell","WR",2025,3,3200,NA,NA
-"Tutu Atwell","WR",2025,3,3200,NA,NA
-"Ben Skowronek","WR",2025,3,3200,NA,NA
-"Jaylin Noel","WR",2025,3,3200,NA,NA
-"Devontez Walker","WR",2025,3,3200,NA,NA
-"Colston Loveland","TE",2025,3,3200,NA,NA
-"Mike Gesicki","TE",2025,3,3200,NA,NA
-"Theo Johnson","TE",2025,3,3200,NA,NA
-"Falcons","DST",2025,3,3200,NA,NA
-"Ravens","DST",2025,3,3200,NA,NA
-"Nick Westbrook-Ikhine","WR",2025,3,3100,NA,NA
-"Kalif Raymond","WR",2025,3,3100,NA,NA
-"Greg Dortch","WR",2025,3,3100,NA,NA
-"Pat Bryant","WR",2025,3,3100,NA,NA
-"Luke McCaffrey","WR",2025,3,3100,NA,NA
-"Mack Hollins","WR",2025,3,3100,NA,NA
-"Mitchell Tinsley","WR",2025,3,3100,NA,NA
-"Malik Heath","WR",2025,3,3100,NA,NA
-"Isaiah Bond","WR",2025,3,3100,NA,NA
-"Casey Washington","WR",2025,3,3100,NA,NA
-"Tylan Wallace","WR",2025,3,3100,NA,NA
-"Pat Freiermuth","TE",2025,3,3100,NA,NA
-"Noah Fant","TE",2025,3,3100,NA,NA
-"49ers","DST",2025,3,3100,NA,NA
-"Eagles","DST",2025,3,3100,NA,NA
-"LaJohntay Wester","WR",2025,3,3000,NA,NA
-"Dayton Wade","WR",2025,3,3000,NA,NA
-"Cornelius Johnson","WR",2025,3,3000,NA,NA
-"Keith Kirkwood","WR",2025,3,3000,NA,NA
-"Anthony Miller","WR",2025,3,3000,NA,NA
-"Dominic Lovett","WR",2025,3,3000,NA,NA
-"Jackson Meeks","WR",2025,3,3000,NA,NA
-"Ronnie Bell","WR",2025,3,3000,NA,NA
-"Tom Kennedy","WR",2025,3,3000,NA,NA
-"Jalin Hyatt","WR",2025,3,3000,NA,NA
-"Beaux Collins","WR",2025,3,3000,NA,NA
-"Gunner Olszewski","WR",2025,3,3000,NA,NA
+"A.J. Dillon","RB",2025,3,4000,NA,4000
+"Ben VanSumeren","RB",2025,3,4000,NA,4000
+"Audric Estime","RB",2025,3,4000,NA,4000
+"Jarquez Hunter","RB",2025,3,4000,NA,4000
+"Ronnie Rivers","RB",2025,3,4000,NA,4000
+"Lew Nichols","RB",2025,3,4000,NA,4000
+"Trey Sermon","RB",2025,3,4000,NA,4000
+"Lan Larison","RB",2025,3,4000,NA,4000
+"Deneric Prince","RB",2025,3,4000,NA,4000
+"Brock Lampe","RB",2025,3,4000,NA,4000
+"Jack Westover","RB",2025,3,4000,NA,4000
+"Terrell Jennings","RB",2025,3,4000,NA,4000
+"Zavier Scott","RB",2025,3,4000,NA,4200
+"Ty Chandler","RB",2025,3,4000,NA,4000
+"Xazavian Valladay","RB",2025,3,4000,NA,4000
+"C.J. Ham","RB",2025,3,4000,NA,4000
+"Samaje Perine","RB",2025,3,4000,NA,4000
+"Tahj Brooks","RB",2025,3,4000,NA,4000
+"Gary Brightwell","RB",2025,3,4000,NA,4000
+"Kendall Milton","RB",2025,3,4000,NA,4000
+"LeQuint Allen Jr.","RB",2025,3,4000,NA,4000
+"Cody Schrader","RB",2025,3,4000,NA,4000
+"Ja'Quinden Jackson","RB",2025,3,4000,NA,4000
+"Dare Ogunbowale","RB",2025,3,4000,NA,4000
+"British Brooks","RB",2025,3,4000,NA,4000
+"Joe Mixon","RB",2025,3,4000,NA,4000
+"Jawhar Jordan","RB",2025,3,4000,NA,4000
+"Chris Brooks","RB",2025,3,4000,NA,4000
+"Emanuel Wilson","RB",2025,3,4000,NA,4000
+"MarShawn Lloyd","RB",2025,3,4000,NA,4000
+"Pierre Strong Jr.","RB",2025,3,4000,NA,4000
+"Raheim Sanders","RB",2025,3,4000,NA,4000
+"Ahmani Marshall","RB",2025,3,4000,NA,4000
+"Trevor Etienne","RB",2025,3,4000,NA,4000
+"Jonathon Brooks","RB",2025,3,4000,NA,4000
+"DeeJay Dallas","RB",2025,3,4000,NA,4000
+"Nathan Carter","RB",2025,3,4000,NA,4000
+"Carlos Washington Jr.","RB",2025,3,4000,NA,4000
+"Jeff Wilson Jr.","RB",2025,3,4000,NA,4000
+"Alexander Mattison","RB",2025,3,4000,NA,4000
+"JaMycal Hasty","RB",2025,3,4000,NA,4000
+"Alec Ingold","RB",2025,3,4000,NA,4000
+"Frank Gore Jr.","RB",2025,3,4000,NA,4000
+"Reggie Gilliam","RB",2025,3,4000,NA,4000
+"Ty Johnson","RB",2025,3,4000,NA,4000
+"Devin Singletary","RB",2025,3,4000,NA,4500
+"Troy Franklin","WR",2025,3,4000,NA,4100
+"Calvin Austin III","WR",2025,3,4000,NA,4200
+"Jake Ferguson","TE",2025,3,4000,NA,4300
+"Dalton Kincaid","TE",2025,3,4000,NA,4500
+"Tyquan Thornton","WR",2025,3,3900,NA,4000
+"KaVontae Turpin","WR",2025,3,3900,NA,3800
+"Jack Bech","WR",2025,3,3900,NA,3600
+"Ray-Ray McCloud III","WR",2025,3,3900,NA,3700
+"Juwan Johnson","TE",2025,3,3900,NA,4200
+"Kyle Pitts Sr.","TE",2025,3,3900,NA,3600
+"Brandin Cooks","WR",2025,3,3800,NA,3600
+"Marvin Mims Jr.","WR",2025,3,3800,NA,3700
+"Jalen Nailor","WR",2025,3,3800,NA,3500
+"JuJu Smith-Schuster","WR",2025,3,3800,NA,3800
+"Hunter Henry","TE",2025,3,3800,NA,4000
+"T.J. Hockenson","TE",2025,3,3800,NA,3900
+"Bills","DST",2025,3,3800,NA,3700
+"Elijah Moore","WR",2025,3,3700,NA,3600
+"Darius Slayton","WR",2025,3,3700,NA,3700
+"Elic Ayomanor","WR",2025,3,3700,NA,3900
+"Dontayvion Wicks","WR",2025,3,3700,NA,4000
+"Hunter Renfrow","WR",2025,3,3700,NA,3800
+"Evan Engram","TE",2025,3,3700,NA,3700
+"Dallas Goedert","TE",2025,3,3700,NA,3900
+"Packers","DST",2025,3,3700,NA,3400
+"Malik Washington","WR",2025,3,3600,NA,3500
+"Tyler Lockett","WR",2025,3,3600,NA,3500
+"Sterling Shepard","WR",2025,3,3600,NA,4000
+"Xavier Legette","WR",2025,3,3600,NA,3500
+"Jonnu Smith","TE",2025,3,3600,NA,3300
+"Harold Fannin Jr.","TE",2025,3,3600,NA,3700
+"Seahawks","DST",2025,3,3600,NA,2800
+"Jalen Royals","WR",2025,3,3500,NA,3300
+"Kendrick Bourne","WR",2025,3,3500,NA,3700
+"Josh Reynolds","WR",2025,3,3500,NA,3500
+"Parker Washington","WR",2025,3,3500,NA,3700
+"Xavier Hutchinson","WR",2025,3,3500,NA,3400
+"Cade Otton","TE",2025,3,3500,NA,3400
+"Brenton Strange","TE",2025,3,3500,NA,3200
+"Darren Waller","TE",2025,3,3500,NA,3500
+"Buccaneers","DST",2025,3,3500,NA,2800
+"Isaac TeSlaa","WR",2025,3,3400,NA,3500
+"Michael Wilson","WR",2025,3,3400,NA,3300
+"Olamide Zaccheaus","WR",2025,3,3400,NA,3600
+"Tory Horton","WR",2025,3,3400,NA,3700
+"Tre Tucker","WR",2025,3,3400,NA,4200
+"Tez Johnson","WR",2025,3,3400,NA,3200
+"Chig Okonkwo","TE",2025,3,3400,NA,3500
+"Dalton Schultz","TE",2025,3,3400,NA,3300
+"Vikings","DST",2025,3,3400,NA,3300
+"Marquez Valdes-Scantling","WR",2025,3,3300,NA,3300
+"Allen Lazard","WR",2025,3,3300,NA,3200
+"Jahan Dotson","WR",2025,3,3300,NA,3400
+"Kyle Williams","WR",2025,3,3300,NA,3000
+"Andrei Iosivas","WR",2025,3,3300,NA,3100
+"Savion Williams","WR",2025,3,3300,NA,3000
+"Luke Farrell","TE",2025,3,3300,NA,3000
+"Ja'Tavion Sanders","TE",2025,3,3300,NA,3200
+"Isaiah Likely","TE",2025,3,3300,NA,3300
+"Colts","DST",2025,3,3300,NA,2600
+"Chiefs","DST",2025,3,3300,NA,2800
+"Curtis Samuel","WR",2025,3,3200,NA,3200
+"Jalen Tolbert","WR",2025,3,3200,NA,3300
+"Devaughn Vele","WR",2025,3,3200,NA,3100
+"Jaylin Lane","WR",2025,3,3200,NA,3300
+"Adonai Mitchell","WR",2025,3,3200,NA,3100
+"Tutu Atwell","WR",2025,3,3200,NA,3000
+"Ben Skowronek","WR",2025,3,3200,NA,3000
+"Jaylin Noel","WR",2025,3,3200,NA,3000
+"Devontez Walker","WR",2025,3,3200,NA,3400
+"Colston Loveland","TE",2025,3,3200,NA,3100
+"Mike Gesicki","TE",2025,3,3200,NA,2900
+"Theo Johnson","TE",2025,3,3200,NA,2900
+"Falcons","DST",2025,3,3200,NA,2700
+"Ravens","DST",2025,3,3200,NA,2700
+"Nick Westbrook-Ikhine","WR",2025,3,3100,NA,3000
+"Kalif Raymond","WR",2025,3,3100,NA,3200
+"Greg Dortch","WR",2025,3,3100,NA,3200
+"Pat Bryant","WR",2025,3,3100,NA,3000
+"Luke McCaffrey","WR",2025,3,3100,NA,3400
+"Mack Hollins","WR",2025,3,3100,NA,3300
+"Mitchell Tinsley","WR",2025,3,3100,NA,3000
+"Malik Heath","WR",2025,3,3100,NA,3000
+"Isaiah Bond","WR",2025,3,3100,NA,3100
+"Casey Washington","WR",2025,3,3100,NA,3000
+"Tylan Wallace","WR",2025,3,3100,NA,3200
+"Pat Freiermuth","TE",2025,3,3100,NA,2800
+"Noah Fant","TE",2025,3,3100,NA,3100
+"49ers","DST",2025,3,3100,NA,3200
+"Eagles","DST",2025,3,3100,NA,3000
+"LaJohntay Wester","WR",2025,3,3000,NA,3000
+"Dayton Wade","WR",2025,3,3000,NA,3000
+"Cornelius Johnson","WR",2025,3,3000,NA,3000
+"Keith Kirkwood","WR",2025,3,3000,NA,3000
+"Anthony Miller","WR",2025,3,3000,NA,3000
+"Dominic Lovett","WR",2025,3,3000,NA,3000
+"Jackson Meeks","WR",2025,3,3000,NA,3000
+"Ronnie Bell","WR",2025,3,3000,NA,3000
+"Tom Kennedy","WR",2025,3,3000,NA,3000
+"Jalin Hyatt","WR",2025,3,3000,NA,3000
+"Beaux Collins","WR",2025,3,3000,NA,3000
+"Gunner Olszewski","WR",2025,3,3000,NA,3000
 "Xavier Gipson","WR",2025,3,3000,NA,NA
-"Bryce Ford-Wheaton","WR",2025,3,3000,NA,NA
-"Da'Quan Felton","WR",2025,3,3000,NA,NA
-"Ihmir Smith-Marsette","WR",2025,3,3000,NA,NA
-"Lil'Jordan Humphrey","WR",2025,3,3000,NA,NA
-"Jason Brownlee","WR",2025,3,3000,NA,NA
-"Nikko Remigio","WR",2025,3,3000,NA,NA
-"Rashee Rice","WR",2025,3,3000,NA,NA
-"Jimmy Holiday","WR",2025,3,3000,NA,NA
+"Bryce Ford-Wheaton","WR",2025,3,3000,NA,3000
+"Da'Quan Felton","WR",2025,3,3000,NA,3000
+"Ihmir Smith-Marsette","WR",2025,3,3000,NA,3000
+"Lil'Jordan Humphrey","WR",2025,3,3000,NA,3000
+"Jason Brownlee","WR",2025,3,3000,NA,3000
+"Nikko Remigio","WR",2025,3,3000,NA,3000
+"Rashee Rice","WR",2025,3,3000,NA,3000
+"Jimmy Holiday","WR",2025,3,3000,NA,3000
 "Hal Presley III","WR",2025,3,3000,NA,NA
-"Jordan Watkins","WR",2025,3,3000,NA,NA
-"Skyy Moore","WR",2025,3,3000,NA,NA
-"Demarcus Robinson","WR",2025,3,3000,NA,NA
-"Brandon Aiyuk","WR",2025,3,3000,NA,NA
-"Jacob Cowing","WR",2025,3,3000,NA,NA
-"Russell Gage Jr.","WR",2025,3,3000,NA,NA
-"Trent Taylor","WR",2025,3,3000,NA,NA
-"Malik Turner","WR",2025,3,3000,NA,NA
-"Junior Bergen","WR",2025,3,3000,NA,NA
-"Zay Jones","WR",2025,3,3000,NA,NA
-"Xavier Weaver","WR",2025,3,3000,NA,NA
-"Simi Fehoko","WR",2025,3,3000,NA,NA
-"Trishton Jackson","WR",2025,3,3000,NA,NA
-"Andre Baccellia","WR",2025,3,3000,NA,NA
-"Tejhaun Palmer","WR",2025,3,3000,NA,NA
-"Ryan Flournoy","WR",2025,3,3000,NA,NA
-"Jonathan Mingo","WR",2025,3,3000,NA,NA
-"Jalen Brooks","WR",2025,3,3000,NA,NA
-"Jalen Cropper","WR",2025,3,3000,NA,NA
-"Traeshon Holden","WR",2025,3,3000,NA,NA
-"Devin Duvernay","WR",2025,3,3000,NA,NA
-"Jahdae Walker","WR",2025,3,3000,NA,NA
-"Miles Boykin","WR",2025,3,3000,NA,NA
-"Maurice Alexander","WR",2025,3,3000,NA,NA
-"JP Richardson","WR",2025,3,3000,NA,NA
-"Jake Bobo","WR",2025,3,3000,NA,NA
-"Dareke Young","WR",2025,3,3000,NA,NA
-"Ricky White III","WR",2025,3,3000,NA,NA
-"Tyrone Broden","WR",2025,3,3000,NA,NA
-"Cody White","WR",2025,3,3000,NA,NA
-"Courtney Jackson","WR",2025,3,3000,NA,NA
-"Mason Tipton","WR",2025,3,3000,NA,NA
-"Trey Palmer","WR",2025,3,3000,NA,NA
-"Ja'Lynn Polk","WR",2025,3,3000,NA,NA
-"Bub Means","WR",2025,3,3000,NA,NA
-"Kevin Austin Jr.","WR",2025,3,3000,NA,NA
+"Jordan Watkins","WR",2025,3,3000,NA,3000
+"Skyy Moore","WR",2025,3,3000,NA,3000
+"Demarcus Robinson","WR",2025,3,3000,NA,3500
+"Brandon Aiyuk","WR",2025,3,3000,NA,3000
+"Jacob Cowing","WR",2025,3,3000,NA,3000
+"Russell Gage Jr.","WR",2025,3,3000,NA,3000
+"Trent Taylor","WR",2025,3,3000,NA,3000
+"Malik Turner","WR",2025,3,3000,NA,3000
+"Junior Bergen","WR",2025,3,3000,NA,3000
+"Zay Jones","WR",2025,3,3000,NA,3000
+"Xavier Weaver","WR",2025,3,3000,NA,3000
+"Simi Fehoko","WR",2025,3,3000,NA,3000
+"Trishton Jackson","WR",2025,3,3000,NA,3000
+"Andre Baccellia","WR",2025,3,3000,NA,3000
+"Tejhaun Palmer","WR",2025,3,3000,NA,3000
+"Ryan Flournoy","WR",2025,3,3000,NA,3000
+"Jonathan Mingo","WR",2025,3,3000,NA,3000
+"Jalen Brooks","WR",2025,3,3000,NA,3000
+"Jalen Cropper","WR",2025,3,3000,NA,3000
+"Traeshon Holden","WR",2025,3,3000,NA,3000
+"Devin Duvernay","WR",2025,3,3000,NA,3000
+"Jahdae Walker","WR",2025,3,3000,NA,3000
+"Miles Boykin","WR",2025,3,3000,NA,3000
+"Maurice Alexander","WR",2025,3,3000,NA,3000
+"JP Richardson","WR",2025,3,3000,NA,3000
+"Jake Bobo","WR",2025,3,3000,NA,3000
+"Dareke Young","WR",2025,3,3000,NA,3000
+"Ricky White III","WR",2025,3,3000,NA,3000
+"Tyrone Broden","WR",2025,3,3000,NA,3000
+"Cody White","WR",2025,3,3000,NA,3000
+"Courtney Jackson","WR",2025,3,3000,NA,3000
+"Mason Tipton","WR",2025,3,3000,NA,3000
+"Trey Palmer","WR",2025,3,3000,NA,3000
+"Ja'Lynn Polk","WR",2025,3,3000,NA,3000
+"Bub Means","WR",2025,3,3000,NA,3000
+"Kevin Austin Jr.","WR",2025,3,3000,NA,3000
 "Cedrick Wilson Jr.","WR",2025,3,3000,NA,NA
-"Tommy Mellott","WR",2025,3,3000,NA,NA
-"Tre' Harris","WR",2025,3,3000,NA,NA
-"KeAndre Lambert-Smith","WR",2025,3,3000,NA,NA
-"Derius Davis","WR",2025,3,3000,NA,NA
-"JaQuae Jackson","WR",2025,3,3000,NA,NA
-"Luke Grimm","WR",2025,3,3000,NA,NA
-"Trent Sherfield Sr.","WR",2025,3,3000,NA,NA
-"Thayer Thomas","WR",2025,3,3000,NA,NA
-"Michael Bandy","WR",2025,3,3000,NA,NA
-"A.T. Perry","WR",2025,3,3000,NA,NA
-"Noah Brown","WR",2025,3,3000,NA,NA
-"Chris Moore","WR",2025,3,3000,NA,NA
-"Jacoby Jones","WR",2025,3,3000,NA,NA
-"Ja'Corey Brooks","WR",2025,3,3000,NA,NA
-"Justin Shorter","WR",2025,3,3000,NA,NA
-"Alex Bachman","WR",2025,3,3000,NA,NA
-"Phillip Dorsett II","WR",2025,3,3000,NA,NA
-"Shedrick Jackson","WR",2025,3,3000,NA,NA
-"Ashton Dulin","WR",2025,3,3000,NA,NA
-"Anthony Gould","WR",2025,3,3000,NA,NA
-"D.J. Montgomery","WR",2025,3,3000,NA,NA
-"Laquon Treadwell","WR",2025,3,3000,NA,NA
-"Coleman Owen","WR",2025,3,3000,NA,NA
-"Tyler Scott","WR",2025,3,3000,NA,NA
-"Chimere Dike","WR",2025,3,3000,NA,NA
-"Van Jefferson","WR",2025,3,3000,NA,NA
-"Bryce Oliver","WR",2025,3,3000,NA,NA
-"Treylon Burks","WR",2025,3,3000,NA,NA
-"Mason Kinsey","WR",2025,3,3000,NA,NA
-"Xavier Restrepo","WR",2025,3,3000,NA,NA
-"James Proche II","WR",2025,3,3000,NA,NA
-"Ryan Miller","WR",2025,3,3000,NA,NA
-"Kameron Johnson","WR",2025,3,3000,NA,NA
-"Jalen McMillan","WR",2025,3,3000,NA,NA
-"Jaden Smith","WR",2025,3,3000,NA,NA
-"Garrett Greene","WR",2025,3,3000,NA,NA
-"Dennis Houston","WR",2025,3,3000,NA,NA
-"Tyler Johnson","WR",2025,3,3000,NA,NA
-"Arian Smith","WR",2025,3,3000,NA,NA
-"Isaiah Williams","WR",2025,3,3000,NA,NA
-"Irvin Charles","WR",2025,3,3000,NA,NA
-"Quentin Skinner","WR",2025,3,3000,NA,NA
-"Brandon Smith","WR",2025,3,3000,NA,NA
-"Jamaal Pritchett","WR",2025,3,3000,NA,NA
-"Darius Cooper","WR",2025,3,3000,NA,NA
-"John Metchie III","WR",2025,3,3000,NA,NA
-"Johnny Wilson","WR",2025,3,3000,NA,NA
-"Terrace Marshall","WR",2025,3,3000,NA,NA
-"Britain Covey","WR",2025,3,3000,NA,NA
-"Javon Baker","WR",2025,3,3000,NA,NA
-"Jordan Whittington","WR",2025,3,3000,NA,NA
-"Konata Mumpfield","WR",2025,3,3000,NA,NA
-"Xavier Smith","WR",2025,3,3000,NA,NA
-"Tru Edwards","WR",2025,3,3000,NA,NA
-"Brennan Presley","WR",2025,3,3000,NA,NA
-"Roman Wilson","WR",2025,3,3000,NA,NA
-"Scotty Miller","WR",2025,3,3000,NA,NA
+"Tommy Mellott","WR",2025,3,3000,NA,3000
+"Tre' Harris","WR",2025,3,3000,NA,3000
+"KeAndre Lambert-Smith","WR",2025,3,3000,NA,3000
+"Derius Davis","WR",2025,3,3000,NA,3000
+"JaQuae Jackson","WR",2025,3,3000,NA,3000
+"Luke Grimm","WR",2025,3,3000,NA,3000
+"Trent Sherfield Sr.","WR",2025,3,3000,NA,3000
+"Thayer Thomas","WR",2025,3,3000,NA,3000
+"Michael Bandy","WR",2025,3,3000,NA,3000
+"A.T. Perry","WR",2025,3,3000,NA,3000
+"Noah Brown","WR",2025,3,3000,NA,3000
+"Chris Moore","WR",2025,3,3000,NA,3000
+"Jacoby Jones","WR",2025,3,3000,NA,3000
+"Ja'Corey Brooks","WR",2025,3,3000,NA,3000
+"Justin Shorter","WR",2025,3,3000,NA,3000
+"Alex Bachman","WR",2025,3,3000,NA,3000
+"Phillip Dorsett II","WR",2025,3,3000,NA,3000
+"Shedrick Jackson","WR",2025,3,3000,NA,3000
+"Ashton Dulin","WR",2025,3,3000,NA,3000
+"Anthony Gould","WR",2025,3,3000,NA,3000
+"D.J. Montgomery","WR",2025,3,3000,NA,3000
+"Laquon Treadwell","WR",2025,3,3000,NA,3000
+"Coleman Owen","WR",2025,3,3000,NA,3000
+"Tyler Scott","WR",2025,3,3000,NA,3000
+"Chimere Dike","WR",2025,3,3000,NA,3000
+"Van Jefferson","WR",2025,3,3000,NA,3000
+"Bryce Oliver","WR",2025,3,3000,NA,3000
+"Treylon Burks","WR",2025,3,3000,NA,3000
+"Mason Kinsey","WR",2025,3,3000,NA,3000
+"Xavier Restrepo","WR",2025,3,3000,NA,3000
+"James Proche II","WR",2025,3,3000,NA,3000
+"Ryan Miller","WR",2025,3,3000,NA,3100
+"Kameron Johnson","WR",2025,3,3000,NA,3000
+"Jalen McMillan","WR",2025,3,3000,NA,3000
+"Jaden Smith","WR",2025,3,3000,NA,3000
+"Garrett Greene","WR",2025,3,3000,NA,3000
+"Dennis Houston","WR",2025,3,3000,NA,3000
+"Tyler Johnson","WR",2025,3,3000,NA,3000
+"Arian Smith","WR",2025,3,3000,NA,3000
+"Isaiah Williams","WR",2025,3,3000,NA,3000
+"Irvin Charles","WR",2025,3,3000,NA,3000
+"Quentin Skinner","WR",2025,3,3000,NA,3000
+"Brandon Smith","WR",2025,3,3000,NA,3000
+"Jamaal Pritchett","WR",2025,3,3000,NA,3000
+"Darius Cooper","WR",2025,3,3000,NA,3000
+"John Metchie III","WR",2025,3,3000,NA,3000
+"Johnny Wilson","WR",2025,3,3000,NA,3000
+"Terrace Marshall","WR",2025,3,3000,NA,3000
+"Britain Covey","WR",2025,3,3000,NA,3000
+"Javon Baker","WR",2025,3,3000,NA,3000
+"Jordan Whittington","WR",2025,3,3000,NA,3000
+"Konata Mumpfield","WR",2025,3,3000,NA,3000
+"Xavier Smith","WR",2025,3,3000,NA,3000
+"Tru Edwards","WR",2025,3,3000,NA,3000
+"Brennan Presley","WR",2025,3,3000,NA,3000
+"Roman Wilson","WR",2025,3,3000,NA,3000
+"Scotty Miller","WR",2025,3,3000,NA,3000
 "Rakim Jarrett","WR",2025,3,3000,NA,NA
-"Max Hurleman","WR",2025,3,3000,NA,NA
-"Ke'Shawn Williams","WR",2025,3,3000,NA,NA
-"Efton Chism III","WR",2025,3,3000,NA,NA
-"John Jiles","WR",2025,3,3000,NA,NA
-"Jeremiah Webb","WR",2025,3,3000,NA,NA
-"Tai Felton","WR",2025,3,3000,NA,NA
-"Myles Price","WR",2025,3,3000,NA,NA
-"Tim Jones","WR",2025,3,3000,NA,NA
-"Jordan Addison","WR",2025,3,3000,NA,NA
-"Rondale Moore","WR",2025,3,3000,NA,NA
-"Lucky Jackson","WR",2025,3,3000,NA,NA
-"Jeshaun Jones","WR",2025,3,3000,NA,NA
-"Dontae Fleming","WR",2025,3,3000,NA,NA
-"Charlie Jones","WR",2025,3,3000,NA,NA
-"Jermaine Burton","WR",2025,3,3000,NA,NA
-"Jordan Moore","WR",2025,3,3000,NA,NA
-"Tim Patrick","WR",2025,3,3000,NA,NA
-"Joshua Cephus","WR",2025,3,3000,NA,NA
-"Erik Ezukanma","WR",2025,3,3000,NA,NA
-"Chandler Brayboy","WR",2025,3,3000,NA,NA
-"Austin Trammell","WR",2025,3,3000,NA,NA
-"Justin Watson","WR",2025,3,3000,NA,NA
-"Braxton Berrios","WR",2025,3,3000,NA,NA
-"Tank Dell","WR",2025,3,3000,NA,NA
+"Max Hurleman","WR",2025,3,3000,NA,3000
+"Ke'Shawn Williams","WR",2025,3,3000,NA,3000
+"Efton Chism III","WR",2025,3,3000,NA,3000
+"John Jiles","WR",2025,3,3000,NA,3000
+"Jeremiah Webb","WR",2025,3,3000,NA,3000
+"Tai Felton","WR",2025,3,3000,NA,3000
+"Myles Price","WR",2025,3,3000,NA,3000
+"Tim Jones","WR",2025,3,3000,NA,3000
+"Jordan Addison","WR",2025,3,3000,NA,5000
+"Rondale Moore","WR",2025,3,3000,NA,3000
+"Lucky Jackson","WR",2025,3,3000,NA,3000
+"Jeshaun Jones","WR",2025,3,3000,NA,3000
+"Dontae Fleming","WR",2025,3,3000,NA,3000
+"Charlie Jones","WR",2025,3,3000,NA,3000
+"Jermaine Burton","WR",2025,3,3000,NA,3000
+"Jordan Moore","WR",2025,3,3000,NA,3000
+"Tim Patrick","WR",2025,3,3000,NA,3000
+"Joshua Cephus","WR",2025,3,3000,NA,3000
+"Erik Ezukanma","WR",2025,3,3000,NA,3000
+"Chandler Brayboy","WR",2025,3,3000,NA,3000
+"Austin Trammell","WR",2025,3,3000,NA,3000
+"Justin Watson","WR",2025,3,3000,NA,3000
+"Braxton Berrios","WR",2025,3,3000,NA,3000
+"Tank Dell","WR",2025,3,3000,NA,3000
 "Silas Bolden","WR",2025,3,3000,NA,NA
-"Josh Kelly","WR",2025,3,3000,NA,NA
-"Jared Wayne","WR",2025,3,3000,NA,NA
-"Christian Watson","WR",2025,3,3000,NA,NA
-"Jayden Reed","WR",2025,3,3000,NA,NA
-"Will Sheppard","WR",2025,3,3000,NA,NA
-"Isaiah Neyor","WR",2025,3,3000,NA,NA
-"Mecole Hardman","WR",2025,3,3000,NA,NA
-"Jamari Thrash","WR",2025,3,3000,NA,NA
-"DeAndre Carter","WR",2025,3,3000,NA,NA
-"David Bell","WR",2025,3,3000,NA,NA
-"Cade McDonald","WR",2025,3,3000,NA,NA
-"Malachi Corley","WR",2025,3,3000,NA,NA
-"Kaden Davis","WR",2025,3,3000,NA,NA
-"Brycen Tremayne","WR",2025,3,3000,NA,NA
-"David Moore","WR",2025,3,3000,NA,NA
-"Jimmy Horn Jr.","WR",2025,3,3000,NA,NA
-"Dalevon Campbell","WR",2025,3,3000,NA,NA
-"Jalen Coker","WR",2025,3,3000,NA,NA
-"Ja'seem Reed","WR",2025,3,3000,NA,NA
-"Ainias Smith","WR",2025,3,3000,NA,NA
-"KhaDarel Hodge","WR",2025,3,3000,NA,NA
-"Jamal Agnew","WR",2025,3,3000,NA,NA
-"David Sills V","WR",2025,3,3000,NA,NA
-"Chris Blair","WR",2025,3,3000,NA,NA
-"Dylan Drummond","WR",2025,3,3000,NA,NA
-"Nick Nash","WR",2025,3,3000,NA,NA
-"Dee Eskridge","WR",2025,3,3000,NA,NA
-"Tahj Washington","WR",2025,3,3000,NA,NA
-"A.J. Henning","WR",2025,3,3000,NA,NA
-"Theo Wease Jr.","WR",2025,3,3000,NA,NA
-"Tyrell Shavers","WR",2025,3,3000,NA,NA
-"Stephen Gosnell","WR",2025,3,3000,NA,NA
-"Kristian Wilkerson","WR",2025,3,3000,NA,NA
-"Cole Kmet","TE",2025,3,3000,NA,NA
-"AJ Barner","TE",2025,3,3000,NA,NA
-"Michael Mayer","TE",2025,3,3000,NA,NA
-"Broncos","DST",2025,3,3000,NA,NA
-"Commanders","DST",2025,3,3000,NA,NA
-"Jake Tonges","TE",2025,3,2900,NA,NA
-"Will Dissly","TE",2025,3,2900,NA,NA
-"Tyler Higbee","TE",2025,3,2900,NA,NA
-"Cardinals","DST",2025,3,2900,NA,NA
-"Chargers","DST",2025,3,2900,NA,NA
-"Noah Gray","TE",2025,3,2800,NA,NA
-"Tyler Conklin","TE",2025,3,2800,NA,NA
-"Payne Durham","TE",2025,3,2800,NA,NA
-"Austin Hooper","TE",2025,3,2800,NA,NA
-"Steelers","DST",2025,3,2800,NA,NA
-"Jaguars","DST",2025,3,2800,NA,NA
-"Adam Trautman","TE",2025,3,2700,NA,NA
-"Grant Calcaterra","TE",2025,3,2700,NA,NA
-"Luke Musgrave","TE",2025,3,2700,NA,NA
-"Brock Wright","TE",2025,3,2700,NA,NA
-"Cowboys","DST",2025,3,2700,NA,NA
-"Texans","DST",2025,3,2700,NA,NA
-"Gunnar Helm","TE",2025,3,2600,NA,NA
-"Mason Taylor","TE",2025,3,2600,NA,NA
-"Davis Allen","TE",2025,3,2600,NA,NA
-"Dawson Knox","TE",2025,3,2600,NA,NA
-"Bears","DST",2025,3,2600,NA,NA
-"Patriots","DST",2025,3,2600,NA,NA
-"Charlie Kolar","TE",2025,3,2500,NA,NA
-"Zaire Mitchell-Paden","TE",2025,3,2500,NA,NA
-"Shane Zylstra","TE",2025,3,2500,NA,NA
-"Kenny Yeboah","TE",2025,3,2500,NA,NA
-"Zach Horton","TE",2025,3,2500,NA,NA
-"Daniel Bellinger","TE",2025,3,2500,NA,NA
-"Chris Manhertz","TE",2025,3,2500,NA,NA
-"Thomas Fidone II","TE",2025,3,2500,NA,NA
+"Josh Kelly","WR",2025,3,3000,NA,3000
+"Jared Wayne","WR",2025,3,3000,NA,3000
+"Christian Watson","WR",2025,3,3000,NA,3000
+"Jayden Reed","WR",2025,3,3000,NA,3000
+"Will Sheppard","WR",2025,3,3000,NA,3000
+"Isaiah Neyor","WR",2025,3,3000,NA,3000
+"Mecole Hardman","WR",2025,3,3000,NA,3000
+"Jamari Thrash","WR",2025,3,3000,NA,3000
+"DeAndre Carter","WR",2025,3,3000,NA,3000
+"David Bell","WR",2025,3,3000,NA,3000
+"Cade McDonald","WR",2025,3,3000,NA,3000
+"Malachi Corley","WR",2025,3,3000,NA,3000
+"Kaden Davis","WR",2025,3,3000,NA,3000
+"Brycen Tremayne","WR",2025,3,3000,NA,3000
+"David Moore","WR",2025,3,3000,NA,3000
+"Jimmy Horn Jr.","WR",2025,3,3000,NA,3000
+"Dalevon Campbell","WR",2025,3,3000,NA,3000
+"Jalen Coker","WR",2025,3,3000,NA,3000
+"Ja'seem Reed","WR",2025,3,3000,NA,3000
+"Ainias Smith","WR",2025,3,3000,NA,3000
+"KhaDarel Hodge","WR",2025,3,3000,NA,3000
+"Jamal Agnew","WR",2025,3,3000,NA,3000
+"David Sills V","WR",2025,3,3000,NA,3000
+"Chris Blair","WR",2025,3,3000,NA,3000
+"Dylan Drummond","WR",2025,3,3000,NA,3000
+"Nick Nash","WR",2025,3,3000,NA,3000
+"Dee Eskridge","WR",2025,3,3000,NA,3000
+"Tahj Washington","WR",2025,3,3000,NA,3000
+"A.J. Henning","WR",2025,3,3000,NA,3000
+"Theo Wease Jr.","WR",2025,3,3000,NA,3000
+"Tyrell Shavers","WR",2025,3,3000,NA,3000
+"Stephen Gosnell","WR",2025,3,3000,NA,3000
+"Kristian Wilkerson","WR",2025,3,3000,NA,3000
+"Cole Kmet","TE",2025,3,3000,NA,3000
+"AJ Barner","TE",2025,3,3000,NA,2800
+"Michael Mayer","TE",2025,3,3000,NA,2800
+"Broncos","DST",2025,3,3000,NA,3200
+"Commanders","DST",2025,3,3000,NA,3000
+"Jake Tonges","TE",2025,3,2900,NA,3100
+"Will Dissly","TE",2025,3,2900,NA,2900
+"Tyler Higbee","TE",2025,3,2900,NA,2800
+"Cardinals","DST",2025,3,2900,NA,2900
+"Chargers","DST",2025,3,2900,NA,3300
+"Noah Gray","TE",2025,3,2800,NA,2700
+"Tyler Conklin","TE",2025,3,2800,NA,2700
+"Payne Durham","TE",2025,3,2800,NA,2500
+"Austin Hooper","TE",2025,3,2800,NA,3000
+"Steelers","DST",2025,3,2800,NA,3100
+"Jaguars","DST",2025,3,2800,NA,2500
+"Adam Trautman","TE",2025,3,2700,NA,2600
+"Grant Calcaterra","TE",2025,3,2700,NA,2500
+"Luke Musgrave","TE",2025,3,2700,NA,2500
+"Brock Wright","TE",2025,3,2700,NA,2900
+"Cowboys","DST",2025,3,2700,NA,2400
+"Texans","DST",2025,3,2700,NA,3400
+"Gunnar Helm","TE",2025,3,2600,NA,2600
+"Mason Taylor","TE",2025,3,2600,NA,2700
+"Davis Allen","TE",2025,3,2600,NA,2500
+"Dawson Knox","TE",2025,3,2600,NA,2500
+"Bears","DST",2025,3,2600,NA,2900
+"Patriots","DST",2025,3,2600,NA,3100
+"Charlie Kolar","TE",2025,3,2500,NA,2800
+"Zaire Mitchell-Paden","TE",2025,3,2500,NA,2500
+"Shane Zylstra","TE",2025,3,2500,NA,2500
+"Kenny Yeboah","TE",2025,3,2500,NA,2500
+"Zach Horton","TE",2025,3,2500,NA,2500
+"Daniel Bellinger","TE",2025,3,2500,NA,2500
+"Chris Manhertz","TE",2025,3,2500,NA,2500
+"Thomas Fidone II","TE",2025,3,2500,NA,2500
 "Qadir Ismail","TE",2025,3,2500,NA,NA
-"Robert Tonyan","TE",2025,3,2500,NA,NA
-"Jared Wiley","TE",2025,3,2500,NA,NA
-"Jake Briningstool","TE",2025,3,2500,NA,NA
-"Tre Watson","TE",2025,3,2500,NA,NA
-"James Winchester","TE",2025,3,2500,NA,NA
-"Brayden Willis","TE",2025,3,2500,NA,NA
-"George Kittle","TE",2025,3,2500,NA,NA
-"Messiah Swinson","TE",2025,3,2500,NA,NA
-"Tip Reiman","TE",2025,3,2500,NA,NA
-"Elijah Higgins","TE",2025,3,2500,NA,NA
-"Travis Vokolek","TE",2025,3,2500,NA,NA
-"Josiah Deguara","TE",2025,3,2500,NA,NA
-"Luke Schoonmaker","TE",2025,3,2500,NA,NA
-"Brevyn Spann-Ford","TE",2025,3,2500,NA,NA
-"John Stephens Jr.","TE",2025,3,2500,NA,NA
-"Princeton Fant","TE",2025,3,2500,NA,NA
-"Rivaldo Fairweather","TE",2025,3,2500,NA,NA
-"Durham Smythe","TE",2025,3,2500,NA,NA
-"Stephen Carlson","TE",2025,3,2500,NA,NA
-"Nikola Kalinic","TE",2025,3,2500,NA,NA
-"Elijah Arroyo","TE",2025,3,2500,NA,NA
-"Eric Saubert","TE",2025,3,2500,NA,NA
-"Nick Kallerup","TE",2025,3,2500,NA,NA
-"Jack Stoll","TE",2025,3,2500,NA,NA
+"Robert Tonyan","TE",2025,3,2500,NA,2500
+"Jared Wiley","TE",2025,3,2500,NA,2500
+"Jake Briningstool","TE",2025,3,2500,NA,2500
+"Tre Watson","TE",2025,3,2500,NA,2500
+"James Winchester","TE",2025,3,2500,NA,2500
+"Brayden Willis","TE",2025,3,2500,NA,2500
+"George Kittle","TE",2025,3,2500,NA,2500
+"Messiah Swinson","TE",2025,3,2500,NA,2500
+"Tip Reiman","TE",2025,3,2500,NA,2500
+"Elijah Higgins","TE",2025,3,2500,NA,2500
+"Travis Vokolek","TE",2025,3,2500,NA,2500
+"Josiah Deguara","TE",2025,3,2500,NA,2500
+"Luke Schoonmaker","TE",2025,3,2500,NA,2500
+"Brevyn Spann-Ford","TE",2025,3,2500,NA,2500
+"John Stephens Jr.","TE",2025,3,2500,NA,2500
+"Princeton Fant","TE",2025,3,2500,NA,2500
+"Rivaldo Fairweather","TE",2025,3,2500,NA,2500
+"Durham Smythe","TE",2025,3,2500,NA,2500
+"Stephen Carlson","TE",2025,3,2500,NA,2500
+"Nikola Kalinic","TE",2025,3,2500,NA,2500
+"Elijah Arroyo","TE",2025,3,2500,NA,2500
+"Eric Saubert","TE",2025,3,2500,NA,2500
+"Nick Kallerup","TE",2025,3,2500,NA,2500
+"Jack Stoll","TE",2025,3,2500,NA,2600
 "Moliki Matavao","TE",2025,3,2500,NA,NA
-"Taysom Hill","TE",2025,3,2500,NA,NA
-"Foster Moreau","TE",2025,3,2500,NA,NA
-"Mason Pline","TE",2025,3,2500,NA,NA
-"Treyton Welch","TE",2025,3,2500,NA,NA
-"Zach Wood","TE",2025,3,2500,NA,NA
-"Oronde Gadsden II","TE",2025,3,2500,NA,NA
-"Tucker Fisk","TE",2025,3,2500,NA,NA
-"Thomas Yassmin","TE",2025,3,2500,NA,NA
-"Nate Adkins","TE",2025,3,2500,NA,NA
-"Lucas Krull","TE",2025,3,2500,NA,NA
-"Caleb Lohner","TE",2025,3,2500,NA,NA
-"Patrick Murtagh","TE",2025,3,2500,NA,NA
-"Mitchell Fraboni","TE",2025,3,2500,NA,NA
-"John Bates","TE",2025,3,2500,NA,NA
-"Ben Sinnott","TE",2025,3,2500,NA,NA
-"Colson Yankoff","TE",2025,3,2500,NA,NA
-"Tyree Jackson","TE",2025,3,2500,NA,NA
-"Lawrence Cager","TE",2025,3,2500,NA,NA
-"Tyler Ott","TE",2025,3,2500,NA,NA
-"Ian Thomas","TE",2025,3,2500,NA,NA
-"Albert Okwuegbunam Jr.","TE",2025,3,2500,NA,NA
-"Carter Runyon","TE",2025,3,2500,NA,NA
-"Mo Alie-Cox","TE",2025,3,2500,NA,NA
-"Drew Ogletree","TE",2025,3,2500,NA,NA
-"Will Mallory","TE",2025,3,2500,NA,NA
-"Maximilian Mang","TE",2025,3,2500,NA,NA
-"Sean McKeon","TE",2025,3,2500,NA,NA
-"David Martin-Robinson","TE",2025,3,2500,NA,NA
-"Thomas Odukoya","TE",2025,3,2500,NA,NA
+"Taysom Hill","TE",2025,3,2500,NA,2500
+"Foster Moreau","TE",2025,3,2500,NA,2500
+"Mason Pline","TE",2025,3,2500,NA,2500
+"Treyton Welch","TE",2025,3,2500,NA,2500
+"Zach Wood","TE",2025,3,2500,NA,2500
+"Oronde Gadsden II","TE",2025,3,2500,NA,2600
+"Tucker Fisk","TE",2025,3,2500,NA,2500
+"Thomas Yassmin","TE",2025,3,2500,NA,2500
+"Nate Adkins","TE",2025,3,2500,NA,2500
+"Lucas Krull","TE",2025,3,2500,NA,2500
+"Caleb Lohner","TE",2025,3,2500,NA,2500
+"Patrick Murtagh","TE",2025,3,2500,NA,2500
+"Mitchell Fraboni","TE",2025,3,2500,NA,2500
+"John Bates","TE",2025,3,2500,NA,2500
+"Ben Sinnott","TE",2025,3,2500,NA,2500
+"Colson Yankoff","TE",2025,3,2500,NA,2500
+"Tyree Jackson","TE",2025,3,2500,NA,2500
+"Lawrence Cager","TE",2025,3,2500,NA,2500
+"Tyler Ott","TE",2025,3,2500,NA,2500
+"Ian Thomas","TE",2025,3,2500,NA,2500
+"Albert Okwuegbunam Jr.","TE",2025,3,2500,NA,2500
+"Carter Runyon","TE",2025,3,2500,NA,2500
+"Mo Alie-Cox","TE",2025,3,2500,NA,2500
+"Drew Ogletree","TE",2025,3,2500,NA,2500
+"Will Mallory","TE",2025,3,2500,NA,2500
+"Maximilian Mang","TE",2025,3,2500,NA,2500
+"Sean McKeon","TE",2025,3,2500,NA,2500
+"David Martin-Robinson","TE",2025,3,2500,NA,2500
+"Thomas Odukoya","TE",2025,3,2500,NA,2500
 "Drake Dabney","TE",2025,3,2500,NA,NA
-"Ko Kieft","TE",2025,3,2500,NA,NA
-"Devin Culp","TE",2025,3,2500,NA,NA
-"Evan Deckers","TE",2025,3,2500,NA,NA
-"Tanner Taula","TE",2025,3,2500,NA,NA
-"Jeremy Ruckert","TE",2025,3,2500,NA,NA
-"Stone Smartt","TE",2025,3,2500,NA,NA
-"Jelani Woods","TE",2025,3,2500,NA,NA
-"Kylen Granson","TE",2025,3,2500,NA,NA
-"Cameron Latu","TE",2025,3,2500,NA,NA
-"E.J. Jenkins","TE",2025,3,2500,NA,NA
-"Colby Parkinson","TE",2025,3,2500,NA,NA
-"Terrance Ferguson","TE",2025,3,2500,NA,NA
-"Mark Redman","TE",2025,3,2500,NA,NA
-"Darnell Washington","TE",2025,3,2500,NA,NA
-"Donald Parham Jr.","TE",2025,3,2500,NA,NA
-"Connor Heyward","TE",2025,3,2500,NA,NA
+"Ko Kieft","TE",2025,3,2500,NA,2500
+"Devin Culp","TE",2025,3,2500,NA,2500
+"Evan Deckers","TE",2025,3,2500,NA,2500
+"Tanner Taula","TE",2025,3,2500,NA,2500
+"Jeremy Ruckert","TE",2025,3,2500,NA,2500
+"Stone Smartt","TE",2025,3,2500,NA,2500
+"Jelani Woods","TE",2025,3,2500,NA,2500
+"Kylen Granson","TE",2025,3,2500,NA,2500
+"Cameron Latu","TE",2025,3,2500,NA,2500
+"E.J. Jenkins","TE",2025,3,2500,NA,2500
+"Colby Parkinson","TE",2025,3,2500,NA,2500
+"Terrance Ferguson","TE",2025,3,2500,NA,2500
+"Mark Redman","TE",2025,3,2500,NA,2500
+"Darnell Washington","TE",2025,3,2500,NA,2500
+"Donald Parham Jr.","TE",2025,3,2500,NA,2500
+"Connor Heyward","TE",2025,3,2500,NA,2500
 "JJ Galbreath","TE",2025,3,2500,NA,NA
-"CJ Dippre","TE",2025,3,2500,NA,NA
-"Josh Oliver","TE",2025,3,2500,NA,NA
-"Ben Yurosek","TE",2025,3,2500,NA,NA
-"Nick Vannett","TE",2025,3,2500,NA,NA
-"Gavin Bartholomew","TE",2025,3,2500,NA,NA
-"Bryson Nesbit","TE",2025,3,2500,NA,NA
-"Andrew DePaola","TE",2025,3,2500,NA,NA
-"Drew Sample","TE",2025,3,2500,NA,NA
-"Tanner Hudson","TE",2025,3,2500,NA,NA
-"Cam Grandy","TE",2025,3,2500,NA,NA
-"Erick All Jr.","TE",2025,3,2500,NA,NA
-"William Wagner","TE",2025,3,2500,NA,NA
-"Johnny Mundt","TE",2025,3,2500,NA,NA
-"Hunter Long","TE",2025,3,2500,NA,NA
-"Quintin Morris","TE",2025,3,2500,NA,NA
-"Patrick Herbert","TE",2025,3,2500,NA,NA
-"Harrison Bryant","TE",2025,3,2500,NA,NA
-"Cade Stover","TE",2025,3,2500,NA,NA
-"Brevin Jordan","TE",2025,3,2500,NA,NA
-"Irv Smith Jr.","TE",2025,3,2500,NA,NA
-"Luke Lachey","TE",2025,3,2500,NA,NA
-"Jakob Johnson","TE",2025,3,2500,NA,NA
-"John FitzPatrick","TE",2025,3,2500,NA,NA
-"Ben Sims","TE",2025,3,2500,NA,NA
-"Josh Whyle","TE",2025,3,2500,NA,NA
-"Blake Whiteheart","TE",2025,3,2500,NA,NA
-"Brenden Bates","TE",2025,3,2500,NA,NA
-"Sal Cannella","TE",2025,3,2500,NA,NA
-"Tommy Tremble","TE",2025,3,2500,NA,NA
-"Mitchell Evans","TE",2025,3,2500,NA,NA
-"James Mitchell","TE",2025,3,2500,NA,NA
-"Bryce Pierre","TE",2025,3,2500,NA,NA
-"Charlie Woerner","TE",2025,3,2500,NA,NA
-"Teagan Quitoriano","TE",2025,3,2500,NA,NA
-"Feleipe Franks","TE",2025,3,2500,NA,NA
-"Joshua Simon","TE",2025,3,2500,NA,NA
-"Julian Hill","TE",2025,3,2500,NA,NA
-"Tanner Conner","TE",2025,3,2500,NA,NA
-"Jalin Conyers","TE",2025,3,2500,NA,NA
-"Hayden Rucci","TE",2025,3,2500,NA,NA
-"Greg Dulcich","TE",2025,3,2500,NA,NA
-"Jackson Hawes","TE",2025,3,2500,NA,NA
-"Keleki Latu","TE",2025,3,2500,NA,NA
-"Lions","DST",2025,3,2500,NA,NA
-"Titans","DST",2025,3,2500,NA,NA
-"Panthers","DST",2025,3,2500,NA,NA
-"Rams","DST",2025,3,2400,NA,NA
-"Bengals","DST",2025,3,2400,NA,NA
-"Giants","DST",2025,3,2400,NA,NA
-"Saints","DST",2025,3,2300,NA,NA
-"Raiders","DST",2025,3,2300,NA,NA
-"Jets","DST",2025,3,2200,NA,NA
-"Browns","DST",2025,3,2200,NA,NA
-"Dolphins","DST",2025,3,2100,NA,NA
+"CJ Dippre","TE",2025,3,2500,NA,2500
+"Josh Oliver","TE",2025,3,2500,NA,2500
+"Ben Yurosek","TE",2025,3,2500,NA,2500
+"Nick Vannett","TE",2025,3,2500,NA,2500
+"Gavin Bartholomew","TE",2025,3,2500,NA,2500
+"Bryson Nesbit","TE",2025,3,2500,NA,2500
+"Andrew DePaola","TE",2025,3,2500,NA,2500
+"Drew Sample","TE",2025,3,2500,NA,2500
+"Tanner Hudson","TE",2025,3,2500,NA,2500
+"Cam Grandy","TE",2025,3,2500,NA,2500
+"Erick All Jr.","TE",2025,3,2500,NA,2500
+"William Wagner","TE",2025,3,2500,NA,2500
+"Johnny Mundt","TE",2025,3,2500,NA,2500
+"Hunter Long","TE",2025,3,2500,NA,2500
+"Quintin Morris","TE",2025,3,2500,NA,2500
+"Patrick Herbert","TE",2025,3,2500,NA,2500
+"Harrison Bryant","TE",2025,3,2500,NA,2500
+"Cade Stover","TE",2025,3,2500,NA,2500
+"Brevin Jordan","TE",2025,3,2500,NA,2500
+"Irv Smith Jr.","TE",2025,3,2500,NA,2500
+"Luke Lachey","TE",2025,3,2500,NA,2500
+"Jakob Johnson","TE",2025,3,2500,NA,2500
+"John FitzPatrick","TE",2025,3,2500,NA,2500
+"Ben Sims","TE",2025,3,2500,NA,2500
+"Josh Whyle","TE",2025,3,2500,NA,2500
+"Blake Whiteheart","TE",2025,3,2500,NA,2500
+"Brenden Bates","TE",2025,3,2500,NA,2500
+"Sal Cannella","TE",2025,3,2500,NA,2500
+"Tommy Tremble","TE",2025,3,2500,NA,2700
+"Mitchell Evans","TE",2025,3,2500,NA,2500
+"James Mitchell","TE",2025,3,2500,NA,2500
+"Bryce Pierre","TE",2025,3,2500,NA,2500
+"Charlie Woerner","TE",2025,3,2500,NA,2500
+"Teagan Quitoriano","TE",2025,3,2500,NA,2500
+"Feleipe Franks","TE",2025,3,2500,NA,2500
+"Joshua Simon","TE",2025,3,2500,NA,2500
+"Julian Hill","TE",2025,3,2500,NA,2500
+"Tanner Conner","TE",2025,3,2500,NA,2500
+"Jalin Conyers","TE",2025,3,2500,NA,2500
+"Hayden Rucci","TE",2025,3,2500,NA,2500
+"Greg Dulcich","TE",2025,3,2500,NA,2500
+"Jackson Hawes","TE",2025,3,2500,NA,2500
+"Keleki Latu","TE",2025,3,2500,NA,2500
+"Lions","DST",2025,3,2500,NA,3500
+"Titans","DST",2025,3,2500,NA,2300
+"Panthers","DST",2025,3,2500,NA,2500
+"Rams","DST",2025,3,2400,NA,2900
+"Bengals","DST",2025,3,2400,NA,2300
+"Giants","DST",2025,3,2400,NA,2400
+"Saints","DST",2025,3,2300,NA,2000
+"Raiders","DST",2025,3,2300,NA,2600
+"Jets","DST",2025,3,2200,NA,2500
+"Browns","DST",2025,3,2200,NA,2200
+"Dolphins","DST",2025,3,2100,NA,2600
+"Christian McCaffrey","RB",2025,4,8500,NA,NA
+"Bijan Robinson","RB",2025,4,8200,NA,NA
+"Ja'Marr Chase","WR",2025,4,8000,NA,NA
+"Puka Nacua","WR",2025,4,7900,NA,NA
+"CeeDee Lamb","WR",2025,4,7800,NA,NA
+"Josh Allen","QB",2025,4,7700,NA,NA
+"Jahmyr Gibbs","RB",2025,4,7700,NA,NA
+"Saquon Barkley","RB",2025,4,7600,NA,NA
+"Lamar Jackson","QB",2025,4,7500,NA,NA
+"Jonathan Taylor","RB",2025,4,7500,NA,NA
+"Justin Jefferson","WR",2025,4,7500,NA,NA
+"Nico Collins","WR",2025,4,7400,NA,NA
+"Amon-Ra St. Brown","WR",2025,4,7300,NA,NA
+"Derrick Henry","RB",2025,4,7200,NA,NA
+"James Cook III","RB",2025,4,7100,NA,NA
+"Jayden Daniels","QB",2025,4,7000,NA,NA
+"De'Von Achane","RB",2025,4,7000,NA,NA
+"Malik Nabers","WR",2025,4,7000,NA,NA
+"Bucky Irving","RB",2025,4,6900,NA,NA
+"Josh Jacobs","RB",2025,4,6800,NA,NA
+"Emeka Egbuka","WR",2025,4,6800,NA,NA
+"Jalen Hurts","QB",2025,4,6700,NA,NA
+"Zay Flowers","WR",2025,4,6700,NA,NA
+"Chase Brown","RB",2025,4,6600,NA,NA
+"Jaxon Smith-Njigba","WR",2025,4,6600,NA,NA
+"Mike Evans","WR",2025,4,6600,NA,NA
+"Baker Mayfield","QB",2025,4,6500,NA,NA
+"Kenneth Walker III","RB",2025,4,6500,NA,NA
+"Ladd McConkey","WR",2025,4,6500,NA,NA
+"Tyreek Hill","WR",2025,4,6500,NA,NA
+"Jared Goff","QB",2025,4,6400,NA,NA
+"Jordan Mason","RB",2025,4,6400,NA,NA
+"A.J. Brown","WR",2025,4,6400,NA,NA
+"Justin Herbert","QB",2025,4,6300,NA,NA
+"Kyren Williams","RB",2025,4,6300,NA,NA
+"Rome Odunze","WR",2025,4,6300,NA,NA
+"George Pickens","WR",2025,4,6300,NA,NA
+"Jordan Love","QB",2025,4,6200,NA,NA
+"Ashton Jeanty","RB",2025,4,6200,NA,NA
+"Garrett Wilson","WR",2025,4,6200,NA,NA
+"Davante Adams","WR",2025,4,6200,NA,NA
+"Brock Purdy","QB",2025,4,6100,NA,NA
+"Alvin Kamara","RB",2025,4,6100,NA,NA
+"Courtland Sutton","WR",2025,4,6100,NA,NA
+"Brian Thomas Jr.","WR",2025,4,6100,NA,NA
+"Patrick Mahomes","QB",2025,4,6000,NA,NA
+"Chuba Hubbard","RB",2025,4,6000,NA,NA
+"Chris Godwin Jr.","WR",2025,4,6000,NA,NA
+"Deebo Samuel Sr.","WR",2025,4,6000,NA,NA
+"Matthew Stafford","QB",2025,4,5900,NA,NA
+"Omarion Hampton","RB",2025,4,5900,NA,NA
+"Javonte Williams","RB",2025,4,5900,NA,NA
+"Tetairoa McMillan","WR",2025,4,5900,NA,NA
+"Jameson Williams","WR",2025,4,5900,NA,NA
+"Caleb Williams","QB",2025,4,5800,NA,NA
+"Kyler Murray","QB",2025,4,5800,NA,NA
+"J.K. Dobbins","RB",2025,4,5800,NA,NA
+"Travis Etienne Jr.","RB",2025,4,5800,NA,NA
+"Xavier Worthy","WR",2025,4,5800,NA,NA
+"Tee Higgins","WR",2025,4,5800,NA,NA
+"Brock Bowers","TE",2025,4,5800,NA,NA
+"Dak Prescott","QB",2025,4,5700,NA,NA
+"Breece Hall","RB",2025,4,5700,NA,NA
+"David Montgomery","RB",2025,4,5700,NA,NA
+"Ricky Pearsall","WR",2025,4,5700,NA,NA
+"Drake London","WR",2025,4,5700,NA,NA
+"Bo Nix","QB",2025,4,5600,NA,NA
+"Daniel Jones","QB",2025,4,5600,NA,NA
+"Tony Pollard","RB",2025,4,5600,NA,NA
+"DJ Moore","WR",2025,4,5600,NA,NA
+"Keon Coleman","WR",2025,4,5600,NA,NA
+"Trey McBride","TE",2025,4,5600,NA,NA
+"Drake Maye","QB",2025,4,5500,NA,NA
+"Cam Skattebo","RB",2025,4,5500,NA,NA
+"Quinshon Judkins","RB",2025,4,5500,NA,NA
+"Trey Benson","RB",2025,4,5500,NA,NA
+"Quentin Johnston","WR",2025,4,5500,NA,NA
+"Terry McLaurin","WR",2025,4,5500,NA,NA
+"Jaylen Waddle","WR",2025,4,5500,NA,NA
+"Geno Smith","QB",2025,4,5400,NA,NA
+"Jake Browning","QB",2025,4,5400,NA,NA
+"D'Andre Swift","RB",2025,4,5400,NA,NA
+"Jaylen Warren","RB",2025,4,5400,NA,NA
+"DK Metcalf","WR",2025,4,5400,NA,NA
+"Jakobi Meyers","WR",2025,4,5400,NA,NA
+"DeVonta Smith","WR",2025,4,5400,NA,NA
+"C.J. Stroud","QB",2025,4,5300,NA,NA
+"Justin Fields","QB",2025,4,5300,NA,NA
+"Aaron Rodgers","QB",2025,4,5300,NA,NA
+"Jacory Croskey-Merritt","RB",2025,4,5300,NA,NA
+"Keenan Allen","WR",2025,4,5300,NA,NA
+"Khalil Shakir","WR",2025,4,5300,NA,NA
+"Marvin Harrison Jr.","WR",2025,4,5300,NA,NA
+"Trevor Lawrence","QB",2025,4,5200,NA,NA
+"Tua Tagovailoa","QB",2025,4,5200,NA,NA
+"TreVeyon Henderson","RB",2025,4,5200,NA,NA
+"Braelon Allen","RB",2025,4,5200,NA,NA
+"Hollywood Brown","WR",2025,4,5200,NA,NA
+"Matthew Golden","WR",2025,4,5200,NA,NA
+"J.J. McCarthy","QB",2025,4,5100,NA,NA
+"Carson Wentz","QB",2025,4,5100,NA,NA
+"Mac Jones","QB",2025,4,5100,NA,NA
+"Michael Penix Jr.","QB",2025,4,5100,NA,NA
+"Rhamondre Stevenson","RB",2025,4,5100,NA,NA
+"Nick Chubb","RB",2025,4,5100,NA,NA
+"Michael Pittman Jr.","WR",2025,4,5100,NA,NA
+"Chris Olave","WR",2025,4,5100,NA,NA
+"Russell Wilson","QB",2025,4,5000,NA,NA
+"Marcus Mariota","QB",2025,4,5000,NA,NA
+"Sam Darnold","QB",2025,4,5000,NA,NA
+"Isiah Pacheco","RB",2025,4,5000,NA,NA
+"Tyrone Tracy Jr.","RB",2025,4,5000,NA,NA
+"Jauan Jennings","WR",2025,4,5000,NA,NA
+"Wan'Dale Robinson","WR",2025,4,5000,NA,NA
+"Jordan Addison","WR",2025,4,5000,NA,NA
+"Bryce Young","QB",2025,4,4900,NA,NA
+"Rachaad White","RB",2025,4,4900,NA,NA
+"Jeremy McNichols","RB",2025,4,4900,NA,NA
+"Calvin Ridley","WR",2025,4,4900,NA,NA
+"Jerry Jeudy","WR",2025,4,4900,NA,NA
+"Cam Ward","QB",2025,4,4800,NA,NA
+"Tyrod Taylor","QB",2025,4,4800,NA,NA
+"Kareem Hunt","RB",2025,4,4800,NA,NA
+"Bhayshul Tuten","RB",2025,4,4800,NA,NA
+"Zach Charbonnet","RB",2025,4,4800,NA,NA
+"RJ Harvey","RB",2025,4,4800,NA,NA
+"Rashod Bateman","WR",2025,4,4800,NA,NA
+"Travis Kelce","TE",2025,4,4800,NA,NA
+"Joe Flacco","QB",2025,4,4700,NA,NA
+"Spencer Rattler","QB",2025,4,4700,NA,NA
+"Justice Hill","RB",2025,4,4700,NA,NA
+"Tyler Allgeier","RB",2025,4,4700,NA,NA
+"Luther Burden III","WR",2025,4,4700,NA,NA
+"Darnell Mooney","WR",2025,4,4700,NA,NA
+"Cooper Kupp","WR",2025,4,4700,NA,NA
+"Tucker Kraft","TE",2025,4,4700,NA,NA
+"Kirk Cousins","QB",2025,4,4600,NA,NA
+"Antonio Gibson","RB",2025,4,4600,NA,NA
+"Jerome Ford","RB",2025,4,4600,NA,NA
+"Travis Hunter","WR",2025,4,4600,NA,NA
+"Rashid Shaheed","WR",2025,4,4600,NA,NA
+"Tyler Warren","TE",2025,4,4600,NA,NA
+"Jaxson Dart","QB",2025,4,4500,NA,NA
+"Brian Robinson Jr.","RB",2025,4,4500,NA,NA
+"Devin Singletary","RB",2025,4,4500,NA,NA
+"Rico Dowdle","RB",2025,4,4500,NA,NA
+"Ollie Gordon II","RB",2025,4,4500,NA,NA
+"Romeo Doubs","WR",2025,4,4500,NA,NA
+"DeAndre Hopkins","WR",2025,4,4500,NA,NA
+"Stefon Diggs","WR",2025,4,4500,NA,NA
+"Dalton Kincaid","TE",2025,4,4500,NA,NA
+"Jimmy Garoppolo","QB",2025,4,4400,NA,NA
+"Andy Dalton","QB",2025,4,4400,NA,NA
+"Kyle Allen","QB",2025,4,4400,NA,NA
+"Kyle Monangai","RB",2025,4,4400,NA,NA
+"Hassan Haskins","RB",2025,4,4400,NA,NA
+"Woody Marks","RB",2025,4,4400,NA,NA
+"Miles Sanders","RB",2025,4,4400,NA,NA
+"Kenneth Gainwell","RB",2025,4,4400,NA,NA
+"Alec Pierce","WR",2025,4,4400,NA,NA
+"Christian Kirk","WR",2025,4,4400,NA,NA
+"Sam LaPorta","TE",2025,4,4400,NA,NA
+"Cooper Rush","QB",2025,4,4300,NA,NA
+"Tyler Huntley","QB",2025,4,4300,NA,NA
+"Blake Corum","RB",2025,4,4300,NA,NA
+"Will Shipley","RB",2025,4,4300,NA,NA
+"Najee Harris","RB",2025,4,4300,NA,NA
+"Emari Demercado","RB",2025,4,4300,NA,NA
+"Kayshon Boutte","WR",2025,4,4300,NA,NA
+"Joshua Palmer","WR",2025,4,4300,NA,NA
+"Jake Ferguson","TE",2025,4,4300,NA,NA
+"Mark Andrews","TE",2025,4,4300,NA,NA
+"Dillon Gabriel","QB",2025,4,4200,NA,NA
+"Shedeur Sanders","QB",2025,4,4200,NA,NA
+"Tyler Shough","QB",2025,4,4200,NA,NA
+"Zach Wilson","QB",2025,4,4200,NA,NA
+"Keaton Mitchell","RB",2025,4,4200,NA,NA
+"Dylan Sampson","RB",2025,4,4200,NA,NA
+"Chris Rodriguez Jr.","RB",2025,4,4200,NA,NA
+"Cam Akers","RB",2025,4,4200,NA,NA
+"Zavier Scott","RB",2025,4,4200,NA,NA
+"Calvin Austin III","WR",2025,4,4200,NA,NA
+"Tre Tucker","WR",2025,4,4200,NA,NA
+"Cedric Tillman","WR",2025,4,4200,NA,NA
+"Juwan Johnson","TE",2025,4,4200,NA,NA
+"Anthony Richardson Sr.","QB",2025,4,4100,NA,NA
+"Zamir White","RB",2025,4,4100,NA,NA
+"Tank Bigsby","RB",2025,4,4100,NA,NA
+"Kendre Miller","RB",2025,4,4100,NA,NA
+"Troy Franklin","WR",2025,4,4100,NA,NA
+"Dyami Brown","WR",2025,4,4100,NA,NA
+"Josh Downs","WR",2025,4,4100,NA,NA
+"Zach Ertz","TE",2025,4,4100,NA,NA
+"Joe Burrow","QB",2025,4,4000,NA,NA
+"Jarrett Stidham","QB",2025,4,4000,NA,NA
+"Sam Ehlinger","QB",2025,4,4000,NA,NA
+"Brett Rypien","QB",2025,4,4000,NA,NA
+"Sean Clifford","QB",2025,4,4000,NA,NA
+"Mike White","QB",2025,4,4000,NA,NA
+"Brady Cook","QB",2025,4,4000,NA,NA
+"Quinn Ewers","QB",2025,4,4000,NA,NA
+"Malik Willis","QB",2025,4,4000,NA,NA
+"Clayton Tune","QB",2025,4,4000,NA,NA
+"Joe Milton III","QB",2025,4,4000,NA,NA
+"Will Grier","QB",2025,4,4000,NA,NA
+"Kenny Pickett","QB",2025,4,4000,NA,NA
+"Aidan O'Connell","QB",2025,4,4000,NA,NA
+"Cam Miller","QB",2025,4,4000,NA,NA
+"Jeff Driskel","QB",2025,4,4000,NA,NA
+"Tyson Bagent","QB",2025,4,4000,NA,NA
+"Case Keenum","QB",2025,4,4000,NA,NA
+"Gardner Minshew II","QB",2025,4,4000,NA,NA
+"Chris Oladokun","QB",2025,4,4000,NA,NA
+"Nick Mullens","QB",2025,4,4000,NA,NA
+"Seth Henigan","QB",2025,4,4000,NA,NA
+"Adrian Martinez","QB",2025,4,4000,NA,NA
+"Kurtis Rourke","QB",2025,4,4000,NA,NA
+"Stetson Bennett IV","QB",2025,4,4000,NA,NA
+"Riley Leonard","QB",2025,4,4000,NA,NA
+"Teddy Bridgewater","QB",2025,4,4000,NA,NA
+"Connor Bazelak","QB",2025,4,4000,NA,NA
+"Tanner McKee","QB",2025,4,4000,NA,NA
+"Sam Howell","QB",2025,4,4000,NA,NA
+"Kyle McCord","QB",2025,4,4000,NA,NA
+"Trey Lance","QB",2025,4,4000,NA,NA
+"DJ Uiagalelei","QB",2025,4,4000,NA,NA
+"Jameis Winston","QB",2025,4,4000,NA,NA
+"Hendon Hooker","QB",2025,4,4000,NA,NA
+"Joshua Dobbs","QB",2025,4,4000,NA,NA
+"Tommy DeVito","QB",2025,4,4000,NA,NA
+"Brandon Allen","QB",2025,4,4000,NA,NA
+"Will Levis","QB",2025,4,4000,NA,NA
+"Trevor Siemian","QB",2025,4,4000,NA,NA
+"Davis Mills","QB",2025,4,4000,NA,NA
+"Graham Mertz","QB",2025,4,4000,NA,NA
+"C.J. Beathard","QB",2025,4,4000,NA,NA
+"Deshaun Watson","QB",2025,4,4000,NA,NA
+"Bailey Zappe","QB",2025,4,4000,NA,NA
+"Hunter Dekkers","QB",2025,4,4000,NA,NA
+"Jake Haener","QB",2025,4,4000,NA,NA
+"Mitchell Trubisky","QB",2025,4,4000,NA,NA
+"Shane Buechele","QB",2025,4,4000,NA,NA
+"Josh Johnson","QB",2025,4,4000,NA,NA
+"Sam Hartman","QB",2025,4,4000,NA,NA
+"Emory Jones","QB",2025,4,4000,NA,NA
+"Easton Stick","QB",2025,4,4000,NA,NA
+"Drew Lock","QB",2025,4,4000,NA,NA
+"Jalen Milroe","QB",2025,4,4000,NA,NA
+"Jacoby Brissett","QB",2025,4,4000,NA,NA
+"Kedon Slovis","QB",2025,4,4000,NA,NA
+"Mason Rudolph","QB",2025,4,4000,NA,NA
+"Will Howard","QB",2025,4,4000,NA,NA
+"Skylar Thompson","QB",2025,4,4000,NA,NA
+"Logan Woodside","QB",2025,4,4000,NA,NA
+"Max Brosmer","QB",2025,4,4000,NA,NA
+"Desmond Ridder","QB",2025,4,4000,NA,NA
+"James Conner","RB",2025,4,4000,NA,NA
+"Jaylen Wright","RB",2025,4,4000,NA,NA
+"Aaron Jones Sr.","RB",2025,4,4000,NA,NA
+"Jaydon Blue","RB",2025,4,4000,NA,NA
+"Kaleb Johnson","RB",2025,4,4000,NA,NA
+"Tyler Badie","RB",2025,4,4000,NA,NA
+"Jaleel McLaughlin","RB",2025,4,4000,NA,NA
+"Michael Burton","RB",2025,4,4000,NA,NA
+"Adam Prentice","RB",2025,4,4000,NA,NA
+"Deuce Vaughn","RB",2025,4,4000,NA,NA
+"Samaje Perine","RB",2025,4,4000,NA,NA
+"Tahj Brooks","RB",2025,4,4000,NA,NA
+"Gary Brightwell","RB",2025,4,4000,NA,NA
+"Kendall Milton","RB",2025,4,4000,NA,NA
+"Isaiah Davis","RB",2025,4,4000,NA,NA
+"Kene Nwangwu","RB",2025,4,4000,NA,NA
+"Andrew Beck","RB",2025,4,4000,NA,NA
+"Alexander Mattison","RB",2025,4,4000,NA,NA
+"JaMycal Hasty","RB",2025,4,4000,NA,NA
+"Jeff Wilson Jr.","RB",2025,4,4000,NA,NA
+"Alec Ingold","RB",2025,4,4000,NA,NA
+"Emanuel Wilson","RB",2025,4,4000,NA,NA
+"Chris Brooks","RB",2025,4,4000,NA,NA
+"MarShawn Lloyd","RB",2025,4,4000,NA,NA
+"Pierre Strong Jr.","RB",2025,4,4000,NA,NA
+"Phil Mafah","RB",2025,4,4000,NA,NA
+"Hunter Luepke","RB",2025,4,4000,NA,NA
+"Malik Davis","RB",2025,4,4000,NA,NA
+"Dylan Laube","RB",2025,4,4000,NA,NA
+"Raheem Mostert","RB",2025,4,4000,NA,NA
+"Chris Collier","RB",2025,4,4000,NA,NA
+"Roschon Johnson","RB",2025,4,4000,NA,NA
+"Travis Homer","RB",2025,4,4000,NA,NA
+"Deion Hankins","RB",2025,4,4000,NA,NA
+"Brittain Brown","RB",2025,4,4000,NA,NA
+"Rasheen Ali","RB",2025,4,4000,NA,NA
+"D'Ernest Johnson","RB",2025,4,4000,NA,NA
+"Lucas Scott","RB",2025,4,4000,NA,NA
+"Patrick Ricard","RB",2025,4,4000,NA,NA
+"Brashard Smith","RB",2025,4,4000,NA,NA
+"Elijah Mitchell","RB",2025,4,4000,NA,NA
+"Keaontay Ingram","RB",2025,4,4000,NA,NA
+"Clyde Edwards-Helaire","RB",2025,4,4000,NA,NA
+"Carson Steele","RB",2025,4,4000,NA,NA
+"LeQuint Allen Jr.","RB",2025,4,4000,NA,NA
+"Cody Schrader","RB",2025,4,4000,NA,NA
+"Ja'Quinden Jackson","RB",2025,4,4000,NA,NA
+"Isaac Guerendo","RB",2025,4,4000,NA,NA
+"Jordan James","RB",2025,4,4000,NA,NA
+"Patrick Taylor Jr.","RB",2025,4,4000,NA,NA
+"Sincere McCormick","RB",2025,4,4000,NA,NA
+"Kyle Juszczyk","RB",2025,4,4000,NA,NA
+"Jarquez Hunter","RB",2025,4,4000,NA,NA
+"Ronnie Rivers","RB",2025,4,4000,NA,NA
+"DJ Giddens","RB",2025,4,4000,NA,NA
+"Tyler Goodson","RB",2025,4,4000,NA,NA
+"Salvon Ahmed","RB",2025,4,4000,NA,NA
+"Ulysses Bentley IV","RB",2025,4,4000,NA,NA
+"Ameer Abdullah","RB",2025,4,4000,NA,NA
+"Sean Tucker","RB",2025,4,4000,NA,NA
+"Josh Williams","RB",2025,4,4000,NA,NA
+"A.J. Dillon","RB",2025,4,4000,NA,NA
+"Ben VanSumeren","RB",2025,4,4000,NA,NA
+"Audric Estime","RB",2025,4,4000,NA,NA
+"Scott Matlock","RB",2025,4,4000,NA,NA
+"Amar Johnson","RB",2025,4,4000,NA,NA
+"Kimani Vidal","RB",2025,4,4000,NA,NA
+"Eric Gray","RB",2025,4,4000,NA,NA
+"Dante Miller","RB",2025,4,4000,NA,NA
+"Trevor Etienne","RB",2025,4,4000,NA,NA
+"Jonathon Brooks","RB",2025,4,4000,NA,NA
+"DeeJay Dallas","RB",2025,4,4000,NA,NA
+"Lan Larison","RB",2025,4,4000,NA,NA
+"Deneric Prince","RB",2025,4,4000,NA,NA
+"Terrell Jennings","RB",2025,4,4000,NA,NA
+"Jack Westover","RB",2025,4,4000,NA,NA
+"Brock Lampe","RB",2025,4,4000,NA,NA
+"Julius Chestnut","RB",2025,4,4000,NA,NA
+"Kalel Mullings","RB",2025,4,4000,NA,NA
+"Tyjae Spears","RB",2025,4,4000,NA,NA
+"Jordan Mims","RB",2025,4,4000,NA,NA
+"Dare Ogunbowale","RB",2025,4,4000,NA,NA
+"Dameon Pierce","RB",2025,4,4000,NA,NA
+"British Brooks","RB",2025,4,4000,NA,NA
+"Joe Mixon","RB",2025,4,4000,NA,NA
+"Jawhar Jordan","RB",2025,4,4000,NA,NA
+"Craig Reynolds","RB",2025,4,4000,NA,NA
+"Sione Vaki","RB",2025,4,4000,NA,NA
+"Jacob Saylors","RB",2025,4,4000,NA,NA
+"Kye Robichaux","RB",2025,4,4000,NA,NA
+"Raheim Sanders","RB",2025,4,4000,NA,NA
+"Ahmani Marshall","RB",2025,4,4000,NA,NA
+"Devin Neal","RB",2025,4,4000,NA,NA
+"Velus Jones Jr.","RB",2025,4,4000,NA,NA
+"Ray Davis","RB",2025,4,4000,NA,NA
+"Ty Johnson","RB",2025,4,4000,NA,NA
+"Frank Gore Jr.","RB",2025,4,4000,NA,NA
+"Reggie Gilliam","RB",2025,4,4000,NA,NA
+"Austin Ekeler","RB",2025,4,4000,NA,NA
+"Donovan Edwards","RB",2025,4,4000,NA,NA
+"Chase Edmonds","RB",2025,4,4000,NA,NA
+"Nathan Carter","RB",2025,4,4000,NA,NA
+"Carlos Washington Jr.","RB",2025,4,4000,NA,NA
+"George Holani","RB",2025,4,4000,NA,NA
+"Jacardia Wright","RB",2025,4,4000,NA,NA
+"Kenny McIntosh","RB",2025,4,4000,NA,NA
+"Brady Russell","RB",2025,4,4000,NA,NA
+"Robbie Ouzts","RB",2025,4,4000,NA,NA
+"Zonovan Knight","RB",2025,4,4000,NA,NA
+"Michael Carter","RB",2025,4,4000,NA,NA
+"Trey Sermon","RB",2025,4,4000,NA,NA
+"Lew Nichols","RB",2025,4,4000,NA,NA
+"Ty Chandler","RB",2025,4,4000,NA,NA
+"C.J. Ham","RB",2025,4,4000,NA,NA
+"Xazavian Valladay","RB",2025,4,4000,NA,NA
+"Adam Thielen","WR",2025,4,4000,NA,NA
+"Tyquan Thornton","WR",2025,4,4000,NA,NA
+"Sterling Shepard","WR",2025,4,4000,NA,NA
+"Dontayvion Wicks","WR",2025,4,4000,NA,NA
+"Hunter Henry","TE",2025,4,4000,NA,NA
+"Dont'e Thornton Jr.","WR",2025,4,3900,NA,NA
+"Elic Ayomanor","WR",2025,4,3900,NA,NA
+"Jayden Higgins","WR",2025,4,3900,NA,NA
+"Dallas Goedert","TE",2025,4,3900,NA,NA
+"T.J. Hockenson","TE",2025,4,3900,NA,NA
+"JuJu Smith-Schuster","WR",2025,4,3800,NA,NA
+"Hunter Renfrow","WR",2025,4,3800,NA,NA
+"DeMario Douglas","WR",2025,4,3800,NA,NA
+"KaVontae Turpin","WR",2025,4,3800,NA,NA
+"David Njoku","TE",2025,4,3800,NA,NA
+"Parker Washington","WR",2025,4,3700,NA,NA
+"Kendrick Bourne","WR",2025,4,3700,NA,NA
+"Darius Slayton","WR",2025,4,3700,NA,NA
+"Ray-Ray McCloud III","WR",2025,4,3700,NA,NA
+"Tory Horton","WR",2025,4,3700,NA,NA
+"Marvin Mims Jr.","WR",2025,4,3700,NA,NA
+"Harold Fannin Jr.","TE",2025,4,3700,NA,NA
+"Evan Engram","TE",2025,4,3700,NA,NA
+"Bills","DST",2025,4,3700,NA,NA
+"Jack Bech","WR",2025,4,3600,NA,NA
+"Olamide Zaccheaus","WR",2025,4,3600,NA,NA
+"Brandin Cooks","WR",2025,4,3600,NA,NA
+"Elijah Moore","WR",2025,4,3600,NA,NA
+"Kyle Pitts Sr.","TE",2025,4,3600,NA,NA
+"Jalen Nailor","WR",2025,4,3500,NA,NA
+"Demarcus Robinson","WR",2025,4,3500,NA,NA
+"Xavier Legette","WR",2025,4,3500,NA,NA
+"Tyler Lockett","WR",2025,4,3500,NA,NA
+"Isaac TeSlaa","WR",2025,4,3500,NA,NA
+"Malik Washington","WR",2025,4,3500,NA,NA
+"Josh Reynolds","WR",2025,4,3500,NA,NA
+"Chig Okonkwo","TE",2025,4,3500,NA,NA
+"Darren Waller","TE",2025,4,3500,NA,NA
+"Lions","DST",2025,4,3500,NA,NA
+"Devontez Walker","WR",2025,4,3400,NA,NA
+"Jahan Dotson","WR",2025,4,3400,NA,NA
+"Xavier Hutchinson","WR",2025,4,3400,NA,NA
+"Luke McCaffrey","WR",2025,4,3400,NA,NA
+"Cade Otton","TE",2025,4,3400,NA,NA
+"Packers","DST",2025,4,3400,NA,NA
+"Texans","DST",2025,4,3400,NA,NA
+"Jalen Tolbert","WR",2025,4,3300,NA,NA
+"Jalen Royals","WR",2025,4,3300,NA,NA
+"Marquez Valdes-Scantling","WR",2025,4,3300,NA,NA
+"Mack Hollins","WR",2025,4,3300,NA,NA
+"Jaylin Lane","WR",2025,4,3300,NA,NA
+"Michael Wilson","WR",2025,4,3300,NA,NA
+"Isaiah Likely","TE",2025,4,3300,NA,NA
+"Dalton Schultz","TE",2025,4,3300,NA,NA
+"Jonnu Smith","TE",2025,4,3300,NA,NA
+"Vikings","DST",2025,4,3300,NA,NA
+"Chargers","DST",2025,4,3300,NA,NA
+"Allen Lazard","WR",2025,4,3200,NA,NA
+"Tylan Wallace","WR",2025,4,3200,NA,NA
+"Tez Johnson","WR",2025,4,3200,NA,NA
+"Kalif Raymond","WR",2025,4,3200,NA,NA
+"Curtis Samuel","WR",2025,4,3200,NA,NA
+"Greg Dortch","WR",2025,4,3200,NA,NA
+"Brenton Strange","TE",2025,4,3200,NA,NA
+"Ja'Tavion Sanders","TE",2025,4,3200,NA,NA
+"Broncos","DST",2025,4,3200,NA,NA
+"49ers","DST",2025,4,3200,NA,NA
+"Andrei Iosivas","WR",2025,4,3100,NA,NA
+"Adonai Mitchell","WR",2025,4,3100,NA,NA
+"Ryan Miller","WR",2025,4,3100,NA,NA
+"Isaiah Bond","WR",2025,4,3100,NA,NA
+"Devaughn Vele","WR",2025,4,3100,NA,NA
+"Colston Loveland","TE",2025,4,3100,NA,NA
+"Jake Tonges","TE",2025,4,3100,NA,NA
+"Noah Fant","TE",2025,4,3100,NA,NA
+"Patriots","DST",2025,4,3100,NA,NA
+"Steelers","DST",2025,4,3100,NA,NA
+"Malik Heath","WR",2025,4,3000,NA,NA
+"Pat Bryant","WR",2025,4,3000,NA,NA
+"Ben Skowronek","WR",2025,4,3000,NA,NA
+"Trent Sherfield Sr.","WR",2025,4,3000,NA,NA
+"A.T. Perry","WR",2025,4,3000,NA,NA
+"Michael Bandy","WR",2025,4,3000,NA,NA
+"Thayer Thomas","WR",2025,4,3000,NA,NA
+"Mitchell Tinsley","WR",2025,4,3000,NA,NA
+"Charlie Jones","WR",2025,4,3000,NA,NA
+"Jermaine Burton","WR",2025,4,3000,NA,NA
+"Kendric Pryor","WR",2025,4,3000,NA,NA
+"Jordan Moore","WR",2025,4,3000,NA,NA
+"Tyler Johnson","WR",2025,4,3000,NA,NA
+"Arian Smith","WR",2025,4,3000,NA,NA
+"Isaiah Williams","WR",2025,4,3000,NA,NA
+"Irvin Charles","WR",2025,4,3000,NA,NA
+"Jamaal Pritchett","WR",2025,4,3000,NA,NA
+"Quentin Skinner","WR",2025,4,3000,NA,NA
+"Brandon Smith","WR",2025,4,3000,NA,NA
+"Dee Eskridge","WR",2025,4,3000,NA,NA
+"Tahj Washington","WR",2025,4,3000,NA,NA
+"A.J. Henning","WR",2025,4,3000,NA,NA
+"Theo Wease Jr.","WR",2025,4,3000,NA,NA
+"Savion Williams","WR",2025,4,3000,NA,NA
+"Christian Watson","WR",2025,4,3000,NA,NA
+"Jayden Reed","WR",2025,4,3000,NA,NA
+"Isaiah Neyor","WR",2025,4,3000,NA,NA
+"Mecole Hardman","WR",2025,4,3000,NA,NA
+"Will Sheppard","WR",2025,4,3000,NA,NA
+"Ryan Flournoy","WR",2025,4,3000,NA,NA
+"Jonathan Mingo","WR",2025,4,3000,NA,NA
+"Jalen Brooks","WR",2025,4,3000,NA,NA
+"Jalen Cropper","WR",2025,4,3000,NA,NA
+"Traeshon Holden","WR",2025,4,3000,NA,NA
+"Justin Shorter","WR",2025,4,3000,NA,NA
+"Alex Bachman","WR",2025,4,3000,NA,NA
+"Shedrick Jackson","WR",2025,4,3000,NA,NA
+"Phillip Dorsett II","WR",2025,4,3000,NA,NA
+"Devin Duvernay","WR",2025,4,3000,NA,NA
+"Jahdae Walker","WR",2025,4,3000,NA,NA
+"JP Richardson","WR",2025,4,3000,NA,NA
+"Miles Boykin","WR",2025,4,3000,NA,NA
+"Maurice Alexander","WR",2025,4,3000,NA,NA
+"LaJohntay Wester","WR",2025,4,3000,NA,NA
+"Dayton Wade","WR",2025,4,3000,NA,NA
+"Anthony Miller","WR",2025,4,3000,NA,NA
+"Keith Kirkwood","WR",2025,4,3000,NA,NA
+"Cornelius Johnson","WR",2025,4,3000,NA,NA
+"Jason Brownlee","WR",2025,4,3000,NA,NA
+"Nikko Remigio","WR",2025,4,3000,NA,NA
+"Rashee Rice","WR",2025,4,3000,NA,NA
+"Jimmy Holiday","WR",2025,4,3000,NA,NA
+"Tim Patrick","WR",2025,4,3000,NA,NA
+"Joshua Cephus","WR",2025,4,3000,NA,NA
+"Erik Ezukanma","WR",2025,4,3000,NA,NA
+"Chandler Brayboy","WR",2025,4,3000,NA,NA
+"Austin Trammell","WR",2025,4,3000,NA,NA
+"Skyy Moore","WR",2025,4,3000,NA,NA
+"Jordan Watkins","WR",2025,4,3000,NA,NA
+"Malik Turner","WR",2025,4,3000,NA,NA
+"Brandon Aiyuk","WR",2025,4,3000,NA,NA
+"Jacob Cowing","WR",2025,4,3000,NA,NA
+"Russell Gage Jr.","WR",2025,4,3000,NA,NA
+"Junior Bergen","WR",2025,4,3000,NA,NA
+"Trent Taylor","WR",2025,4,3000,NA,NA
+"Jordan Whittington","WR",2025,4,3000,NA,NA
+"Tutu Atwell","WR",2025,4,3000,NA,NA
+"Konata Mumpfield","WR",2025,4,3000,NA,NA
+"Xavier Smith","WR",2025,4,3000,NA,NA
+"Tru Edwards","WR",2025,4,3000,NA,NA
+"Brennan Presley","WR",2025,4,3000,NA,NA
+"Ashton Dulin","WR",2025,4,3000,NA,NA
+"Anthony Gould","WR",2025,4,3000,NA,NA
+"D.J. Montgomery","WR",2025,4,3000,NA,NA
+"Laquon Treadwell","WR",2025,4,3000,NA,NA
+"Tyler Scott","WR",2025,4,3000,NA,NA
+"Coleman Owen","WR",2025,4,3000,NA,NA
+"Kameron Johnson","WR",2025,4,3000,NA,NA
+"Jalen McMillan","WR",2025,4,3000,NA,NA
+"Jaden Smith","WR",2025,4,3000,NA,NA
+"Garrett Greene","WR",2025,4,3000,NA,NA
+"Dennis Houston","WR",2025,4,3000,NA,NA
+"Darius Cooper","WR",2025,4,3000,NA,NA
+"John Metchie III","WR",2025,4,3000,NA,NA
+"Johnny Wilson","WR",2025,4,3000,NA,NA
+"Javon Baker","WR",2025,4,3000,NA,NA
+"Britain Covey","WR",2025,4,3000,NA,NA
+"Terrace Marshall","WR",2025,4,3000,NA,NA
+"Tre' Harris","WR",2025,4,3000,NA,NA
+"Derius Davis","WR",2025,4,3000,NA,NA
+"KeAndre Lambert-Smith","WR",2025,4,3000,NA,NA
+"JaQuae Jackson","WR",2025,4,3000,NA,NA
+"Luke Grimm","WR",2025,4,3000,NA,NA
+"Jalin Hyatt","WR",2025,4,3000,NA,NA
+"Beaux Collins","WR",2025,4,3000,NA,NA
+"Gunner Olszewski","WR",2025,4,3000,NA,NA
+"Bryce Ford-Wheaton","WR",2025,4,3000,NA,NA
+"Da'Quan Felton","WR",2025,4,3000,NA,NA
+"Ihmir Smith-Marsette","WR",2025,4,3000,NA,NA
+"Lil'Jordan Humphrey","WR",2025,4,3000,NA,NA
+"Dalen Cambre","WR",2025,4,3000,NA,NA
+"David Moore","WR",2025,4,3000,NA,NA
+"Brycen Tremayne","WR",2025,4,3000,NA,NA
+"Jimmy Horn Jr.","WR",2025,4,3000,NA,NA
+"Dalevon Campbell","WR",2025,4,3000,NA,NA
+"Jalen Coker","WR",2025,4,3000,NA,NA
+"Ja'seem Reed","WR",2025,4,3000,NA,NA
+"Ainias Smith","WR",2025,4,3000,NA,NA
+"Kyle Williams","WR",2025,4,3000,NA,NA
+"Efton Chism III","WR",2025,4,3000,NA,NA
+"John Jiles","WR",2025,4,3000,NA,NA
+"Jeremiah Webb","WR",2025,4,3000,NA,NA
+"Chimere Dike","WR",2025,4,3000,NA,NA
+"Van Jefferson","WR",2025,4,3000,NA,NA
+"Bryce Oliver","WR",2025,4,3000,NA,NA
+"Treylon Burks","WR",2025,4,3000,NA,NA
+"Mason Kinsey","WR",2025,4,3000,NA,NA
+"Xavier Restrepo","WR",2025,4,3000,NA,NA
+"James Proche II","WR",2025,4,3000,NA,NA
+"Jaylin Noel","WR",2025,4,3000,NA,NA
+"Braxton Berrios","WR",2025,4,3000,NA,NA
+"Tank Dell","WR",2025,4,3000,NA,NA
+"Justin Watson","WR",2025,4,3000,NA,NA
+"Josh Kelly","WR",2025,4,3000,NA,NA
+"Jared Wayne","WR",2025,4,3000,NA,NA
+"Dominic Lovett","WR",2025,4,3000,NA,NA
+"Jackson Meeks","WR",2025,4,3000,NA,NA
+"Tom Kennedy","WR",2025,4,3000,NA,NA
+"Malik Cunningham","WR",2025,4,3000,NA,NA
+"Ronnie Bell","WR",2025,4,3000,NA,NA
+"Jamari Thrash","WR",2025,4,3000,NA,NA
+"DeAndre Carter","WR",2025,4,3000,NA,NA
+"Kaden Davis","WR",2025,4,3000,NA,NA
+"David Bell","WR",2025,4,3000,NA,NA
+"Cade McDonald","WR",2025,4,3000,NA,NA
+"Malachi Corley","WR",2025,4,3000,NA,NA
+"Gage Larvadain","WR",2025,4,3000,NA,NA
+"Mason Tipton","WR",2025,4,3000,NA,NA
+"Trey Palmer","WR",2025,4,3000,NA,NA
+"Kevin Austin Jr.","WR",2025,4,3000,NA,NA
+"Ja'Lynn Polk","WR",2025,4,3000,NA,NA
+"Bub Means","WR",2025,4,3000,NA,NA
+"Tommy Mellott","WR",2025,4,3000,NA,NA
+"Tyrell Shavers","WR",2025,4,3000,NA,NA
+"Kristian Wilkerson","WR",2025,4,3000,NA,NA
+"Stephen Gosnell","WR",2025,4,3000,NA,NA
+"Noah Brown","WR",2025,4,3000,NA,NA
+"Chris Moore","WR",2025,4,3000,NA,NA
+"Tay Martin","WR",2025,4,3000,NA,NA
+"Ja'Corey Brooks","WR",2025,4,3000,NA,NA
+"Jacoby Jones","WR",2025,4,3000,NA,NA
+"Casey Washington","WR",2025,4,3000,NA,NA
+"KhaDarel Hodge","WR",2025,4,3000,NA,NA
+"Jamal Agnew","WR",2025,4,3000,NA,NA
+"David Sills V","WR",2025,4,3000,NA,NA
+"Dylan Drummond","WR",2025,4,3000,NA,NA
+"Nick Nash","WR",2025,4,3000,NA,NA
+"Chris Blair","WR",2025,4,3000,NA,NA
+"Jake Bobo","WR",2025,4,3000,NA,NA
+"Dareke Young","WR",2025,4,3000,NA,NA
+"Tyrone Broden","WR",2025,4,3000,NA,NA
+"Ricky White III","WR",2025,4,3000,NA,NA
+"Cody White","WR",2025,4,3000,NA,NA
+"Courtney Jackson","WR",2025,4,3000,NA,NA
+"Zay Jones","WR",2025,4,3000,NA,NA
+"Xavier Weaver","WR",2025,4,3000,NA,NA
+"Simi Fehoko","WR",2025,4,3000,NA,NA
+"Trishton Jackson","WR",2025,4,3000,NA,NA
+"Tejhaun Palmer","WR",2025,4,3000,NA,NA
+"Andre Baccellia","WR",2025,4,3000,NA,NA
+"Roman Wilson","WR",2025,4,3000,NA,NA
+"Scotty Miller","WR",2025,4,3000,NA,NA
+"Isaiah Hodgins","WR",2025,4,3000,NA,NA
+"Max Hurleman","WR",2025,4,3000,NA,NA
+"Ke'Shawn Williams","WR",2025,4,3000,NA,NA
+"Tai Felton","WR",2025,4,3000,NA,NA
+"Myles Price","WR",2025,4,3000,NA,NA
+"Tim Jones","WR",2025,4,3000,NA,NA
+"Rondale Moore","WR",2025,4,3000,NA,NA
+"Dontae Fleming","WR",2025,4,3000,NA,NA
+"Jeshaun Jones","WR",2025,4,3000,NA,NA
+"Lucky Jackson","WR",2025,4,3000,NA,NA
+"Nick Westbrook-Ikhine","WR",2025,4,3000,NA,NA
+"Cole Kmet","TE",2025,4,3000,NA,NA
+"Luke Farrell","TE",2025,4,3000,NA,NA
+"Austin Hooper","TE",2025,4,3000,NA,NA
+"Eagles","DST",2025,4,3000,NA,NA
+"Commanders","DST",2025,4,3000,NA,NA
+"Mike Gesicki","TE",2025,4,2900,NA,NA
+"Will Dissly","TE",2025,4,2900,NA,NA
+"Theo Johnson","TE",2025,4,2900,NA,NA
+"Brock Wright","TE",2025,4,2900,NA,NA
+"Bears","DST",2025,4,2900,NA,NA
+"Rams","DST",2025,4,2900,NA,NA
+"Cardinals","DST",2025,4,2900,NA,NA
+"Michael Mayer","TE",2025,4,2800,NA,NA
+"Charlie Kolar","TE",2025,4,2800,NA,NA
+"Tyler Higbee","TE",2025,4,2800,NA,NA
+"AJ Barner","TE",2025,4,2800,NA,NA
+"Pat Freiermuth","TE",2025,4,2800,NA,NA
+"Chiefs","DST",2025,4,2800,NA,NA
+"Buccaneers","DST",2025,4,2800,NA,NA
+"Seahawks","DST",2025,4,2800,NA,NA
+"Mason Taylor","TE",2025,4,2700,NA,NA
+"Noah Gray","TE",2025,4,2700,NA,NA
+"Tyler Conklin","TE",2025,4,2700,NA,NA
+"Tommy Tremble","TE",2025,4,2700,NA,NA
+"Ravens","DST",2025,4,2700,NA,NA
+"Falcons","DST",2025,4,2700,NA,NA
+"Oronde Gadsden II","TE",2025,4,2600,NA,NA
+"Gunnar Helm","TE",2025,4,2600,NA,NA
+"Jack Stoll","TE",2025,4,2600,NA,NA
+"Adam Trautman","TE",2025,4,2600,NA,NA
+"Dolphins","DST",2025,4,2600,NA,NA
+"Raiders","DST",2025,4,2600,NA,NA
+"Colts","DST",2025,4,2600,NA,NA
+"Luke Musgrave","TE",2025,4,2500,NA,NA
+"Lucas Krull","TE",2025,4,2500,NA,NA
+"Nate Adkins","TE",2025,4,2500,NA,NA
+"Patrick Murtagh","TE",2025,4,2500,NA,NA
+"Caleb Lohner","TE",2025,4,2500,NA,NA
+"Mitchell Fraboni","TE",2025,4,2500,NA,NA
+"Drew Sample","TE",2025,4,2500,NA,NA
+"Tanner Hudson","TE",2025,4,2500,NA,NA
+"Cam Grandy","TE",2025,4,2500,NA,NA
+"Erick All Jr.","TE",2025,4,2500,NA,NA
+"William Wagner","TE",2025,4,2500,NA,NA
+"Jeremy Ruckert","TE",2025,4,2500,NA,NA
+"Stone Smartt","TE",2025,4,2500,NA,NA
+"Jelani Woods","TE",2025,4,2500,NA,NA
+"Julian Hill","TE",2025,4,2500,NA,NA
+"Tanner Conner","TE",2025,4,2500,NA,NA
+"Jalin Conyers","TE",2025,4,2500,NA,NA
+"Greg Dulcich","TE",2025,4,2500,NA,NA
+"Hayden Rucci","TE",2025,4,2500,NA,NA
+"John FitzPatrick","TE",2025,4,2500,NA,NA
+"Ben Sims","TE",2025,4,2500,NA,NA
+"Josh Whyle","TE",2025,4,2500,NA,NA
+"Luke Schoonmaker","TE",2025,4,2500,NA,NA
+"Brevyn Spann-Ford","TE",2025,4,2500,NA,NA
+"John Stephens Jr.","TE",2025,4,2500,NA,NA
+"Princeton Fant","TE",2025,4,2500,NA,NA
+"Rivaldo Fairweather","TE",2025,4,2500,NA,NA
+"Ian Thomas","TE",2025,4,2500,NA,NA
+"Albert Okwuegbunam Jr.","TE",2025,4,2500,NA,NA
+"Carter Runyon","TE",2025,4,2500,NA,NA
+"Durham Smythe","TE",2025,4,2500,NA,NA
+"Nikola Kalinic","TE",2025,4,2500,NA,NA
+"Stephen Carlson","TE",2025,4,2500,NA,NA
+"Zaire Mitchell-Paden","TE",2025,4,2500,NA,NA
+"Robert Tonyan","TE",2025,4,2500,NA,NA
+"Jared Wiley","TE",2025,4,2500,NA,NA
+"Jake Briningstool","TE",2025,4,2500,NA,NA
+"Tre Watson","TE",2025,4,2500,NA,NA
+"James Winchester","TE",2025,4,2500,NA,NA
+"Johnny Mundt","TE",2025,4,2500,NA,NA
+"Hunter Long","TE",2025,4,2500,NA,NA
+"Quintin Morris","TE",2025,4,2500,NA,NA
+"Patrick Herbert","TE",2025,4,2500,NA,NA
+"Brayden Willis","TE",2025,4,2500,NA,NA
+"George Kittle","TE",2025,4,2500,NA,NA
+"Messiah Swinson","TE",2025,4,2500,NA,NA
+"Colby Parkinson","TE",2025,4,2500,NA,NA
+"Davis Allen","TE",2025,4,2500,NA,NA
+"Terrance Ferguson","TE",2025,4,2500,NA,NA
+"Mark Redman","TE",2025,4,2500,NA,NA
+"Mo Alie-Cox","TE",2025,4,2500,NA,NA
+"Drew Ogletree","TE",2025,4,2500,NA,NA
+"Will Mallory","TE",2025,4,2500,NA,NA
+"Maximilian Mang","TE",2025,4,2500,NA,NA
+"Sean McKeon","TE",2025,4,2500,NA,NA
+"Payne Durham","TE",2025,4,2500,NA,NA
+"Ko Kieft","TE",2025,4,2500,NA,NA
+"Devin Culp","TE",2025,4,2500,NA,NA
+"Tanner Taula","TE",2025,4,2500,NA,NA
+"Evan Deckers","TE",2025,4,2500,NA,NA
+"Grant Calcaterra","TE",2025,4,2500,NA,NA
+"Kylen Granson","TE",2025,4,2500,NA,NA
+"Cameron Latu","TE",2025,4,2500,NA,NA
+"E.J. Jenkins","TE",2025,4,2500,NA,NA
+"Tucker Fisk","TE",2025,4,2500,NA,NA
+"Thomas Yassmin","TE",2025,4,2500,NA,NA
+"Daniel Bellinger","TE",2025,4,2500,NA,NA
+"Chris Manhertz","TE",2025,4,2500,NA,NA
+"Thomas Fidone II","TE",2025,4,2500,NA,NA
+"Mitchell Evans","TE",2025,4,2500,NA,NA
+"James Mitchell","TE",2025,4,2500,NA,NA
+"Bryce Pierre","TE",2025,4,2500,NA,NA
+"CJ Dippre","TE",2025,4,2500,NA,NA
+"David Martin-Robinson","TE",2025,4,2500,NA,NA
+"Thomas Odukoya","TE",2025,4,2500,NA,NA
+"Joel Wilson","TE",2025,4,2500,NA,NA
+"Harrison Bryant","TE",2025,4,2500,NA,NA
+"Brenden Bates","TE",2025,4,2500,NA,NA
+"Cade Stover","TE",2025,4,2500,NA,NA
+"Brevin Jordan","TE",2025,4,2500,NA,NA
+"Irv Smith Jr.","TE",2025,4,2500,NA,NA
+"Luke Lachey","TE",2025,4,2500,NA,NA
+"Jakob Johnson","TE",2025,4,2500,NA,NA
+"Shane Zylstra","TE",2025,4,2500,NA,NA
+"Kenny Yeboah","TE",2025,4,2500,NA,NA
+"Zach Horton","TE",2025,4,2500,NA,NA
+"Ross Dwelley","TE",2025,4,2500,NA,NA
+"Blake Whiteheart","TE",2025,4,2500,NA,NA
+"Sal Cannella","TE",2025,4,2500,NA,NA
+"Treyton Welch","TE",2025,4,2500,NA,NA
+"Taysom Hill","TE",2025,4,2500,NA,NA
+"Foster Moreau","TE",2025,4,2500,NA,NA
+"Mason Pline","TE",2025,4,2500,NA,NA
+"Zach Wood","TE",2025,4,2500,NA,NA
+"Dawson Knox","TE",2025,4,2500,NA,NA
+"Jackson Hawes","TE",2025,4,2500,NA,NA
+"Keleki Latu","TE",2025,4,2500,NA,NA
+"John Bates","TE",2025,4,2500,NA,NA
+"Ben Sinnott","TE",2025,4,2500,NA,NA
+"Colson Yankoff","TE",2025,4,2500,NA,NA
+"Tyree Jackson","TE",2025,4,2500,NA,NA
+"Tyler Ott","TE",2025,4,2500,NA,NA
+"Lawrence Cager","TE",2025,4,2500,NA,NA
+"Charlie Woerner","TE",2025,4,2500,NA,NA
+"Teagan Quitoriano","TE",2025,4,2500,NA,NA
+"Feleipe Franks","TE",2025,4,2500,NA,NA
+"Joshua Simon","TE",2025,4,2500,NA,NA
+"Elijah Arroyo","TE",2025,4,2500,NA,NA
+"Eric Saubert","TE",2025,4,2500,NA,NA
+"Nick Kallerup","TE",2025,4,2500,NA,NA
+"Tip Reiman","TE",2025,4,2500,NA,NA
+"Elijah Higgins","TE",2025,4,2500,NA,NA
+"Travis Vokolek","TE",2025,4,2500,NA,NA
+"Josiah Deguara","TE",2025,4,2500,NA,NA
+"Darnell Washington","TE",2025,4,2500,NA,NA
+"Donald Parham Jr.","TE",2025,4,2500,NA,NA
+"Matt Sokol","TE",2025,4,2500,NA,NA
+"Connor Heyward","TE",2025,4,2500,NA,NA
+"Josh Oliver","TE",2025,4,2500,NA,NA
+"Ben Yurosek","TE",2025,4,2500,NA,NA
+"Nick Vannett","TE",2025,4,2500,NA,NA
+"Gavin Bartholomew","TE",2025,4,2500,NA,NA
+"Andrew DePaola","TE",2025,4,2500,NA,NA
+"Bryson Nesbit","TE",2025,4,2500,NA,NA
+"Jets","DST",2025,4,2500,NA,NA
+"Jaguars","DST",2025,4,2500,NA,NA
+"Panthers","DST",2025,4,2500,NA,NA
+"Giants","DST",2025,4,2400,NA,NA
+"Cowboys","DST",2025,4,2400,NA,NA
+"Titans","DST",2025,4,2300,NA,NA
+"Bengals","DST",2025,4,2300,NA,NA
+"Browns","DST",2025,4,2200,NA,NA
+"Saints","DST",2025,4,2000,NA,NA
